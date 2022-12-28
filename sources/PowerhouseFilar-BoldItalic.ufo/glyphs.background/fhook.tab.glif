@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fhook.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="150" y="366" type="line"/>
+      <point x="512" y="366" type="line"/>
+      <point x="512" y="470" type="line"/>
+      <point x="150" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="149" type="curve" smooth="yes"/>
+      <point x="442" y="542" type="line" smooth="yes"/>
+      <point x="455" y="583"/>
+      <point x="474" y="600"/>
+      <point x="515" y="600" type="curve" smooth="yes"/>
+      <point x="525" y="600"/>
+      <point x="541" y="599"/>
+      <point x="557" y="597" type="curve"/>
+      <point x="557" y="708" type="line"/>
+      <point x="536" y="711"/>
+      <point x="513" y="712"/>
+      <point x="498" y="712" type="curve" smooth="yes"/>
+      <point x="392" y="712"/>
+      <point x="337" y="661"/>
+      <point x="303" y="554" type="curve" smooth="yes"/>
+      <point x="176" y="158" type="line" smooth="yes"/>
+      <point x="163" y="118"/>
+      <point x="149" y="100"/>
+      <point x="102" y="100" type="curve" smooth="yes"/>
+      <point x="90" y="100"/>
+      <point x="79" y="101"/>
+      <point x="60" y="104" type="curve"/>
+      <point x="60" y="-7" type="line"/>
+      <point x="77" y="-10"/>
+      <point x="99" y="-12"/>
+      <point x="120" y="-12" type="curve" smooth="yes"/>
+      <point x="218" y="-12"/>
+      <point x="279" y="38"/>
+    </contour>
+  </outline>
+</glyph>

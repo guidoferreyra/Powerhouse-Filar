@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="534"/>
+  <unicode hex="006B"/>
+  <guideline x="267" y="68" angle="90.0" name="center" identifier="GGDAgUW7dH"/>
+  <guideline x="267" y="68" angle="90" name="center" identifier="DrWg4CO7MW"/>
+  <guideline x="267" y="68" angle="90.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="52" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="700" type="line"/>
+      <point x="52" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="254" type="line"/>
+      <point x="129" y="98" type="line"/>
+      <point x="280" y="253" type="line"/>
+      <point x="317" y="275" type="line"/>
+      <point x="536" y="500" type="line"/>
+      <point x="367" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="264" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="303" y="348" type="line"/>
+    </contour>
+  </outline>
+</glyph>

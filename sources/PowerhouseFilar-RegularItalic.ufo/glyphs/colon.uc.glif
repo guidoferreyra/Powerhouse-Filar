@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.uc" format="2">
+  <advance width="265"/>
+  <outline>
+    <component base="colon" xOffset="16" yOffset="91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

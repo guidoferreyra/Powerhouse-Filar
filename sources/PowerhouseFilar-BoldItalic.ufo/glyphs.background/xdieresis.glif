@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xdieresis" format="2">
+  <advance width="519"/>
+  <unicode hex="1E8D"/>
+  <outline>
+    <contour>
+      <point x="6" y="500" type="line"/>
+      <point x="196" y="228" type="line"/>
+      <point x="215" y="228" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="329" y="276" type="line"/>
+      <point x="308" y="281" type="line"/>
+      <point x="160" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="500" type="line"/>
+      <point x="361" y="500" type="line"/>
+      <point x="218" y="281" type="line"/>
+      <point x="188" y="278" type="line"/>
+      <point x="-8" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="301" y="229" type="line"/>
+      <point x="323" y="226" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="700" type="line"/>
+      <point x="94" y="564" type="line"/>
+      <point x="234" y="564" type="line"/>
+      <point x="234" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="700" type="line"/>
+      <point x="286" y="564" type="line"/>
+      <point x="426" y="564" type="line"/>
+      <point x="426" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

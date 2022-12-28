@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_caroncmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="dieresiscmb.uc"/>
+    <component base="caroncmb.uc" yOffset="151"/>
+  </outline>
+</glyph>

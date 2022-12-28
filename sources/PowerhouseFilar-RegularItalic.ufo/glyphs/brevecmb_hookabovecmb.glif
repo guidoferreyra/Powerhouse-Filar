@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb_hookabovecmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="hookabovecmb" xOffset="50" yOffset="137"/>
+    <component base="brevecmb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

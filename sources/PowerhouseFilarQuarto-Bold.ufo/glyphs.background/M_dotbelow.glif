@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mdotbelow" format="2">
+  <advance width="896"/>
+  <unicode hex="1E42"/>
+  <outline>
+    <contour>
+      <point x="175" y="613" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="719" y="612" type="line"/>
+      <point x="710" y="612" type="line"/>
+      <point x="710" y="0" type="line"/>
+      <point x="799" y="0" type="line"/>
+      <point x="799" y="700" type="line"/>
+      <point x="671" y="700" type="line"/>
+      <point x="430" y="117" type="line"/>
+      <point x="466" y="117" type="line"/>
+      <point x="227" y="700" type="line"/>
+      <point x="97" y="700" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="185" y="613" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="-77" type="line"/>
+      <point x="398.0" y="-184.0" type="line"/>
+      <point x="498.0" y="-184.0" type="line"/>
+      <point x="498" y="-77" type="line"/>
+    </contour>
+  </outline>
+</glyph>

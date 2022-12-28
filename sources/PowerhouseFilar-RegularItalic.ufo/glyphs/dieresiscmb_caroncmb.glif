@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_caroncmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="dieresiscmb"/>
+    <component base="caroncmb" xOffset="29" yOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

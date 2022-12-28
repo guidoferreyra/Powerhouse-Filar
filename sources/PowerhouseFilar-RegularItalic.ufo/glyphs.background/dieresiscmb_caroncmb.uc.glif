@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_caroncmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="261" y="878.0" type="line"/>
+      <point x="242" y="771.0" type="line"/>
+      <point x="342" y="771.0" type="line"/>
+      <point x="361" y="878.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="878.0" type="line"/>
+      <point x="441" y="771.0" type="line"/>
+      <point x="541" y="771.0" type="line"/>
+      <point x="560" y="878.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="922.0" type="line"/>
+      <point x="464" y="922.0" type="line"/>
+      <point x="596" y="1043.0" type="line"/>
+      <point x="522" y="1043.0" type="line"/>
+      <point x="399" y="959.0" type="line"/>
+      <point x="451" y="959.0" type="line"/>
+      <point x="358" y="1043.0" type="line"/>
+      <point x="284" y="1043.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

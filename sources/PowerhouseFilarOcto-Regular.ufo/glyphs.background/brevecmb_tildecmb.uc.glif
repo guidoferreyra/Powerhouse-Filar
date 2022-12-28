@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb_tildecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="165" y="874" type="line"/>
+      <point x="165" y="786"/>
+      <point x="210" y="741"/>
+      <point x="300" y="741" type="curve" smooth="yes"/>
+      <point x="390" y="741"/>
+      <point x="435" y="786"/>
+      <point x="435" y="874" type="curve"/>
+      <point x="375" y="874" type="line"/>
+      <point x="375" y="831"/>
+      <point x="349" y="804"/>
+      <point x="300" y="804" type="curve" smooth="yes"/>
+      <point x="251" y="804"/>
+      <point x="225" y="831"/>
+      <point x="225" y="874" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcmb_gravecmb" format="2">
+  <advance width="600"/>
+  <anchor x="300" y="570" name="_center"/>
+  <outline>
+    <component base="gravecmb" xOffset="131" yOffset="101"/>
+    <component base="circumflexcmb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="1092"/>
+  <unicode hex="00C6"/>
+  <guideline x="697" y="700" angle="90" name="center" identifier="GYOTN37zmf"/>
+  <guideline x="697" y="700" angle="90.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="493" y="700" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="643" y="0" type="line"/>
+      <point x="643" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="554" y="576" type="line"/>
+      <point x="1048" y="576" type="line"/>
+      <point x="1048" y="700" type="line"/>
+      <point x="554" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="564" y="294" type="line"/>
+      <point x="910" y="294" type="line"/>
+      <point x="910" y="417" type="line"/>
+      <point x="564" y="417" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="0" type="line"/>
+      <point x="1066" y="0" type="line"/>
+      <point x="1066" y="124" type="line"/>
+      <point x="558" y="124" type="line"/>
+    </contour>
+    <contour>
+      <point x="564" y="323" type="line"/>
+      <point x="212" y="323" type="line"/>
+      <point x="212" y="201" type="line"/>
+      <point x="564" y="201" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="463" y="576" type="line"/>
+      <point x="537" y="576" type="line"/>
+      <point x="537" y="700" type="line"/>
+      <point x="372" y="700" type="line"/>
+      <point x="-15" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

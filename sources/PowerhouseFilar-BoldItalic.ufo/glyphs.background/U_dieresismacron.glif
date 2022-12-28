@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udieresismacron" format="2">
+  <advance width="736"/>
+  <unicode hex="01D5"/>
+  <outline>
+    <contour>
+      <point x="672" y="700" type="line"/>
+      <point x="527" y="700" type="line"/>
+      <point x="527" y="277" type="line" smooth="yes"/>
+      <point x="527" y="181"/>
+      <point x="468" y="117"/>
+      <point x="369" y="117" type="curve" smooth="yes"/>
+      <point x="270" y="117"/>
+      <point x="210" y="181"/>
+      <point x="210" y="277" type="curve" smooth="yes"/>
+      <point x="210" y="700" type="line"/>
+      <point x="64" y="700" type="line"/>
+      <point x="64" y="269" type="line" smooth="yes"/>
+      <point x="64" y="100"/>
+      <point x="175" y="-12"/>
+      <point x="369" y="-12" type="curve" smooth="yes"/>
+      <point x="563" y="-12"/>
+      <point x="672" y="100"/>
+      <point x="672" y="269" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="189" y="899" type="line"/>
+      <point x="189" y="760" type="line"/>
+      <point x="338" y="760" type="line"/>
+      <point x="338" y="899" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="899" type="line"/>
+      <point x="400" y="760" type="line"/>
+      <point x="549" y="760" type="line"/>
+      <point x="549" y="899" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="963" type="line"/>
+      <point x="526" y="963" type="line"/>
+      <point x="526" y="1063" type="line"/>
+      <point x="212" y="1063" type="line"/>
+    </contour>
+  </outline>
+</glyph>

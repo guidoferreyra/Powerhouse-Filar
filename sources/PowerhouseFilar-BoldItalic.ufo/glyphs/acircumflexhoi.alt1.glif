@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexhoi.alt1" format="2">
+  <advance width="535"/>
+  <outline>
+    <component base="a.alt1"/>
+    <component base="circumflexcmb_hookabovecmb" xOffset="-34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_gravecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="dieresiscmb.uc"/>
+    <component base="gravecmb.uc" xOffset="-30" yOffset="186"/>
+  </outline>
+</glyph>

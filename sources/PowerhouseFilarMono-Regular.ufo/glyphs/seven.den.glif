@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.den" format="2">
+  <advance width="354"/>
+  <outline>
+    <component base="seven.num" yOffset="-308"/>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis" format="2">
+  <advance width="285"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="393" y="878.0" type="line"/>
+      <point x="375" y="771.0" type="line"/>
+      <point x="275" y="771.0" type="line"/>
+      <point x="293" y="878.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="878.0" type="line"/>
+      <point x="196" y="771.0" type="line"/>
+      <point x="96" y="771.0" type="line"/>
+      <point x="114" y="878.0" type="line"/>
+    </contour>
+    <component base="I"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

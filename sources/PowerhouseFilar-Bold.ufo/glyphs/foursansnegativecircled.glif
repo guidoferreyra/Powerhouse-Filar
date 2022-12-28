@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursansnegativecircled" format="2">
+  <advance width="828"/>
+  <unicode hex="278D"/>
+  <outline>
+    <contour>
+      <point x="513" y="546" type="line"/>
+      <point x="513" y="322" type="line"/>
+      <point x="575" y="322" type="line"/>
+      <point x="575" y="235" type="line"/>
+      <point x="513" y="235" type="line"/>
+      <point x="513" y="154" type="line"/>
+      <point x="404" y="154" type="line"/>
+      <point x="404" y="235" type="line"/>
+      <point x="224" y="235" type="line"/>
+      <point x="224" y="326" type="line"/>
+      <point x="387" y="546" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="322" type="line"/>
+      <point x="404" y="322" type="line"/>
+      <point x="404" y="427" type="line"/>
+    </contour>
+    <component base="circleblack"/>
+  </outline>
+</glyph>

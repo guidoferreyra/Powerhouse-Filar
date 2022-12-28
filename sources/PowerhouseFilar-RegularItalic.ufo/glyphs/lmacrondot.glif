@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmacrondot" format="2">
+  <advance width="250"/>
+  <unicode hex="1E39"/>
+  <outline>
+    <contour>
+      <point x="103" y="776.0" type="line"/>
+      <point x="331" y="776.0" type="line"/>
+      <point x="343" y="843.0" type="line"/>
+      <point x="115" y="843.0" type="line"/>
+    </contour>
+    <component base="l"/>
+    <component base="dotbelowcmb" xOffset="-175"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

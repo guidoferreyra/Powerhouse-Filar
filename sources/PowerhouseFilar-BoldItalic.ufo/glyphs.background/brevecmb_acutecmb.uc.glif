@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb_acutecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="316" y="1061" type="line"/>
+      <point x="457" y="1061" type="line"/>
+      <point x="348" y="929" type="line"/>
+      <point x="238" y="929" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="895" type="line"/>
+      <point x="138" y="824"/>
+      <point x="192" y="754"/>
+      <point x="300" y="754" type="curve" smooth="yes"/>
+      <point x="408" y="754"/>
+      <point x="462" y="824"/>
+      <point x="462" y="895" type="curve"/>
+      <point x="354" y="895" type="line"/>
+      <point x="354" y="866"/>
+      <point x="334" y="844"/>
+      <point x="300" y="844" type="curve" smooth="yes"/>
+      <point x="266" y="844"/>
+      <point x="246" y="866"/>
+      <point x="246" y="895" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

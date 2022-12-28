@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_macroncmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="150" y="878" type="line"/>
+      <point x="150" y="771" type="line"/>
+      <point x="250" y="771" type="line"/>
+      <point x="250" y="878" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="878" type="line"/>
+      <point x="349" y="771" type="line"/>
+      <point x="449" y="771" type="line"/>
+      <point x="449" y="878" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="944" type="line"/>
+      <point x="437" y="944" type="line"/>
+      <point x="437" y="1012" type="line"/>
+      <point x="163" y="1012" type="line"/>
+    </contour>
+  </outline>
+</glyph>

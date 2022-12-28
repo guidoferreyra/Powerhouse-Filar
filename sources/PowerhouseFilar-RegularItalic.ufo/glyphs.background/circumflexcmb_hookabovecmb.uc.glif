@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcmb_hookabovecmb.uc" format="2">
+  <advance width="600"/>
+  <anchor x="300" y="751" name="_center"/>
+  <outline>
+    <contour>
+      <point x="584" y="956.0" type="curve" smooth="yes"/>
+      <point x="580" y="932.0"/>
+      <point x="557" y="917.0"/>
+      <point x="516" y="906.0" type="curve"/>
+      <point x="545" y="866.0" type="line"/>
+      <point x="590" y="876.0"/>
+      <point x="636" y="907.0"/>
+      <point x="646" y="961.0" type="curve" smooth="yes"/>
+      <point x="654" y="1008.0"/>
+      <point x="627" y="1049.0"/>
+      <point x="570" y="1049.0" type="curve" smooth="yes"/>
+      <point x="529" y="1049.0"/>
+      <point x="489" y="1025.0"/>
+      <point x="464" y="992.0" type="curve"/>
+      <point x="501" y="962.0" type="line"/>
+      <point x="512" y="975.0"/>
+      <point x="529" y="994.0"/>
+      <point x="555" y="994.0" type="curve" smooth="yes"/>
+      <point x="578" y="994.0"/>
+      <point x="588" y="978.0"/>
+    </contour>
+    <contour>
+      <point x="370" y="892.0" type="line"/>
+      <point x="237" y="771.0" type="line"/>
+      <point x="311" y="771.0" type="line"/>
+      <point x="434" y="855.0" type="line"/>
+      <point x="382" y="855.0" type="line"/>
+      <point x="475" y="771.0" type="line"/>
+      <point x="549" y="771.0" type="line"/>
+      <point x="460" y="892.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

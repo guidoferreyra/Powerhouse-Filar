@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcmb_hookabovecmb" format="2">
+  <advance width="600"/>
+  <anchor x="300" y="570" name="_center"/>
+  <outline>
+    <component base="hookabovecmb" xOffset="147" yOffset="101"/>
+    <component base="circumflexcmb"/>
+  </outline>
+</glyph>

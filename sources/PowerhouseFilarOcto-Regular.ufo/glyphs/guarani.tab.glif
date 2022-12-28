@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="315" y="712" type="curve" smooth="yes"/>
+      <point x="165" y="712"/>
+      <point x="66" y="569"/>
+      <point x="66" y="350" type="curve" smooth="yes"/>
+      <point x="66" y="131"/>
+      <point x="159" y="-12"/>
+      <point x="309" y="-12" type="curve" smooth="yes"/>
+      <point x="397" y="-12"/>
+      <point x="457" y="50"/>
+      <point x="472" y="144" type="curve"/>
+      <point x="453" y="144" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="526" y="367" type="line"/>
+      <point x="379" y="367" type="line"/>
+      <point x="379" y="295" type="line"/>
+      <point x="497" y="295" type="line"/>
+      <point x="454" y="311" type="line"/>
+      <point x="454" y="290" type="line" smooth="yes"/>
+      <point x="454" y="167"/>
+      <point x="405" y="64"/>
+      <point x="318" y="64" type="curve" smooth="yes"/>
+      <point x="213" y="64"/>
+      <point x="157" y="174"/>
+      <point x="157" y="350" type="curve" smooth="yes"/>
+      <point x="157" y="526"/>
+      <point x="213" y="636"/>
+      <point x="315" y="636" type="curve" smooth="yes"/>
+      <point x="394" y="636"/>
+      <point x="433" y="564"/>
+      <point x="446" y="483" type="curve"/>
+      <point x="525" y="499" type="line"/>
+      <point x="503" y="619"/>
+      <point x="433" y="712"/>
+    </contour>
+    <contour>
+      <point x="270" y="-112" type="line"/>
+      <point x="337" y="-112" type="line"/>
+      <point x="337" y="797" type="line"/>
+      <point x="270" y="797" type="line"/>
+    </contour>
+  </outline>
+</glyph>

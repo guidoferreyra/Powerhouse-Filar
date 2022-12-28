@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rdot.alt1" format="2">
+  <advance width="676"/>
+  <outline>
+    <component base="R.alt1"/>
+    <component base="dotaccentcmb.uc" xOffset="56"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="577"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <contour>
+      <point x="526" y="486" type="line"/>
+      <point x="500" y="620"/>
+      <point x="429" y="712"/>
+      <point x="307" y="712" type="curve" smooth="yes"/>
+      <point x="153" y="712"/>
+      <point x="55" y="569"/>
+      <point x="55" y="350" type="curve" smooth="yes"/>
+      <point x="55" y="131"/>
+      <point x="153" y="-12"/>
+      <point x="307" y="-12" type="curve" smooth="yes"/>
+      <point x="429" y="-12"/>
+      <point x="503" y="81"/>
+      <point x="527" y="216" type="curve"/>
+      <point x="447" y="232" type="line"/>
+      <point x="432" y="142"/>
+      <point x="392" y="64"/>
+      <point x="307" y="64" type="curve" smooth="yes"/>
+      <point x="201" y="64"/>
+      <point x="145" y="174"/>
+      <point x="145" y="350" type="curve" smooth="yes"/>
+      <point x="145" y="526"/>
+      <point x="201" y="636"/>
+      <point x="307" y="636" type="curve" smooth="yes"/>
+      <point x="392" y="636"/>
+      <point x="431" y="561"/>
+      <point x="446" y="470" type="curve"/>
+    </contour>
+    <contour>
+      <point x="267" y="-112" type="line"/>
+      <point x="335" y="-112" type="line"/>
+      <point x="335" y="797" type="line"/>
+      <point x="267" y="797" type="line"/>
+    </contour>
+  </outline>
+</glyph>

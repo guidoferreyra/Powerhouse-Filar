@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kdotbelow" format="2">
+  <advance width="534"/>
+  <unicode hex="1E33"/>
+  <outline>
+    <contour>
+      <point x="34" y="0.0" type="line"/>
+      <point x="122" y="0.0" type="line"/>
+      <point x="246" y="700.0" type="line"/>
+      <point x="158" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="236.0" type="line"/>
+      <point x="105" y="144.0" type="line"/>
+      <point x="247" y="258.0" type="line"/>
+      <point x="279" y="275.0" type="line"/>
+      <point x="545" y="490.0" type="line"/>
+      <point x="437" y="490.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="266.0" type="line"/>
+      <point x="373" y="0.0" type="line"/>
+      <point x="476" y="0.0" type="line"/>
+      <point x="281" y="316.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="-77.0" type="line"/>
+      <point x="140" y="-180.0" type="line"/>
+      <point x="236" y="-180.0" type="line"/>
+      <point x="255" y="-77.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

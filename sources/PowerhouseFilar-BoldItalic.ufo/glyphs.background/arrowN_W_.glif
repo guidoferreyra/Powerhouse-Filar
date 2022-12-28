@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowNW" format="2">
+  <advance width="665"/>
+  <unicode hex="2196"/>
+  <outline>
+    <contour>
+      <point x="634.3717164502532" y="148.32799384885772" type="line"/>
+      <point x="190.30865786510117" y="592.3910524340093" type="line"/>
+      <point x="89.89949493661146" y="491.9818895055196" type="line"/>
+      <point x="533.9625535217635" y="47.918830920367924" type="line"/>
+    </contour>
+    <contour>
+      <point x="80.70710678118627" y="601.5834405894344" type="line"/>
+      <point x="80.70710678118655" y="123.5792565073283" type="line"/>
+      <point x="219.30003589374985" y="123.57925650732835" type="line"/>
+      <point x="218.5929291125631" y="463.6976182580577" type="line"/>
+      <point x="558.7112908632926" y="462.99051147687135" type="line"/>
+      <point x="558.7112908632923" y="601.5834405894346" type="line"/>
+    </contour>
+  </outline>
+</glyph>

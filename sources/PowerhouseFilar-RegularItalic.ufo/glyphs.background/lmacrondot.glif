@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmacrondot" format="2">
+  <advance width="250"/>
+  <unicode hex="1E39"/>
+  <outline>
+    <contour>
+      <point x="103" y="776.0" type="line"/>
+      <point x="331" y="776.0" type="line"/>
+      <point x="343" y="843.0" type="line"/>
+      <point x="115" y="843.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="700.0" type="line"/>
+      <point x="36" y="0.0" type="line"/>
+      <point x="124" y="0.0" type="line"/>
+      <point x="248" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="-77.0" type="line"/>
+      <point x="1" y="-180.0" type="line"/>
+      <point x="97" y="-180.0" type="line"/>
+      <point x="115" y="-77.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L_periodcentered.latnCAT" format="2">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="442" y="442.0" type="line"/>
+      <point x="422" y="326.0" type="line"/>
+      <point x="521" y="326.0" type="line"/>
+      <point x="541" y="442.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="700.0" type="line"/>
+      <point x="268" y="700.0" type="line"/>
+      <point x="144" y="0.0" type="line"/>
+      <point x="53" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="0.0" type="line"/>
+      <point x="103" y="82.0" type="line"/>
+      <point x="562" y="82.0" type="line"/>
+      <point x="547" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

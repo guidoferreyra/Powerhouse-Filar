@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncmb.uc" format="2">
+  <advance width="600"/>
+  <anchor x="164" y="700" name="_horn"/>
+  <anchor x="164" y="700" name="_horn"/>
+  <anchor x="164" y="700" name="_horn"/>
+  <anchor x="164" y="700" name="_horn"/>
+  <anchor x="164" y="700" name="_horn"/>
+  <outline>
+    <contour>
+      <point x="425" y="791.0" type="line"/>
+      <point x="424" y="782.0"/>
+      <point x="424" y="779.0"/>
+      <point x="423" y="774.0" type="curve" smooth="yes"/>
+      <point x="414" y="722.0"/>
+      <point x="402.0" y="700.0"/>
+      <point x="356" y="700.0" type="curve" smooth="yes"/>
+      <point x="268" y="700.0" type="line"/>
+      <point x="232" y="601.0" type="line"/>
+      <point x="341" y="601.0" type="line" smooth="yes"/>
+      <point x="485.0" y="601.0"/>
+      <point x="519" y="670"/>
+      <point x="534" y="773.0" type="curve" smooth="yes"/>
+      <point x="535" y="780.0"/>
+      <point x="536" y="784.0"/>
+      <point x="536" y="791.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

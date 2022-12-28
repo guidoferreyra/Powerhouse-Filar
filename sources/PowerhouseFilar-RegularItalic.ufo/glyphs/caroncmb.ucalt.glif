@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb.ucalt" format="2">
+  <advance width="600"/>
+  <anchor x="281" y="700.0" name="_caronalt"/>
+  <outline>
+    <contour>
+      <point x="361" y="700.0" type="line"/>
+      <point x="314" y="472.0" type="line"/>
+      <point x="379" y="472.0" type="line"/>
+      <point x="450" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

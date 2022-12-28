@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecmb" format="2">
+  <advance width="600"/>
+  <unicode hex="0309"/>
+  <anchor x="281" y="762" name="center"/>
+  <anchor x="281" y="762" name="center"/>
+  <outline>
+    <contour>
+      <point x="305" y="666" type="curve" smooth="yes"/>
+      <point x="301" y="640"/>
+      <point x="273" y="624"/>
+      <point x="227" y="615" type="curve"/>
+      <point x="268" y="554" type="line"/>
+      <point x="323" y="565"/>
+      <point x="378" y="601"/>
+      <point x="390" y="666" type="curve" smooth="yes"/>
+      <point x="400" y="725"/>
+      <point x="368" y="777"/>
+      <point x="300" y="779" type="curve" smooth="yes"/>
+      <point x="251" y="781"/>
+      <point x="203" y="755"/>
+      <point x="174" y="715" type="curve"/>
+      <point x="225" y="667" type="line"/>
+      <point x="236" y="684"/>
+      <point x="256" y="699"/>
+      <point x="278" y="698" type="curve" smooth="yes"/>
+      <point x="297" y="698"/>
+      <point x="309" y="685"/>
+    </contour>
+  </outline>
+</glyph>

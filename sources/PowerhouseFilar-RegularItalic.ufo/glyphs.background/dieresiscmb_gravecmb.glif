@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_gravecmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="240" y="700.0" type="line"/>
+      <point x="222" y="597.0" type="line"/>
+      <point x="318" y="597.0" type="line"/>
+      <point x="336" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="700.0" type="line"/>
+      <point x="403" y="597.0" type="line"/>
+      <point x="499" y="597.0" type="line"/>
+      <point x="517" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="383" y="880.0" type="line"/>
+      <point x="422" y="750.0" type="line"/>
+      <point x="356" y="750.0" type="line"/>
+      <point x="300" y="880.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

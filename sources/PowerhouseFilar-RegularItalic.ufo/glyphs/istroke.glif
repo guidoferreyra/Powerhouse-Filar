@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke" format="2">
+  <advance width="250"/>
+  <unicode hex="0268"/>
+  <outline>
+    <contour>
+      <point x="247" y="264.0" type="line"/>
+      <point x="259" y="332.0" type="line"/>
+      <point x="21" y="332.0" type="line"/>
+      <point x="9" y="264.0" type="line"/>
+    </contour>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9998,0.8772,0.085,1</string>
+    </dict>
+  </lib>
+</glyph>

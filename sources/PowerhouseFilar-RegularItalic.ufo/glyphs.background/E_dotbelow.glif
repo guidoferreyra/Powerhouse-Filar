@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotbelow" format="2">
+  <advance width="670"/>
+  <unicode hex="1EB8"/>
+  <outline>
+    <contour>
+      <point x="176" y="700.0" type="line"/>
+      <point x="53" y="0.0" type="line"/>
+      <point x="144" y="0.0" type="line"/>
+      <point x="267" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="618.0" type="line"/>
+      <point x="672" y="618.0" type="line"/>
+      <point x="687" y="700.0" type="line"/>
+      <point x="211" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="315.0" type="line"/>
+      <point x="481" y="315.0" type="line"/>
+      <point x="495" y="396.0" type="line"/>
+      <point x="167" y="396.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="0.0" type="line"/>
+      <point x="582" y="0.0" type="line"/>
+      <point x="596" y="82.0" type="line"/>
+      <point x="106" y="82.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="-77.0" type="line"/>
+      <point x="224" y="-184.0" type="line"/>
+      <point x="324" y="-184.0" type="line"/>
+      <point x="343" y="-77.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

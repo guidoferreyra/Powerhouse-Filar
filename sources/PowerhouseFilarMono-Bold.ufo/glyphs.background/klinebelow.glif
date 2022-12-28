@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="klinebelow" format="2">
+  <advance width="534"/>
+  <unicode hex="1E35"/>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="169" y="700" type="line"/>
+      <point x="81" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="236" type="line"/>
+      <point x="126" y="144" type="line"/>
+      <point x="248" y="258" type="line"/>
+      <point x="277" y="275" type="line"/>
+      <point x="505" y="490" type="line"/>
+      <point x="397" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="266" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="272" y="316" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="-152" type="line"/>
+      <point x="401" y="-152" type="line"/>
+      <point x="401" y="-86" type="line"/>
+      <point x="133" y="-86" type="line"/>
+    </contour>
+  </outline>
+</glyph>

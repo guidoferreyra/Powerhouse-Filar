@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcmb" format="2">
+  <advance width="600"/>
+  <unicode hex="0323"/>
+  <anchor x="300" y="-77" name="_stem"/>
+  <outline>
+    <contour>
+      <point x="252" y="-77" type="line"/>
+      <point x="252" y="-180" type="line"/>
+      <point x="348" y="-180" type="line"/>
+      <point x="348" y="-77" type="line"/>
+    </contour>
+  </outline>
+</glyph>
