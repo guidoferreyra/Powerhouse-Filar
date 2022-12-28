@@ -138,7 +138,6 @@ def prepSources(designspacePath, sourcesData):
             
             for addedGlyph in addedGlyphs:
                 sub = (addedGlyph.rsplit(".", 1)[0], addedGlyph)
-                print (sub)
                 if sub not in ruleSubstitutions:
                     ruleSubstitutions.append(sub)
             # for glyph in otherSourceUFO:

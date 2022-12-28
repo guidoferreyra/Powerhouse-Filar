@@ -27,7 +27,7 @@
         </source>
     </sources>
     <variable-fonts>
-        <variable-font name="Powerhouse Filar" filename="PowerhouseFilar-VF">
+        <variable-font name="Powerhouse Filar" filename="PowerhouseFilarItalic-VF">
             <axis-subsets>
                 <axis-subset name="Weight"/>
             </axis-subsets>
