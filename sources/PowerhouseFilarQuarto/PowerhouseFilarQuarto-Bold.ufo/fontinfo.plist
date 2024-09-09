@@ -44,6 +44,12 @@
     </array>
     <key>openTypeHeadLowestRecPPEM</key>
     <integer>3</integer>
+    <key>openTypeHheaAscender</key>
+    <integer>900</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-200</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Matter of Sorts</string>
     <key>openTypeNameDesignerURL</key>
@@ -70,6 +76,10 @@
       <integer>2</integer>
       <integer>3</integer>
     </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>300</integer>
     <key>openTypeOS2StrikeoutSize</key>
@@ -92,6 +102,12 @@
     <integer>600</integer>
     <key>openTypeOS2Type</key>
     <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>900</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-200</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
@@ -105,9 +121,9 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>980</integer>
+    <integer>1151</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>250</integer>
+    <integer>336</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-12</integer>
