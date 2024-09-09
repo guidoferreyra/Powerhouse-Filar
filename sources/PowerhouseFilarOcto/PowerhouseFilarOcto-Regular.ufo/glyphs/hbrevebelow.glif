@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbrevebelow" format="2">
+  <advance width="550"/>
+  <unicode hex="1E2B"/>
+  <outline>
+    <component base="h" identifier="39081D8D"/>
+    <component base="belowbrevecmb" xOffset="-23" identifier="83D481E8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>39081D8D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>83D481E8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

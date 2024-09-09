@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="680"/>
+  <unicode hex="0176"/>
+  <outline>
+    <component base="Y" identifier="CAD60035"/>
+    <component base="circumflexcmb.uc" xOffset="39" identifier="C8C833F7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C8C833F7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CAD60035</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

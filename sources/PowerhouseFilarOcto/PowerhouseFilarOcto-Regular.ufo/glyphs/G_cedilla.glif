@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcedilla" format="2">
+  <advance width="760"/>
+  <unicode hex="0122"/>
+  <outline>
+    <component base="G" identifier="42B0DFB0"/>
+    <component base="commaaccentbelowcmb" xOffset="91" identifier="B4A7FABF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>42B0DFB0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B4A7FABF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

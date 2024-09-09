@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexdotbelow.alt1" format="2">
+  <advance width="550"/>
+  <outline>
+    <component base="a.alt1" identifier="381D96B7"/>
+    <component base="circumflexcmb" xOffset="-26" identifier="D352BF64"/>
+    <component base="dotbelowcmb" xOffset="-25" identifier="799E6228"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>381D96B7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>799E6228</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D352BF64</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

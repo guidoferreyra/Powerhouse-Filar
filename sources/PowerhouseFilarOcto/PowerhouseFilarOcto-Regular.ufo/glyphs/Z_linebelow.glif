@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zlinebelow" format="2">
+  <advance width="600"/>
+  <unicode hex="1E94"/>
+  <outline>
+    <component base="Z" identifier="56DD229F"/>
+    <component base="macronbelowcmb.uc" identifier="9C1C030C"/>
+  </outline>
+</glyph>

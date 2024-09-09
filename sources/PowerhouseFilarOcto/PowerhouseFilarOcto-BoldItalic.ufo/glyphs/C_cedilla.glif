@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedilla" format="2">
+  <advance width="760"/>
+  <unicode hex="00C7"/>
+  <outline>
+    <component base="C" identifier="C38C6247"/>
+    <component base="cedillacmb" xOffset="111" identifier="C982F1B1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C38C6247</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C982F1B1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

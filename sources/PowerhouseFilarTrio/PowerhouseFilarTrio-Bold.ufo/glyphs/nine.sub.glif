@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.sub" format="2">
+  <advance width="350"/>
+  <outline>
+    <contour>
+      <point x="177" y="296" type="curve" smooth="yes"/>
+      <point x="88" y="296"/>
+      <point x="45" y="245"/>
+      <point x="45" y="177" type="curve" smooth="yes"/>
+      <point x="45" y="109"/>
+      <point x="88" y="72"/>
+      <point x="147" y="72" type="curve" smooth="yes"/>
+      <point x="201" y="72"/>
+      <point x="232" y="98"/>
+      <point x="240" y="146" type="curve"/>
+      <point x="218" y="146" type="line"/>
+      <point x="218" y="116" type="line" smooth="yes"/>
+      <point x="218" y="67"/>
+      <point x="208" y="21"/>
+      <point x="176" y="21" type="curve" smooth="yes"/>
+      <point x="158" y="21"/>
+      <point x="147" y="34"/>
+      <point x="146" y="55" type="curve"/>
+      <point x="46" y="68" type="line"/>
+      <point x="50" y="-6"/>
+      <point x="101" y="-47"/>
+      <point x="173" y="-47" type="curve" smooth="yes"/>
+      <point x="271" y="-47"/>
+      <point x="312" y="16"/>
+      <point x="312" y="131" type="curve" smooth="yes"/>
+      <point x="312" y="186"/>
+      <point x="304" y="217"/>
+      <point x="284" y="247" type="curve" smooth="yes"/>
+      <point x="264" y="276"/>
+      <point x="228" y="296"/>
+    </contour>
+    <contour>
+      <point x="177" y="135" type="curve" smooth="yes"/>
+      <point x="154" y="135"/>
+      <point x="139" y="154"/>
+      <point x="139" y="181" type="curve" smooth="yes"/>
+      <point x="139" y="208"/>
+      <point x="154" y="227"/>
+      <point x="177" y="227" type="curve" smooth="yes"/>
+      <point x="200" y="227"/>
+      <point x="215" y="208"/>
+      <point x="215" y="181" type="curve" smooth="yes"/>
+      <point x="215" y="154"/>
+      <point x="200" y="135"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E53C0A87</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

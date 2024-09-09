@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcedilla" format="2">
+  <advance width="350"/>
+  <unicode hex="013C"/>
+  <outline>
+    <component base="l" identifier="5C507E88"/>
+    <component base="commaaccentbelowcmb" xOffset="-125" identifier="6F93B601"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5C507E88</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6F93B601</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

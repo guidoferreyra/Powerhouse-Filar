@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="klinebelow" format="2">
+  <advance width="550"/>
+  <unicode hex="1E35"/>
+  <outline>
+    <component base="k" identifier="F4EB0438"/>
+    <component base="macronbelowcmb" xOffset="-19" identifier="B1055E15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

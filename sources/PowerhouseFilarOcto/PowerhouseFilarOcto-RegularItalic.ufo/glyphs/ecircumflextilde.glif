@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflextilde" format="2">
+  <advance width="550"/>
+  <unicode hex="1EC5"/>
+  <outline>
+    <component base="e" identifier="FC427BA2"/>
+    <component base="circumflexcmb_tildecmb" xOffset="-32" identifier="46291807"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

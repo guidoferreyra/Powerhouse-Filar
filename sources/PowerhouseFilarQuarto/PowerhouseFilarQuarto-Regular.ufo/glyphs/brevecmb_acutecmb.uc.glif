@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb_acutecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="acutecmb.uc" xOffset="29" yOffset="144" identifier="CCA96558"/>
+    <component base="brevecmb.uc" identifier="8DF5C71B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8DF5C71B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CCA96558</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

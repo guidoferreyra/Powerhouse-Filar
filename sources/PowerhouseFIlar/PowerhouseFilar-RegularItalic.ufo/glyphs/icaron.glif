@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icaron" format="2">
+  <advance width="250"/>
+  <unicode hex="01D0"/>
+  <outline>
+    <contour>
+      <point x="226" y="570.0" type="line"/>
+      <point x="346" y="700.0" type="line"/>
+      <point x="274" y="700.0" type="line"/>
+      <point x="164" y="599.0" type="line"/>
+      <point x="206" y="599.0" type="line"/>
+      <point x="132" y="700.0" type="line"/>
+      <point x="64" y="700.0" type="line"/>
+      <point x="138" y="570.0" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+</glyph>

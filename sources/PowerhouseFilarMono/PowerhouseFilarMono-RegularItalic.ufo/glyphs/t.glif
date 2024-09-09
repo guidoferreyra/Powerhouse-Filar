@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="600"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="65" y="421" type="line"/>
+      <point x="550" y="421" type="line"/>
+      <point x="562" y="490" type="line"/>
+      <point x="77" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="172" type="line"/>
+      <point x="193" y="158"/>
+      <point x="191" y="145"/>
+      <point x="191" y="133" type="curve" smooth="yes"/>
+      <point x="191" y="40"/>
+      <point x="260" y="-12"/>
+      <point x="378" y="-12" type="curve" smooth="yes"/>
+      <point x="411" y="-12"/>
+      <point x="445" y="-9"/>
+      <point x="481" y="0" type="curve"/>
+      <point x="493" y="69" type="line"/>
+      <point x="452" y="63"/>
+      <point x="433" y="61"/>
+      <point x="396" y="61" type="curve" smooth="yes"/>
+      <point x="316" y="61"/>
+      <point x="280" y="91"/>
+      <point x="280" y="142" type="curve" smooth="yes"/>
+      <point x="280" y="150"/>
+      <point x="280" y="158"/>
+      <point x="282" y="166" type="curve" smooth="yes"/>
+      <point x="366" y="643" type="line"/>
+      <point x="278" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 20:56:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

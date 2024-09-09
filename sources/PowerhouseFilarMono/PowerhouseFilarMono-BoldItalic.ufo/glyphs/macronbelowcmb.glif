@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcmb" format="2">
+  <advance width="600"/>
+  <unicode hex="0331"/>
+  <outline>
+    <component base="macroncmb" xOffset="-134" yOffset="-762" identifier="672EAEC6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:06:05 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>672EAEC6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>3</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

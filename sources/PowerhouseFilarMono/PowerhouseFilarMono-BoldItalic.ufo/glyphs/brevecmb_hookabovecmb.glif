@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb_hookabovecmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="hookabovecmb" xOffset="32" yOffset="164" identifier="B82CC3C0"/>
+    <component base="brevecmb" xOffset="-3" identifier="F755175D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B82CC3C0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F755175D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

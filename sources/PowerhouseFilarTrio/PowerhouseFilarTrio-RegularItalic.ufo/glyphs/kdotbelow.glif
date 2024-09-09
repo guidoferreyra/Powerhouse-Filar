@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kdotbelow" format="2">
+  <advance width="600"/>
+  <unicode hex="1E33"/>
+  <outline>
+    <component base="k" identifier="98B107DA"/>
+    <component base="dotbelowcmb" xOffset="1" identifier="B99798E7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>98B107DA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B99798E7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

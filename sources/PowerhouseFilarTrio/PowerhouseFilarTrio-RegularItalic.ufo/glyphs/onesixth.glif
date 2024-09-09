@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesixth" format="2">
+  <advance width="680"/>
+  <unicode hex="2159"/>
+  <outline>
+    <component base="one.num" xOffset="42" identifier="C0ED6B37"/>
+    <component base="six.den" xOffset="369" identifier="30E6D282"/>
+    <component base="fraction" xOffset="28" identifier="F2277FF7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>30E6D282</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C0ED6B37</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F2277FF7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

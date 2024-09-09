@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="second" format="2">
+  <advance width="350"/>
+  <unicode hex="2033"/>
+  <outline>
+    <contour>
+      <point x="136" y="700" type="line"/>
+      <point x="21" y="363" type="line"/>
+      <point x="99" y="363" type="line"/>
+      <point x="266" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="700" type="line"/>
+      <point x="184" y="363" type="line"/>
+      <point x="262" y="363" type="line"/>
+      <point x="429" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

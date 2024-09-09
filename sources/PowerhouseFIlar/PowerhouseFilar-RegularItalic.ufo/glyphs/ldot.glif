@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="347"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="282" y="433" type="line"/>
+      <point x="261" y="317" type="line"/>
+      <point x="360" y="317" type="line"/>
+      <point x="381" y="433" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+</glyph>

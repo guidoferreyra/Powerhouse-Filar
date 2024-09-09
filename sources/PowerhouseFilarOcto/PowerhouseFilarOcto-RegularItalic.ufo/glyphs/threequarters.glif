@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="760"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="three.num" xOffset="32" identifier="03D8BB0B"/>
+    <component base="four.den" xOffset="420" identifier="922D338E"/>
+    <component base="fraction" xOffset="24" identifier="C8A32FE7"/>
+  </outline>
+</glyph>

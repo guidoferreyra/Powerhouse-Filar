@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="300"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="-4" y="321" type="line"/>
+      <point x="-4" y="219" type="line"/>
+      <point x="304" y="415" type="line"/>
+      <point x="304" y="517" type="line"/>
+    </contour>
+    <component base="l" identifier="20BBDD6B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>20BBDD6B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

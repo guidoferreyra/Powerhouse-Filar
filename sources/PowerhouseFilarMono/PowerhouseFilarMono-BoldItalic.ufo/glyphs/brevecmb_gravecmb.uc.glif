@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb_gravecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="gravecmb.uc" xOffset="2" yOffset="169" identifier="C8D03AF2"/>
+    <component base="brevecmb.uc" identifier="594F121C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>594F121C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C8D03AF2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

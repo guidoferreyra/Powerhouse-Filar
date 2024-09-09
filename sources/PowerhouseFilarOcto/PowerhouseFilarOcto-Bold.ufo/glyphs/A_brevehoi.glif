@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevehoi" format="2">
+  <advance width="680"/>
+  <unicode hex="1EB2"/>
+  <outline>
+    <component base="A" identifier="2F4D873A"/>
+    <component base="brevecmb_hookabovecmb.uc" xOffset="39" identifier="837D5DC0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2F4D873A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>837D5DC0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

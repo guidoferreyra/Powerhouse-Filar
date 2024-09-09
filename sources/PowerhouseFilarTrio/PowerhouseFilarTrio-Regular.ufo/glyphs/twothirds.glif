@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twothirds" format="2">
+  <advance width="680"/>
+  <unicode hex="2154"/>
+  <outline>
+    <component base="three.den" xOffset="376" identifier="5E0B2A9B"/>
+    <component base="two.num" xOffset="30" identifier="63FC14C5"/>
+    <component base="fraction" xOffset="57" identifier="89A5FF0C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5E0B2A9B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>63FC14C5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>89A5FF0C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

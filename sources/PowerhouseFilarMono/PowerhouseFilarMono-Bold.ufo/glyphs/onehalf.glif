@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance width="600"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="one.num" identifier="1E8A9EB8"/>
+    <component base="fraction" xOffset="-19" identifier="9A77173F"/>
+    <component base="two.den" identifier="BD4543B0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:21:50 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1E8A9EB8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9A77173F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BD4543B0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

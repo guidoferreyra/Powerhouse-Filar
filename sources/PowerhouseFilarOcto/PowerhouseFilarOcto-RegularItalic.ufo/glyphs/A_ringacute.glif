@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="680"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <component base="A" identifier="45BECA97"/>
+    <component base="ringcmb.uc" xOffset="40" identifier="7C14DB9C"/>
+    <component base="acutecmb.uc" xOffset="109" yOffset="218" identifier="3C9A0EDB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3C9A0EDB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>45BECA97</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7C14DB9C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top_2</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

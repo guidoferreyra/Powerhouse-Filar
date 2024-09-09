@@ -9,21 +9,21 @@ from fontParts.world import OpenFont
 import subprocess
 
 
-OUT_PATH = 'fonts/ttf-vf'    
+OUT_PATH = 'fonts/ttf-vf'
 ROOT = './temp'
 
 sourcesData = [
-        {   
+        {
             'name': 'Proportional',
-            'designspace': 'sources/PowerhouseFilar.designspace', 
+            'designspace': 'sources/PowerhouseFilar.designspace',
             'min': 0, 'max': 0.999, 'value': 0, 'elidable': True,
         },
-        {   
+        {
             'name': 'Octo',
             'designspace': 'sources/PowerhouseFilarOcto.designspace', 
             'min': 1, 'max': 1.999, 'value': 1, 'elidable': False
         },
-        {   
+        {
             'name': 'Quarto',
             'designspace': 'sources/PowerhouseFilarQuarto.designspace', 
             'min': 2, 'max': 2.999, 'value': 2, 'elidable': False
@@ -40,6 +40,7 @@ sourcesData = [
         }
     ]
 
+
 def copyGlyphs(originUFO, destinationUFO, suffix):
     addedGlyphs = []
     for glyph in originUFO:
@@ -54,8 +55,9 @@ def copyGlyphs(originUFO, destinationUFO, suffix):
 
             destinationUFO.insertGlyph(newGlyph)
             addedGlyphs.append(newGlyphName)
-    
-    return(destinationUFO, addedGlyphs)
+
+    return (destinationUFO, addedGlyphs)
+
 
 def copyFiles(designspacePath, outRoot):
     """
@@ -89,6 +91,7 @@ def copyFiles(designspacePath, outRoot):
 
     return newDesignspacePath
 
+
 def prepSources(designspacePath, sourcesData):
     designspace = DesignSpaceDocument.fromfile(designspacePath)
 
@@ -96,7 +99,7 @@ def prepSources(designspacePath, sourcesData):
     baseUFOs = {}
     for source in designspace.sources:
         baseUFOs[source.location['Weight']] = OpenFont(source.path)
-    
+
     # Change UFO Metadata
     for key, baseUfo in baseUFOs.items():
         baseUfo.info.familyName = f"Powerhouse Filar Super VF"
@@ -106,16 +109,15 @@ def prepSources(designspacePath, sourcesData):
     axisMaxValue = max([data['max'] for data in sourcesData])
 
     unitAxis = AxisDescriptor(tag='UNIT', name="Unitisation", maximum=axisMaxValue, minimum=0, default=0)
-    
+
     # Add STAT Labels
     for sourceData in sourcesData:
         unitAxis.axisLabels.append(AxisLabelDescriptor(name=sourceData['name'], userMinimum=sourceData['min'], userMaximum=sourceData['max'], userValue=sourceData['value'], elidable=sourceData['elidable']))
-    
+
     # Add UNIT axis at the top of the axes list
     designspace.axes.insert(0, unitAxis)
     # designspace.axes.reverse()
 
-    
     # -------------------------- Add other glyphs to UFO ------------------------- #
     for otherSourceData in sourcesData[1:]:
         otherDspace = DesignSpaceDocument.fromfile(otherSourceData['designspace'])
@@ -130,12 +132,12 @@ def prepSources(designspacePath, sourcesData):
             otherSourceUFO = OpenFont(otherSource.path)
 
             otherSourceWeightLocation = otherSource.location['Weight']
-            
+
             baseFont = baseUFOs[otherSourceWeightLocation]
-            
+
             # Add Glyph
             mergedUFO, addedGlyphs = copyGlyphs(otherSourceUFO, baseFont, "." + otherSourceName.lower())
-            
+
             for addedGlyph in addedGlyphs:
                 sub = (addedGlyph.rsplit(".", 1)[0], addedGlyph)
                 if sub not in ruleSubstitutions:
@@ -146,10 +148,9 @@ def prepSources(designspacePath, sourcesData):
             #         glyphToAdd = glyph.copy()
             #         glyphToAdd.unicode = None
             #         baseFont.insertGlyph(glyphToAdd, name=newGlyphName)
-                    
+
             #         if (glyph.name, newGlyphName) not in ruleSubstitutions:
             #             ruleSubstitutions.append((glyph.name, newGlyphName))
-            
 
             mergedUFO.save()
             # baseFont.save()
@@ -165,7 +166,6 @@ def prepSources(designspacePath, sourcesData):
             rule.subs.append(sub)
         designspace.rules.append(rule)
 
-
     # ------------------------------- Add instances ------------------------------ #
     designspace.instances = []
     for sourceData in sourcesData:
@@ -179,7 +179,6 @@ def prepSources(designspacePath, sourcesData):
 
             instance.designLocation['Unitisation'] = sourceData['value']
             designspace.instances.append(instance)
-        
 
     # ------------------------ Add Variable fonts settings ----------------------- #
     # Remove pre existing variable fonts
@@ -191,11 +190,11 @@ def prepSources(designspacePath, sourcesData):
             axisSubsets=[RangeAxisSubsetDescriptor(name='Weight'), RangeAxisSubsetDescriptor(name='Unitisation')]
         )
     ]
-    
-    # Write dspace changes 
+
+    # Write dspace changes
     designspace.write(designspacePath)
 
-    
+
 if __name__ == "__main__":
     description = """
     Prepares the sources of a designspace for building a variable font.
@@ -208,21 +207,19 @@ if __name__ == "__main__":
     print("Copying files")
     if os.path.exists(ROOT):
         shutil.rmtree(ROOT)
-    
+
     # Copy BASE UFO and designspace
     baseDesignspacePath = sourcesData[0]['designspace']
     tempDesignspacePath = copyFiles(baseDesignspacePath, ROOT)
 
-    
     print("Preparing sources")
     prepSources(tempDesignspacePath, sourcesData)
 
-    
     print("Building variable font")
-    subprocess.run(["fontmake", 
+    subprocess.run(["fontmake",
                     "-m", tempDesignspacePath,
                     "-o", "variable",
-                    "--output-dir", OUT_PATH, 
+                    "--output-dir", OUT_PATH,
                     ])
 
     # shutil.rmtree(ROOT)

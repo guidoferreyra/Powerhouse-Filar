@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex" format="2">
+  <advance width="600"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <contour>
+      <point x="336" y="892" type="line"/>
+      <point x="199" y="760" type="line"/>
+      <point x="331" y="760" type="line"/>
+      <point x="463" y="854" type="line"/>
+      <point x="357" y="854" type="line"/>
+      <point x="455" y="760" type="line"/>
+      <point x="579" y="760" type="line"/>
+      <point x="488" y="892" type="line"/>
+    </contour>
+    <component base="I"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 20:34:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

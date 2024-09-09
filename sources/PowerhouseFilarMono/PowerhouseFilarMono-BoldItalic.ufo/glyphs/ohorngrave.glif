@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorngrave" format="2">
+  <advance width="600"/>
+  <unicode hex="1EDD"/>
+  <outline>
+    <component base="o"/>
+    <component base="horncmb" xOffset="135"/>
+    <component base="gravecmb" xOffset="-31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

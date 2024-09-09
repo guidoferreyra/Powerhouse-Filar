@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sevensanscircled" format="2">
+  <advance width="680"/>
+  <unicode hex="2786"/>
+  <outline>
+    <contour>
+      <point x="230" y="507" type="line"/>
+      <point x="230" y="390" type="line"/>
+      <point x="293" y="390" type="line"/>
+      <point x="293" y="452" type="line"/>
+      <point x="390" y="452" type="line"/>
+      <point x="338" y="371"/>
+      <point x="290" y="286"/>
+      <point x="287" y="193" type="curve"/>
+      <point x="357" y="193" type="line"/>
+      <point x="364" y="298"/>
+      <point x="414" y="385"/>
+      <point x="464" y="471" type="curve"/>
+      <point x="464" y="507" type="line"/>
+    </contour>
+    <component base="circlewhite" identifier="F1716B67"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F1716B67</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

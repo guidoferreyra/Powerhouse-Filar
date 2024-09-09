@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fiveeighths" format="2">
+  <advance width="600"/>
+  <unicode hex="215D"/>
+  <outline>
+    <component base="five.num" xOffset="-2"/>
+    <component base="eight.den" xOffset="-3"/>
+    <component base="fraction" identifier="B78F724D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:09:05 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B78F724D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

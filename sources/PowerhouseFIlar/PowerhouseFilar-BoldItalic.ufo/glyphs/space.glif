@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="space" format="2">
+  <advance width="220"/>
+  <unicode hex="0020"/>
+  <note>
+Octo 880 760 680 600 550 500 450 300
+Quarto 760 680 600 350
+Trio 680 600 350
+Mono 600
+UC H60 V42
+lc    H52 V46
+Italic 10/-2
+</note>
+  <outline>
+  </outline>
+</glyph>

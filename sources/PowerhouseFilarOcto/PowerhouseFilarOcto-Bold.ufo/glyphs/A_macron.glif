@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Amacron" format="2">
+  <advance width="680"/>
+  <unicode hex="0100"/>
+  <outline>
+    <component base="A" identifier="D4C28A6A"/>
+    <component base="macroncmb.uc" xOffset="39" identifier="1F2F1EAC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1F2F1EAC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D4C28A6A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

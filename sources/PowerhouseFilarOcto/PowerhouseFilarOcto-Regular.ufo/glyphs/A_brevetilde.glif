@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevetilde" format="2">
+  <advance width="680"/>
+  <unicode hex="1EB4"/>
+  <outline>
+    <component base="A" identifier="ACA1193E"/>
+    <component base="brevecmb_tildecmb.uc" xOffset="40" identifier="1493ABEB"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1493ABEB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ACA1193E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

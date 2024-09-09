@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="at.uc" format="2">
+  <advance width="680"/>
+  <outline>
+    <component base="at" xOffset="13" yOffset="76" identifier="B34DBA32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B34DBA32</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>3</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

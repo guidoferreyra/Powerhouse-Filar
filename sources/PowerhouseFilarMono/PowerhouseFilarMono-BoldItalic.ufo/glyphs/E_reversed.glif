@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ereversed" format="2">
+  <advance width="600"/>
+  <unicode hex="018E"/>
+  <outline>
+    <contour>
+      <point x="597" y="700" type="line"/>
+      <point x="447" y="700" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="474" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="514" y="576" type="line"/>
+      <point x="536" y="700" type="line"/>
+      <point x="146" y="700" type="line"/>
+      <point x="124" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="294" type="line"/>
+      <point x="476" y="417" type="line"/>
+      <point x="207" y="417" type="line"/>
+      <point x="186" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="0" type="line"/>
+      <point x="431" y="124" type="line"/>
+      <point x="31" y="124" type="line"/>
+      <point x="9" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:35:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

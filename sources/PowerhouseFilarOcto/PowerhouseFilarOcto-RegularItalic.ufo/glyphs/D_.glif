@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="760"/>
+  <unicode hex="0044"/>
+  <guideline x="347" y="700" angle="90" name="center" identifier="LJ2UVPxyas"/>
+  <outline>
+    <contour>
+      <point x="95" y="82" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="335" y="0" type="line" smooth="yes"/>
+      <point x="578" y="0"/>
+      <point x="726" y="186"/>
+      <point x="726" y="411" type="curve" smooth="yes"/>
+      <point x="726" y="586"/>
+      <point x="632" y="700"/>
+      <point x="456" y="700" type="curve" smooth="yes"/>
+      <point x="203" y="700" type="line"/>
+      <point x="188" y="618" type="line"/>
+      <point x="436" y="618" type="line" smooth="yes"/>
+      <point x="566" y="618"/>
+      <point x="634" y="544"/>
+      <point x="634" y="406" type="curve" smooth="yes"/>
+      <point x="634" y="232"/>
+      <point x="530" y="82"/>
+      <point x="345" y="82" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="171" y="700" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="262" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

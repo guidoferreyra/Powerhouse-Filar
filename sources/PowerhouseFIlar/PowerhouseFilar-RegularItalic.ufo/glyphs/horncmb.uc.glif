@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="396" y="791" type="line"/>
+      <point x="396" y="786"/>
+      <point x="396" y="781"/>
+      <point x="396" y="776" type="curve" smooth="yes"/>
+      <point x="396.0" y="724"/>
+      <point x="386" y="700"/>
+      <point x="339" y="700" type="curve" smooth="yes"/>
+      <point x="245" y="700" type="line"/>
+      <point x="234" y="638" type="line"/>
+      <point x="340" y="638" type="line" smooth="yes"/>
+      <point x="443" y="638"/>
+      <point x="465.0" y="696"/>
+      <point x="465" y="773" type="curve" smooth="yes"/>
+      <point x="465" y="780"/>
+      <point x="465" y="786"/>
+      <point x="464" y="791" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yacute" format="2">
+  <advance width="550"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <component base="y" identifier="1D8FC366"/>
+    <component base="acutecmb" xOffset="5" identifier="5F12D700"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

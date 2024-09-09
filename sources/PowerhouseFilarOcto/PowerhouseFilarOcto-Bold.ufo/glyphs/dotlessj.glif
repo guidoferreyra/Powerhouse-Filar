@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <advance width="300"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="12" y="-183" type="line"/>
+      <point x="25" y="-187"/>
+      <point x="54" y="-190"/>
+      <point x="77" y="-190" type="curve" smooth="yes"/>
+      <point x="144" y="-190"/>
+      <point x="220" y="-164"/>
+      <point x="220" y="-71" type="curve" smooth="yes"/>
+      <point x="220" y="500" type="line"/>
+      <point x="80" y="500" type="line"/>
+      <point x="80" y="-35" type="line" smooth="yes"/>
+      <point x="80" y="-68"/>
+      <point x="69" y="-81"/>
+      <point x="40" y="-81" type="curve" smooth="yes"/>
+      <point x="32" y="-81"/>
+      <point x="24" y="-80"/>
+      <point x="12" y="-79" type="curve"/>
+    </contour>
+    <contour>
+      <point x="80" y="393" type="line"/>
+      <point x="220" y="393" type="line"/>
+      <point x="220" y="500" type="line"/>
+      <point x="80" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

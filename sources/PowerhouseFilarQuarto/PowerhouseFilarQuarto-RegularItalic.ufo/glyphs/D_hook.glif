@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dhook" format="2">
+  <advance width="760"/>
+  <unicode hex="018A"/>
+  <outline>
+    <contour>
+      <point x="398" y="700" type="line"/>
+      <point x="307" y="700" type="line" smooth="yes"/>
+      <point x="127" y="700"/>
+      <point x="58" y="581"/>
+      <point x="58" y="478" type="curve" smooth="yes"/>
+      <point x="58" y="445"/>
+      <point x="66" y="416"/>
+      <point x="76" y="391" type="curve"/>
+      <point x="164" y="396" type="line"/>
+      <point x="152" y="422"/>
+      <point x="146" y="449"/>
+      <point x="146" y="477" type="curve" smooth="yes"/>
+      <point x="146" y="550"/>
+      <point x="183" y="618"/>
+      <point x="296" y="618" type="curve" smooth="yes"/>
+      <point x="384" y="618" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="0" type="line"/>
+      <point x="293" y="0" type="line"/>
+      <point x="417" y="700" type="line"/>
+      <point x="326" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="82" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="347" y="0" type="line" smooth="yes"/>
+      <point x="590" y="0"/>
+      <point x="734" y="176"/>
+      <point x="734" y="401" type="curve" smooth="yes"/>
+      <point x="734" y="576"/>
+      <point x="631" y="700"/>
+      <point x="465" y="700" type="curve" smooth="yes"/>
+      <point x="358" y="700" type="line"/>
+      <point x="343" y="618" type="line"/>
+      <point x="445" y="618" type="line" smooth="yes"/>
+      <point x="575" y="618"/>
+      <point x="642" y="534"/>
+      <point x="642" y="396" type="curve" smooth="yes"/>
+      <point x="642" y="222"/>
+      <point x="541" y="82"/>
+      <point x="354" y="82" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

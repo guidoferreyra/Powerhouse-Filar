@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="600"/>
+  <unicode hex="0172"/>
+  <anchor x="380" y="0" name="bottom"/>
+  <anchor x="614" y="700" name="horn"/>
+  <anchor x="380" y="700" name="top"/>
+  <anchor x="740" y="700" name="topright"/>
+  <outline>
+  </outline>
+</glyph>

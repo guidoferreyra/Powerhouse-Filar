@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneeighth" format="2">
+  <advance width="600"/>
+  <unicode hex="215B"/>
+  <outline>
+    <component base="one.num" identifier="414B60AD"/>
+    <component base="eight.den" identifier="AB9C55C7"/>
+    <component base="fraction" xOffset="-19" identifier="DBF482D8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:08:59 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>414B60AD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AB9C55C7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DBF482D8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

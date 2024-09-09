@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_caroncmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="dieresiscmb" identifier="E7F7703B"/>
+    <component base="caroncmb" yOffset="180" identifier="2AB31B7F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:59:20 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2AB31B7F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E7F7703B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

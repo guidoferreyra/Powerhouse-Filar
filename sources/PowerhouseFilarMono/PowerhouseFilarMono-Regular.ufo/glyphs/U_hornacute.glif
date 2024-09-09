@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhornacute" format="2">
+  <advance width="600"/>
+  <unicode hex="1EE8"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="acutecmb.uc" xOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:03:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

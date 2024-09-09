@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="300"/>
+  <unicode hex="203A"/>
+  <outline>
+    <component base="guilsinglleft" xScale="-1" yScale="-1" xOffset="304" yOffset="510" identifier="F2128C0F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F2128C0F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>3</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_macroncmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="dieresiscmb" identifier="C9F71679"/>
+    <component base="macroncmb" xOffset="31" yOffset="177" identifier="942008B4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:40:09 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>942008B4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C9F71679</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

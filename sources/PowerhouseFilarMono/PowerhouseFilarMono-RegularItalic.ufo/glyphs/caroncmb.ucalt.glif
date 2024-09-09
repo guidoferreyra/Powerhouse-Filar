@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb.ucalt" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="361" y="700" type="line"/>
+      <point x="314" y="472" type="line"/>
+      <point x="380" y="472" type="line"/>
+      <point x="451" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:50:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

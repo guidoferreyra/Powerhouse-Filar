@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute.alt1" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="a.alt1"/>
+    <component base="ringabovecmb" xOffset="-2" yOffset="-21" identifier="B4F61EC4"/>
+    <component base="acutecmb.uc" xOffset="29" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:21:50 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B4F61EC4</key>
+        <dict>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top_2</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

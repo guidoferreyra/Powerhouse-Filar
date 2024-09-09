@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Uogonek</key>
+    <string>U_ogonek.glif</string>
+    <key>brevecmb_hookabovecmb</key>
+    <string>brevecmb_hookabovecmb.glif</string>
+    <key>brevecmb_hookabovecmb.uc</key>
+    <string>brevecmb_hookabovecmb.uc.glif</string>
+    <key>caroncmb</key>
+    <string>caroncmb.glif</string>
+    <key>circumflexcmb_hookabovecmb</key>
+    <string>circumflexcmb_hookabovecmb.glif</string>
+    <key>circumflexcmb_hookabovecmb.uc</key>
+    <string>circumflexcmb_hookabovecmb.uc.glif</string>
+    <key>currency</key>
+    <string>currency.glif</string>
+    <key>currency.tab</key>
+    <string>currency.tab.glif</string>
+    <key>hookabovecmb</key>
+    <string>hookabovecmb.glif</string>
+    <key>hookabovecmb.uc</key>
+    <string>hookabovecmb.uc.glif</string>
+    <key>onesansnegativecircled</key>
+    <string>onesansnegativecircled.glif</string>
+    <key>ydotbelow</key>
+    <string>ydotbelow.glif</string>
+  </dict>
+</plist>

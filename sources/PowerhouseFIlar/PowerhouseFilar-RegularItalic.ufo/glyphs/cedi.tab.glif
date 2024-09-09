@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="578" y="478" type="line"/>
+      <point x="576" y="616"/>
+      <point x="517" y="712"/>
+      <point x="390" y="712" type="curve" smooth="yes"/>
+      <point x="188" y="712"/>
+      <point x="74" y="471"/>
+      <point x="74" y="253" type="curve" smooth="yes"/>
+      <point x="74" y="88"/>
+      <point x="152" y="-12"/>
+      <point x="281" y="-12" type="curve" smooth="yes"/>
+      <point x="408" y="-12"/>
+      <point x="486" y="77"/>
+      <point x="533" y="208" type="curve"/>
+      <point x="456" y="227" type="line"/>
+      <point x="426" y="139"/>
+      <point x="374" y="63"/>
+      <point x="289" y="63" type="curve" smooth="yes"/>
+      <point x="208" y="63"/>
+      <point x="163" y="131"/>
+      <point x="163" y="248" type="curve" smooth="yes"/>
+      <point x="163" y="421"/>
+      <point x="237" y="635"/>
+      <point x="380" y="635" type="curve" smooth="yes"/>
+      <point x="468" y="635"/>
+      <point x="499" y="561"/>
+      <point x="498" y="465" type="curve"/>
+    </contour>
+    <contour>
+      <point x="215" y="-112" type="line"/>
+      <point x="283" y="-112" type="line"/>
+      <point x="443" y="797" type="line"/>
+      <point x="375" y="797" type="line"/>
+    </contour>
+  </outline>
+</glyph>

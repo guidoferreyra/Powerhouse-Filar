@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb_acutecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="acutecmb.uc" xOffset="29" yOffset="169" identifier="BAF28AB1"/>
+    <component base="brevecmb.uc" identifier="6C7B151F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:41:27 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6C7B151F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BAF28AB1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

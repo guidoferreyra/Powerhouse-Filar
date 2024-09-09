@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_gravecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="dieresiscmb.uc" identifier="86FBB7DF"/>
+    <component base="gravecmb.uc" xOffset="-3" yOffset="157" identifier="953EA94E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:40:40 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>86FBB7DF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>953EA94E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

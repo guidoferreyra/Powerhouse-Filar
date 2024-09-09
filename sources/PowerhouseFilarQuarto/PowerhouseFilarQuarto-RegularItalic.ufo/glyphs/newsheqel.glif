@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="newsheqel" format="2">
+  <advance width="760"/>
+  <unicode hex="20AA"/>
+  <outline>
+    <contour>
+      <point x="393" y="700" type="line" smooth="yes"/>
+      <point x="522" y="700"/>
+      <point x="568" y="635"/>
+      <point x="548" y="518" type="curve" smooth="yes"/>
+      <point x="489" y="184" type="line"/>
+      <point x="407" y="184" type="line"/>
+      <point x="465" y="516" type="line" smooth="yes"/>
+      <point x="477" y="583"/>
+      <point x="457" y="622"/>
+      <point x="377" y="622" type="curve" smooth="yes"/>
+      <point x="252" y="622" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="182" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="404" y="0" type="line" smooth="yes"/>
+      <point x="275" y="0"/>
+      <point x="229" y="66"/>
+      <point x="250" y="183" type="curve" smooth="yes"/>
+      <point x="308" y="516" type="line"/>
+      <point x="390" y="516" type="line"/>
+      <point x="332" y="184" type="line" smooth="yes"/>
+      <point x="320" y="117"/>
+      <point x="340" y="78"/>
+      <point x="420" y="78" type="curve" smooth="yes"/>
+      <point x="545" y="78" type="line"/>
+      <point x="655" y="700" type="line"/>
+      <point x="739" y="700" type="line"/>
+      <point x="615" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdotbelow" format="2">
+  <advance width="450"/>
+  <unicode hex="1E5B"/>
+  <outline>
+    <component base="r" identifier="809ADC63"/>
+    <component base="dotbelowcmb" xOffset="450" identifier="74C4D92A"/>
+  </outline>
+</glyph>

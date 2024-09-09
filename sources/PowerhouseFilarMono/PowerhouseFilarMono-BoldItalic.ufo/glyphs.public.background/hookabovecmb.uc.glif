@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecmb.uc" format="2">
+  <advance width="600"/>
+  <anchor x="381" y="687" name="_top"/>
+  <outline>
+    <contour>
+      <point x="509" y="855" type="curve" smooth="yes"/>
+      <point x="509" y="911"/>
+      <point x="471" y="949"/>
+      <point x="400" y="949" type="curve" smooth="yes"/>
+      <point x="379" y="949"/>
+      <point x="354" y="946"/>
+      <point x="341" y="943" type="curve"/>
+      <point x="333" y="864" type="line"/>
+      <point x="347" y="866"/>
+      <point x="366" y="867"/>
+      <point x="382" y="867" type="curve" smooth="yes"/>
+      <point x="409" y="867"/>
+      <point x="422" y="862"/>
+      <point x="422" y="847" type="curve" smooth="yes"/>
+      <point x="422" y="829"/>
+      <point x="407" y="823"/>
+      <point x="382" y="823" type="curve" smooth="yes"/>
+      <point x="364" y="823"/>
+      <point x="340" y="826"/>
+      <point x="326" y="828" type="curve"/>
+      <point x="307" y="750" type="line"/>
+      <point x="328" y="746"/>
+      <point x="352" y="741"/>
+      <point x="381" y="741" type="curve" smooth="yes"/>
+      <point x="476" y="741"/>
+      <point x="509" y="800"/>
+    </contour>
+  </outline>
+</glyph>

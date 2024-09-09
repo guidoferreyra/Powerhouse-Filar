@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb_tildecmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="tildecmb" xOffset="32" yOffset="179" identifier="127158C8"/>
+    <component base="brevecmb" xOffset="-3" identifier="3B916646"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:39:25 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>127158C8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>3B916646</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

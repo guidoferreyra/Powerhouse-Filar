@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="600"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="287" y="450" type="line"/>
+      <point x="383" y="450" type="line"/>
+      <point x="523" y="276" type="line"/>
+      <point x="523" y="234" type="line"/>
+      <point x="383" y="60" type="line"/>
+      <point x="287" y="60" type="line"/>
+      <point x="464" y="280" type="line"/>
+      <point x="464" y="230" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="450" type="line"/>
+      <point x="172" y="450" type="line"/>
+      <point x="312" y="276" type="line"/>
+      <point x="312" y="234" type="line"/>
+      <point x="172" y="60" type="line"/>
+      <point x="76" y="60" type="line"/>
+      <point x="253" y="280" type="line"/>
+      <point x="253" y="230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>FB1D94CB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>3</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icaron" format="2">
+  <advance width="300"/>
+  <unicode hex="01CF"/>
+  <outline>
+    <contour>
+      <point x="335" y="760" type="line"/>
+      <point x="479" y="892" type="line"/>
+      <point x="352" y="892" type="line"/>
+      <point x="216" y="807" type="line"/>
+      <point x="324" y="807" type="line"/>
+      <point x="218" y="892" type="line"/>
+      <point x="99" y="892" type="line"/>
+      <point x="195" y="760" type="line"/>
+    </contour>
+    <component base="I" xOffset="25" identifier="C44B8A6E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C44B8A6E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

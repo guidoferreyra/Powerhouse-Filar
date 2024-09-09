@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcedilla" format="2">
+  <advance width="760"/>
+  <unicode hex="1E28"/>
+  <outline>
+    <component base="H"/>
+    <component base="cedillacmb" xOffset="-144" identifier="540E6CE1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>540E6CE1</key>
+        <dict>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>cedilla</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

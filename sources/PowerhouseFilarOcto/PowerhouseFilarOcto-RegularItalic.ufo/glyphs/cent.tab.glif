@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="186" y="-112" type="line"/>
+      <point x="254" y="-112" type="line"/>
+      <point x="379" y="597" type="line"/>
+      <point x="311" y="597" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="338" type="line"/>
+      <point x="508" y="441"/>
+      <point x="434" y="502"/>
+      <point x="326" y="502" type="curve" smooth="yes"/>
+      <point x="156" y="502"/>
+      <point x="53" y="362"/>
+      <point x="53" y="198" type="curve" smooth="yes"/>
+      <point x="53" y="67"/>
+      <point x="134" y="-12"/>
+      <point x="260" y="-12" type="curve" smooth="yes"/>
+      <point x="362" y="-12"/>
+      <point x="443" y="38"/>
+      <point x="486" y="133" type="curve"/>
+      <point x="407" y="160" type="line"/>
+      <point x="381" y="94"/>
+      <point x="334" y="57"/>
+      <point x="268" y="57" type="curve" smooth="yes"/>
+      <point x="188" y="57"/>
+      <point x="142" y="111"/>
+      <point x="142" y="202" type="curve" smooth="yes"/>
+      <point x="142" y="307"/>
+      <point x="197" y="431"/>
+      <point x="320" y="431" type="curve" smooth="yes"/>
+      <point x="392" y="431"/>
+      <point x="433" y="392"/>
+      <point x="437" y="320" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E348D761</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

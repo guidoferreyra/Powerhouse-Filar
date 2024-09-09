@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance width="600"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="515" y="124" type="line"/>
+      <point x="123" y="124" type="line"/>
+      <point x="183" y="60" type="line"/>
+      <point x="593" y="602" type="line"/>
+      <point x="610" y="700" type="line"/>
+      <point x="144" y="700" type="line"/>
+      <point x="122" y="576" type="line"/>
+      <point x="515" y="576" type="line"/>
+      <point x="436" y="623" type="line"/>
+      <point x="40" y="99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

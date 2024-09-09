@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icaron" format="2">
+  <advance width="300"/>
+  <unicode hex="01D0"/>
+  <outline>
+    <contour>
+      <point x="106" y="570" type="line"/>
+      <point x="194" y="570" type="line"/>
+      <point x="296" y="700" type="line"/>
+      <point x="226" y="700" type="line"/>
+      <point x="124" y="599" type="line"/>
+      <point x="176" y="599" type="line"/>
+      <point x="74" y="700" type="line"/>
+      <point x="4" y="700" type="line"/>
+    </contour>
+    <component base="dotlessi" identifier="E047B466"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E047B466</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

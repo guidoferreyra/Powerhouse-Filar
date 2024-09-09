@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="brevecmb_tildecmb" format="2">
-  <advance width="600"/>
-  <outline>
-    <component base="tildecmb" xOffset="3" yOffset="175"/>
-    <component base="brevecmb"/>
-  </outline>
-</glyph>

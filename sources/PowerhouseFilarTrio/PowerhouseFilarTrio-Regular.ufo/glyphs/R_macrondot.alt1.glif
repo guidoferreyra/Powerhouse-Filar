@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rmacrondot.alt1" format="2">
+  <advance width="680"/>
+  <outline>
+    <component base="R.alt1"/>
+    <component base="macroncmb.uc" xOffset="56"/>
+    <component base="dotbelowcmb.uc" xOffset="57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

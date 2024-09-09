@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="680"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="56" y="134" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="134" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="397" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="510" y="134" type="line"/>
+      <point x="510" y="0" type="line"/>
+      <point x="624" y="0" type="line"/>
+      <point x="624" y="134" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8FB7C343</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DC463363</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F10ADF28</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

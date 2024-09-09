@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.den" format="2">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="234" y="334" type="line"/>
+      <point x="158" y="334" type="line"/>
+      <point x="10" y="136" type="line"/>
+      <point x="10" y="76" type="line"/>
+      <point x="290" y="76" type="line"/>
+      <point x="290" y="133" type="line"/>
+      <point x="38" y="133" type="line"/>
+      <point x="58" y="106" type="line"/>
+      <point x="214" y="315" type="line"/>
+      <point x="165" y="315" type="line"/>
+      <point x="165" y="1" type="line"/>
+      <point x="234" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

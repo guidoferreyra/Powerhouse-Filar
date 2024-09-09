@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevegrave.alt1" format="2">
+  <advance width="550"/>
+  <outline>
+    <component base="a.alt1" identifier="834BF417"/>
+    <component base="brevecmb_gravecmb" xOffset="-41" identifier="B1A706D5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

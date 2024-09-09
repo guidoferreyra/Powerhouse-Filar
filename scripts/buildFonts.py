@@ -10,6 +10,7 @@ VF_OUTPATH = 'fonts/ttf-vf'
 OTF_OUTPATH = 'fonts/otf'
 TTF_OUTPATH = 'fonts/ttf'
 
+
 def getFiles(path, extensions):
     """Walks down all directories starting at *path* looking for files
     ending with *extension*.
@@ -28,28 +29,26 @@ if __name__ == "__main__":
     description = """
     Prepares the sources of a designspace for building a variable font.
     """
-    
+
     print("Building variable fonts")
-    
+
     desginspacePaths = getFiles(SOURCES_PATH, ['designspace'])
 
     for dspacePath in desginspacePaths:
-        subprocess.run(["fontmake", 
+        subprocess.run(["fontmake",
                         "-m", dspacePath,
                         "-o", "variable",
-                        "--output-dir", VF_OUTPATH, 
+                        "--output-dir", VF_OUTPATH,
                         ])
 
-        subprocess.run(["fontmake", 
+        subprocess.run(["fontmake",
                         "-m", dspacePath,
                         "-o", "otf",
-                        "--output-dir", OTF_OUTPATH, 
+                        "--output-dir", OTF_OUTPATH,
                         ])
-        
-        subprocess.run(["fontmake", 
+
+        subprocess.run(["fontmake",
                         "-m", dspacePath,
                         "-o", "ttf",
-                        "--output-dir", TTF_OUTPATH, 
+                        "--output-dir", TTF_OUTPATH,
                         ])
-
-

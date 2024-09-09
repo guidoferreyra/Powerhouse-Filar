@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zlinebelow" format="2">
+  <advance width="500"/>
+  <unicode hex="1E95"/>
+  <outline>
+    <component base="z" identifier="4808F25A"/>
+    <component base="macronbelowcmb" xOffset="-49" identifier="C1C896A2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

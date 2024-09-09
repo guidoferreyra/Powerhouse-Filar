@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mdot" format="2">
+  <advance width="880"/>
+  <unicode hex="1E40"/>
+  <outline>
+    <component base="M" identifier="962B51C8"/>
+    <component base="dotaccentcmb.uc" xOffset="139" identifier="83081E53"/>
+  </outline>
+</glyph>

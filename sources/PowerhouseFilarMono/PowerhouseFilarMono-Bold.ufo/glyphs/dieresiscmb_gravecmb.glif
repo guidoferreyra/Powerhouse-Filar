@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb_gravecmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="dieresiscmb" identifier="EDFDC524"/>
+    <component base="gravecmb" xOffset="-30" yOffset="190" identifier="3D317EDF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:59:22 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3D317EDF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EDFDC524</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

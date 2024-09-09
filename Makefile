@@ -1,7 +1,6 @@
 SOURCES=$(shell python3 scripts/read-config.py --sources )
 FAMILY=$(shell python3 scripts/read-config.py --family )
 
-
 help:
 	@echo "###"
 	@echo "# Build targets for $(FAMILY)"
@@ -13,31 +12,46 @@ help:
 
 build: build.stamp
 
-dev: venv .init.stamp
-	. venv/bin/activate; rm -rf fonts/; python3 scripts/buildSuperFont.py;
-
 venv: venv/touchfile
 
-statics: venv .init.stamp
-	. venv/bin/activate; rm -rf fonts/; python3 scripts/buildFonts.py;
+venv-test: venv-test/touchfile
 
-build.stamp: venv .init.stamp
-	. venv/bin/activate; rm -rf fonts/; python3 scripts/buildSuperFont.py; python3 scripts/buildFonts.py;
+customize: venv
+	. venv/bin/activate; python3 scripts/customize.py
 
-build.stampORIG: venv .init.stamp
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp; rm -rf instance_ufo/; python3 scripts/makeWebfonts.py
-
-.init.stamp: venv
-	. venv/bin/activate;
+build.stamp: venv
+	rm -rf fonts
+	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
 
 venv/touchfile: requirements.txt
 	test -d venv || python3 -m venv venv
 	. venv/bin/activate; pip install -Ur requirements.txt
 	touch venv/touchfile
 
-test: venv
-	. venv/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-universal -l WARN --succinct --html out/fontbakery/statics-report.html --ghmarkdown out/fontbakery/statics-report.md $(shell find fonts/ttf -type f); fontbakery check-universal -l WARN --succinct --html out/fontbakery/variable-report.html --ghmarkdown out/fontbakery/variable-report.md $(shell find fonts/ttf-vf -type f)
+venv-test/touchfile: requirements-test.txt
+	test -d venv-test || python3 -m venv venv-test
+	. venv-test/bin/activate; pip install -Ur requirements-test.txt
+	touch venv-test/touchfile
+
+test: venv-test build.stamp
+	TOCHECK=$$(find fonts/Geist/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/Geist/ttf -type f 2>/dev/null); fi ; . venv-test/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --full-lists --succinct --badges out/badges --html out/fontbakery/Geist-fontbakery-report.html --ghmarkdown out/fontbakery/Geist-fontbakery-report.md $$TOCHECK  || echo '::warning file=sources/config-Geist.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
+	TOCHECK=$$(find fonts/GeistMono/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/GeistMono/ttf -type f 2>/dev/null); fi ; . venv-test/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --full-lists --succinct --badges out/badges --html out/fontbakery/GeistMono-fontbakery-report.html --ghmarkdown out/fontbakery/GeistMono-fontbakery-report.md $$TOCHECK  || echo '::warning file=sources/config-GeistMono.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
 
 clean:
 	rm -rf venv
-	find . -name "*.pyc" | xargs rm delete
+	find . -name "*.pyc" -delete
+
+update-project-template:
+	npx update-template https://github.com/googlefonts/googlefonts-project-template/
+
+update: venv venv-test
+	venv/bin/pip install --upgrade pip-tools
+	# See https://pip-tools.readthedocs.io/en/latest/#a-note-on-resolvers for
+	# the `--resolver` flag below.
+	venv/bin/pip-compile --upgrade --verbose --resolver=backtracking requirements.in
+	venv/bin/pip-sync requirements.txt
+
+	venv-test/bin/pip install --upgrade pip-tools
+	venv-test/bin/pip-compile --upgrade --verbose --resolver=backtracking requirements-test.in
+	venv-test/bin/pip-sync requirements-test.txt
+

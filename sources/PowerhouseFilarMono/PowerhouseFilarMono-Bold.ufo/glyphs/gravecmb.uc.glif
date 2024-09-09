@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="315" y="892" type="line"/>
+      <point x="393" y="760" type="line"/>
+      <point x="273" y="760" type="line"/>
+      <point x="164" y="892" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

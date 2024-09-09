@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lmacrondot" format="2">
+  <advance width="600"/>
+  <unicode hex="1E38"/>
+  <outline>
+    <component base="L" identifier="BEF96DEA"/>
+    <component base="macroncmb.uc" xOffset="-157" identifier="85543BD8"/>
+    <component base="dotbelowcmb.uc" xOffset="19" identifier="7853E25E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7853E25E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>85543BD8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+          <key>com.schriftgestaltung.anchor</key>
+          <string>top_2</string>
+        </dict>
+        <key>BEF96DEA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

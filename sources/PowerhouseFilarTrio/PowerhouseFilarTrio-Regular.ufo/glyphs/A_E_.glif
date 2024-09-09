@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="680"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="224" y="700" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="291" y="618" type="line"/>
+      <point x="343" y="618" type="line"/>
+      <point x="343" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="298" type="line"/>
+      <point x="139" y="216" type="line"/>
+      <point x="370" y="216" type="line"/>
+      <point x="370" y="298" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="396" type="line"/>
+      <point x="370" y="315" type="line"/>
+      <point x="556" y="315" type="line"/>
+      <point x="556" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="82" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="645" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="700" type="line"/>
+      <point x="360" y="618" type="line"/>
+      <point x="627" y="618" type="line"/>
+      <point x="627" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="700" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="412" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

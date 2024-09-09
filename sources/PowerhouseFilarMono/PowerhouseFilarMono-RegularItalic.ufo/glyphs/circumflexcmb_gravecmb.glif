@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcmb_gravecmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="gravecmb" xOffset="158" yOffset="91" identifier="FD3268AD"/>
+    <component base="circumflexcmb" identifier="FA8BDAEF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:25:20 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>FA8BDAEF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FD3268AD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

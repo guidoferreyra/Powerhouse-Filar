@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcmb_acutecmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="acutecmb" xOffset="184" yOffset="91" identifier="6217F427"/>
+    <component base="circumflexcmb" identifier="8B9900B5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:58:49 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6217F427</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8B9900B5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

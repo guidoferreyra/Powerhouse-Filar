@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeeighths" format="2">
+  <advance width="600"/>
+  <unicode hex="215C"/>
+  <outline>
+    <component base="three.num" xOffset="3"/>
+    <component base="eight.den" xOffset="-3"/>
+    <component base="fraction" identifier="3A4D1BA1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:09:03 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3A4D1BA1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

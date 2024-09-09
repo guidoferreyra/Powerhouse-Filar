@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="680"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="532" y="40" type="line"/>
+      <point x="227" y="700" type="line"/>
+      <point x="115" y="700" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="657" type="line"/>
+      <point x="167" y="657" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="700" type="line"/>
+      <point x="482" y="700" type="line"/>
+      <point x="482" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="255" type="line"/>
+      <point x="399" y="255" type="line"/>
+      <point x="360" y="325" type="line"/>
+      <point x="42" y="325" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="255" type="line"/>
+      <point x="639" y="255" type="line"/>
+      <point x="639" y="325" type="line"/>
+      <point x="523" y="325" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="400" type="line"/>
+      <point x="639" y="400" type="line"/>
+      <point x="639" y="470" type="line"/>
+      <point x="286" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="400" type="line"/>
+      <point x="156" y="400" type="line"/>
+      <point x="156" y="470" type="line"/>
+      <point x="42" y="470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

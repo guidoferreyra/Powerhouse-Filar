@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesansnegativecircled" format="2">
+  <advance width="680"/>
+  <unicode hex="278A"/>
+  <outline>
+    <contour>
+      <point x="331" y="507" type="curve"/>
+      <point x="384" y="507" type="line"/>
+      <point x="384" y="193" type="line"/>
+      <point x="324" y="193" type="line"/>
+      <point x="324" y="393" type="line"/>
+      <point x="245" y="393" type="line"/>
+      <point x="245" y="436" type="line"/>
+      <point x="316" y="436"/>
+      <point x="331" y="453"/>
+    </contour>
+    <component base="circleblack" identifier="FECFBBEC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>FECFBBEC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

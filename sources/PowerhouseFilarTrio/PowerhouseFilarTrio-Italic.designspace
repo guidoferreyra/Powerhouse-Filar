@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+    <axes elidedfallbackname="Regular">
+        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+            <labels>
+                <label uservalue="400" name="Regular" linkeduservalue="700" elidable="true" />
+                <label uservalue="700" name="Bold"/>
+            </labels>
+        </axis>
+    </axes>
+    <rules>
+    </rules>
+    <sources>
+        <source filename="PowerhouseFilarTrio-RegularItalic.ufo" familyname="Powerhouse Filar Trio" stylename="Regular Italic">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <features copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+        </source>
+        <source filename="PowerhouseFilarTrio-BoldItalic.ufo" familyname="Powerhouse Filar Trio" stylename="Bold Italic">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance name="Powerhouse Filar Trio Regular Italic"
+            familyname="Powerhouse Filar Trio"
+            stylename="Regular Italic"
+            stylemapfamilyname="Powerhouse Filar Trio"
+            stylemapstylename="italic"
+            filename="PowerhouseFilarTrio-Italic.ufo">
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Trio Medium Italic"
+            familyname="Powerhouse Filar Trio"
+            stylename="Medium Italic"
+            stylemapfamilyname="Powerhouse Filar Trio Medium"
+            stylemapstylename="italic"
+            filename="PowerhouseFilarTrio-MediumItalic.ufo">
+            <location>
+                <dimension name="Weight" xvalue="500"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Trio Semibold Italic"
+            familyname="Powerhouse Filar Trio"
+            stylename="Semibold Italic"
+            stylemapfamilyname="Powerhouse Filar Trio Semibold"
+            stylemapstylename="italic"
+            filename="PowerhouseFilarTrio-SemiboldItalic.ufo">
+            <location>
+                <dimension name="Weight" xvalue="600"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>        
+        <instance name="Powerhouse Filar Trio Bold Italic"
+            familyname="Powerhouse Filar Trio"
+            stylename="Bold Italic"
+            stylemapfamilyname="Powerhouse Filar Trio"
+            stylemapstylename="bold italic"
+            filename="PowerhouseFilarTrio-BoldItalic.ufo">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+    </instances>
+</designspace>

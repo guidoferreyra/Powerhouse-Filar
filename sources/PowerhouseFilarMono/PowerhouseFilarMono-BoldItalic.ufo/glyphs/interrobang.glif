@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="interrobang" format="2">
+  <advance width="600"/>
+  <unicode hex="203D"/>
+  <outline>
+    <contour>
+      <point x="429" y="680" type="line"/>
+      <point x="301" y="680" type="line"/>
+      <point x="234" y="217" type="line"/>
+      <point x="322" y="217" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="217" type="line"/>
+      <point x="353" y="217" type="line"/>
+      <point x="356" y="235" type="line" smooth="yes"/>
+      <point x="365" y="282"/>
+      <point x="384" y="312"/>
+      <point x="448" y="345" type="curve" smooth="yes"/>
+      <point x="513" y="378"/>
+      <point x="569" y="429"/>
+      <point x="584" y="503" type="curve" smooth="yes"/>
+      <point x="611" y="635"/>
+      <point x="509" y="712"/>
+      <point x="366" y="712" type="curve" smooth="yes"/>
+      <point x="230" y="712"/>
+      <point x="136" y="641"/>
+      <point x="100" y="521" type="curve"/>
+      <point x="217" y="492" type="line"/>
+      <point x="231" y="556"/>
+      <point x="278" y="603"/>
+      <point x="353" y="603" type="curve" smooth="yes"/>
+      <point x="432" y="603"/>
+      <point x="461" y="568"/>
+      <point x="452" y="517" type="curve" smooth="yes"/>
+      <point x="444" y="471"/>
+      <point x="413" y="440"/>
+      <point x="358" y="414" type="curve" smooth="yes"/>
+      <point x="281" y="378"/>
+      <point x="266" y="324"/>
+      <point x="252" y="243" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="179" y="0" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="352" y="149" type="line"/>
+      <point x="205" y="149" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:22:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

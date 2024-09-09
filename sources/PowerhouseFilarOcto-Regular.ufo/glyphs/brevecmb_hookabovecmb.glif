@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="brevecmb_hookabovecmb" format="2">
-  <advance width="600"/>
-  <outline>
-    <component base="hookabovecmb" xOffset="20" yOffset="137"/>
-    <component base="brevecmb"/>
-  </outline>
-</glyph>

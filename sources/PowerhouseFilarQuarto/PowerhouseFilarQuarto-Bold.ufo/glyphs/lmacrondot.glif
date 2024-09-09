@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmacrondot" format="2">
+  <advance width="350"/>
+  <unicode hex="1E39"/>
+  <outline>
+    <contour>
+      <point x="18" y="760" type="line"/>
+      <point x="332" y="760" type="line"/>
+      <point x="332" y="860" type="line"/>
+      <point x="18" y="860" type="line"/>
+    </contour>
+    <component base="l"/>
+    <component base="dotbelowcmb" xOffset="-125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

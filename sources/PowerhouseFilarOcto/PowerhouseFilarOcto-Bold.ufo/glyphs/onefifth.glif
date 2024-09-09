@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onefifth" format="2">
+  <advance width="760"/>
+  <unicode hex="2155"/>
+  <outline>
+    <component base="five.den" xOffset="431" identifier="844FE53F"/>
+    <component base="one.num" xOffset="18" identifier="4C8BD585"/>
+    <component base="fraction" xOffset="-23" identifier="ED7EDF66"/>
+  </outline>
+</glyph>

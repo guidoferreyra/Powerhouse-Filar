@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowSE" format="2">
+  <advance width="680"/>
+  <unicode hex="2198"/>
+  <outline>
+    <component base="arrowup" xScale="-0.6959" xyScale="-0.7181" yxScale="0.7181" yScale="-0.6959" xOffset="332" yOffset="840"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

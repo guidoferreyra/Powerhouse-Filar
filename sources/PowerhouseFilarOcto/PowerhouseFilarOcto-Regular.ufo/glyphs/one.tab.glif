@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="293" y="700" type="line"/>
+      <point x="293" y="591"/>
+      <point x="261" y="555"/>
+      <point x="87" y="555" type="curve"/>
+      <point x="87" y="490" type="line"/>
+      <point x="339" y="490" type="line"/>
+      <point x="282" y="540" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="75" type="line"/>
+      <point x="87" y="75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

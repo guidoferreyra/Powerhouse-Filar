@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdot" format="2">
+  <advance width="600"/>
+  <unicode hex="1E59"/>
+  <outline>
+    <component base="r"/>
+    <component base="dotaccentcmb" xOffset="34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

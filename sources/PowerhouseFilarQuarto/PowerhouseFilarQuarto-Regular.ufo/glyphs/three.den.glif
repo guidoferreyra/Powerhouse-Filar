@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.den" format="2">
+  <advance width="350"/>
+  <outline>
+    <contour>
+      <point x="41" y="110" type="line"/>
+      <point x="36" y="34"/>
+      <point x="93" y="-4"/>
+      <point x="167" y="-4" type="curve" smooth="yes"/>
+      <point x="244" y="-4"/>
+      <point x="292" y="38"/>
+      <point x="292" y="98" type="curve" smooth="yes"/>
+      <point x="292" y="142"/>
+      <point x="266" y="169"/>
+      <point x="224" y="177" type="curve"/>
+      <point x="224" y="173" type="line"/>
+      <point x="253" y="180"/>
+      <point x="284" y="199"/>
+      <point x="284" y="244" type="curve" smooth="yes"/>
+      <point x="284" y="294"/>
+      <point x="244" y="339"/>
+      <point x="167" y="339" type="curve" smooth="yes"/>
+      <point x="95" y="339"/>
+      <point x="39" y="298"/>
+      <point x="45" y="227" type="curve"/>
+      <point x="117" y="231" type="line"/>
+      <point x="114" y="261"/>
+      <point x="135" y="282"/>
+      <point x="166" y="282" type="curve" smooth="yes"/>
+      <point x="196" y="282"/>
+      <point x="212" y="261"/>
+      <point x="212" y="240" type="curve" smooth="yes"/>
+      <point x="212" y="216"/>
+      <point x="193" y="200"/>
+      <point x="166" y="200" type="curve" smooth="yes"/>
+      <point x="140" y="200" type="line"/>
+      <point x="140" y="145" type="line"/>
+      <point x="166" y="145" type="line" smooth="yes"/>
+      <point x="202" y="145"/>
+      <point x="220" y="127"/>
+      <point x="220" y="101" type="curve" smooth="yes"/>
+      <point x="220" y="72"/>
+      <point x="200" y="53"/>
+      <point x="167" y="53" type="curve" smooth="yes"/>
+      <point x="130" y="53"/>
+      <point x="110" y="77"/>
+      <point x="114" y="105" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>850EA404</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

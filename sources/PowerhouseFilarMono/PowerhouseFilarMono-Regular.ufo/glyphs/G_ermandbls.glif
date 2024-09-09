@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls" format="2">
+  <advance width="600"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="67" y="700" type="line"/>
+      <point x="67" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="618" type="line"/>
+      <point x="530" y="700" type="line"/>
+      <point x="102" y="700" type="line"/>
+      <point x="102" y="618" type="line"/>
+      <point x="486" y="618" type="line"/>
+      <point x="454" y="649" type="line"/>
+      <point x="242" y="421" type="line"/>
+      <point x="242" y="351" type="line"/>
+      <point x="339" y="351" type="line" smooth="yes"/>
+      <point x="443" y="351"/>
+      <point x="486" y="293"/>
+      <point x="486" y="212" type="curve" smooth="yes"/>
+      <point x="486" y="127"/>
+      <point x="436" y="68"/>
+      <point x="341" y="68" type="curve" smooth="yes"/>
+      <point x="313" y="68"/>
+      <point x="272" y="73"/>
+      <point x="229" y="87" type="curve"/>
+      <point x="229" y="7" type="line"/>
+      <point x="273" y="-7"/>
+      <point x="315" y="-12"/>
+      <point x="343" y="-12" type="curve" smooth="yes"/>
+      <point x="485" y="-12"/>
+      <point x="578" y="81"/>
+      <point x="578" y="211" type="curve" smooth="yes"/>
+      <point x="578" y="337"/>
+      <point x="493" y="428"/>
+      <point x="353" y="428" type="curve" smooth="yes"/>
+      <point x="292" y="428" type="line"/>
+      <point x="332" y="406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:21:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

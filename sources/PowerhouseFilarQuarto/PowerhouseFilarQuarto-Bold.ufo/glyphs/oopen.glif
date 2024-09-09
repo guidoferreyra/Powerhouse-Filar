@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oopen" format="2">
+  <advance width="600"/>
+  <unicode hex="0254"/>
+  <outline>
+    <contour>
+      <point x="41" y="147" type="line"/>
+      <point x="72" y="52"/>
+      <point x="163" y="-12"/>
+      <point x="282" y="-12" type="curve" smooth="yes"/>
+      <point x="430" y="-12"/>
+      <point x="536" y="91"/>
+      <point x="536" y="250" type="curve" smooth="yes"/>
+      <point x="536" y="409"/>
+      <point x="432" y="512"/>
+      <point x="286" y="512" type="curve" smooth="yes"/>
+      <point x="167" y="512"/>
+      <point x="73" y="452"/>
+      <point x="41" y="351" type="curve"/>
+      <point x="177" y="316" type="line"/>
+      <point x="192" y="371"/>
+      <point x="238" y="398"/>
+      <point x="285" y="398" type="curve" smooth="yes"/>
+      <point x="355" y="398"/>
+      <point x="395" y="351"/>
+      <point x="395" y="250" type="curve" smooth="yes"/>
+      <point x="395" y="149"/>
+      <point x="356" y="102"/>
+      <point x="286" y="102" type="curve" smooth="yes"/>
+      <point x="239" y="102"/>
+      <point x="190" y="128"/>
+      <point x="177" y="182" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

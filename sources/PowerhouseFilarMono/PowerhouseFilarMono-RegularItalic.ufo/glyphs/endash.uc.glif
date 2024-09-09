@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="78" y="298" type="line"/>
+      <point x="540" y="298" type="line"/>
+      <point x="554" y="374" type="line"/>
+      <point x="92" y="374" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

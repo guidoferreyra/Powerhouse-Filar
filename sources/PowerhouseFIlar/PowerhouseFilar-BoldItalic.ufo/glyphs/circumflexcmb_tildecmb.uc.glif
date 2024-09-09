@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcmb_tildecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="tildecmb.uc" xOffset="15" yOffset="166"/>
+    <component base="circumflexcmb.uc"/>
+  </outline>
+</glyph>

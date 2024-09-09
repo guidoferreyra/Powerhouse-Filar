@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesansnegativecircled" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="397" y="546" type="curve"/>
+      <point x="463" y="546" type="line"/>
+      <point x="463" y="154" type="line"/>
+      <point x="388" y="154" type="line"/>
+      <point x="388" y="403" type="line"/>
+      <point x="289" y="403" type="line"/>
+      <point x="289" y="457" type="line"/>
+      <point x="378" y="457"/>
+      <point x="397" y="478"/>
+    </contour>
+  </outline>
+</glyph>

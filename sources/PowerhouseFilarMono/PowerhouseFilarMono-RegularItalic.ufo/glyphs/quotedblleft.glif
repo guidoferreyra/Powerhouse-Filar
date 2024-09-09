@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="600"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="481" y="417" type="line"/>
+      <point x="507" y="566" type="line"/>
+      <point x="444" y="566" type="line"/>
+      <point x="446" y="578" type="line" smooth="yes"/>
+      <point x="455" y="633"/>
+      <point x="489" y="656"/>
+      <point x="544" y="656" type="curve"/>
+      <point x="554" y="712" type="line"/>
+      <point x="435" y="712"/>
+      <point x="394" y="639"/>
+      <point x="383" y="578" type="curve" smooth="yes"/>
+      <point x="355" y="417" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="417" type="line"/>
+      <point x="311" y="566" type="line"/>
+      <point x="248" y="566" type="line"/>
+      <point x="250" y="578" type="line" smooth="yes"/>
+      <point x="259" y="633"/>
+      <point x="293" y="656"/>
+      <point x="348" y="656" type="curve"/>
+      <point x="358" y="712" type="line"/>
+      <point x="239" y="712"/>
+      <point x="198" y="639"/>
+      <point x="187" y="578" type="curve" smooth="yes"/>
+      <point x="159" y="417" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7C93EA2D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

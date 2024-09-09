@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.sub" format="2">
+  <advance width="350"/>
+  <outline>
+    <contour>
+      <point x="13" y="17" type="curve"/>
+      <point x="3" y="-42" type="line"/>
+      <point x="241" y="-42" type="line"/>
+      <point x="251" y="19" type="line"/>
+      <point x="57" y="19" type="line"/>
+      <point x="55" y="-16" type="line"/>
+      <point x="193" y="61"/>
+      <point x="279" y="123"/>
+      <point x="279" y="199" type="curve" smooth="yes"/>
+      <point x="279" y="246"/>
+      <point x="243" y="296"/>
+      <point x="165" y="296" type="curve" smooth="yes"/>
+      <point x="74" y="296"/>
+      <point x="40" y="234"/>
+      <point x="40" y="185" type="curve" smooth="yes"/>
+      <point x="40" y="174"/>
+      <point x="42" y="164"/>
+      <point x="45" y="156" type="curve"/>
+      <point x="114" y="164" type="line"/>
+      <point x="113" y="170"/>
+      <point x="111" y="177"/>
+      <point x="111" y="188" type="curve" smooth="yes"/>
+      <point x="111" y="209"/>
+      <point x="127" y="236"/>
+      <point x="164" y="236" type="curve" smooth="yes"/>
+      <point x="193" y="236"/>
+      <point x="207" y="219"/>
+      <point x="207" y="195" type="curve" smooth="yes"/>
+      <point x="207" y="162"/>
+      <point x="187" y="125"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CA323790</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

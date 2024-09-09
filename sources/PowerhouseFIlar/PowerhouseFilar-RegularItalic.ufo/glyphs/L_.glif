@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="630"/>
+  <unicode hex="004C"/>
+  <guideline x="142" y="700" angle="90" name="acute" identifier="V6HVXnwLb1"/>
+  <outline>
+    <contour>
+      <point x="177" y="700" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="268" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="562" y="82" type="line"/>
+      <point x="103" y="82" type="line"/>
+    </contour>
+  </outline>
+</glyph>

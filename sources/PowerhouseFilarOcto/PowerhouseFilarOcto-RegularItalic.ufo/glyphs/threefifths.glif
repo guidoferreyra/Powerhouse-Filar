@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threefifths" format="2">
+  <advance width="760"/>
+  <unicode hex="2157"/>
+  <outline>
+    <component base="five.den" xOffset="437" identifier="44867CF5"/>
+    <component base="three.num" xOffset="20" identifier="08F518A8"/>
+    <component base="fraction" xOffset="-4" identifier="218361DC"/>
+  </outline>
+</glyph>

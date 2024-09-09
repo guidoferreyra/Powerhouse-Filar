@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="398" y="892" type="line"/>
+      <point x="561" y="892" type="line"/>
+      <point x="420" y="760" type="line"/>
+      <point x="293" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:40:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

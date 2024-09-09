@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rlinebelow" format="2">
+  <advance width="600"/>
+  <unicode hex="1E5F"/>
+  <outline>
+    <contour>
+      <point x="-17" y="-152" type="line"/>
+      <point x="251" y="-152" type="line"/>
+      <point x="263" y="-86" type="line"/>
+      <point x="-5" y="-86" type="line"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+</glyph>

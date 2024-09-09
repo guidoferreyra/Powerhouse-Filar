@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourfifths" format="2">
+  <advance width="600"/>
+  <unicode hex="2158"/>
+  <outline>
+    <component base="five.den" xOffset="-5"/>
+    <component base="four.num"/>
+    <component base="fraction" xOffset="1" identifier="9C0DB5DF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:08:46 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9C0DB5DF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

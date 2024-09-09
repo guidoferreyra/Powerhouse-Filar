@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbrevebelow" format="2">
+  <advance width="550"/>
+  <unicode hex="1E2B"/>
+  <outline>
+    <component base="h" identifier="4CCC04F5"/>
+    <component base="belowbrevecmb" xOffset="-23" identifier="2ACA7AC8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

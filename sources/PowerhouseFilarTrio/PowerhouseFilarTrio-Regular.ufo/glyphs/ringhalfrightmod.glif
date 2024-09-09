@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfrightmod" format="2">
+  <advance width="350"/>
+  <unicode hex="02BE"/>
+  <outline>
+    <contour>
+      <point x="100" y="446" type="line" smooth="yes"/>
+      <point x="153" y="446"/>
+      <point x="188" y="484"/>
+      <point x="188" y="537" type="curve" smooth="yes"/>
+      <point x="188" y="590"/>
+      <point x="153" y="629"/>
+      <point x="100" y="629" type="curve" smooth="yes"/>
+      <point x="86" y="629" type="line"/>
+      <point x="86" y="700" type="line"/>
+      <point x="100" y="700" type="line" smooth="yes"/>
+      <point x="192" y="700"/>
+      <point x="264" y="632"/>
+      <point x="264" y="537" type="curve" smooth="yes"/>
+      <point x="264" y="442"/>
+      <point x="192" y="375"/>
+      <point x="100" y="375" type="curve" smooth="yes"/>
+      <point x="86" y="375" type="line"/>
+      <point x="86" y="446" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>65634B7A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

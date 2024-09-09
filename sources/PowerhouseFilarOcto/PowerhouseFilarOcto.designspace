@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+    <axes elidedfallbackname="Regular">
+        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+            <labels>
+                <label uservalue="400" name="Regular" linkeduservalue="700" elidable="true" />
+                <label uservalue="700" name="Bold"/>
+            </labels>
+        </axis>
+    </axes>
+    <rules>
+    </rules>
+    <sources>
+        <source filename="PowerhouseFilarOcto-Regular.ufo" familyname="Powerhouse Filar Octo" stylename="Regular">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <features copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+        </source>
+        <source filename="PowerhouseFilarOcto-Bold.ufo" familyname="Powerhouse Filar Octo" stylename="Bold">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance name="Powerhouse Filar Octo Regular" 
+            familyname="Powerhouse Filar Octo"
+            stylename="Regular"
+            stylemapfamilyname="Powerhouse Filar Octo"
+            filename="PowerhouseFilarOcto-Regular.ufo">
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Octo Medium"
+            familyname="Powerhouse Filar Octo"
+            stylename="Medium"
+            stylemapfamilyname="Powerhouse Filar Octo Medium"
+            filename="PowerhouseFilarOcto-Medium.ufo">
+            <location>
+                <dimension name="Weight" xvalue="500"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Octo Semibold"
+            familyname="Powerhouse Filar Octo"
+            stylename="Semibold"
+            stylemapfamilyname="Powerhouse Filar Octo Semibold"
+            filename="PowerhouseFilarOcto-Semibold.ufo">
+            <location>
+                <dimension name="Weight" xvalue="600"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Octo Bold"
+            familyname="Powerhouse Filar Octo"
+            stylename="Bold"
+            stylemapfamilyname="Powerhouse Filar Octo"
+            filename="PowerhouseFilarOcto-Bold.ufo">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+    </instances>
+</designspace>

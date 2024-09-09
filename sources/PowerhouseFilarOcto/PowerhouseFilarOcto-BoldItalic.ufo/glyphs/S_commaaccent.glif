@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scommaaccent" format="2">
+  <advance width="600"/>
+  <unicode hex="0218"/>
+  <outline>
+    <component base="S" identifier="71DDC05C"/>
+    <component base="commaaccentbelowcmb" xOffset="13" identifier="24A2CA65"/>
+  </outline>
+</glyph>

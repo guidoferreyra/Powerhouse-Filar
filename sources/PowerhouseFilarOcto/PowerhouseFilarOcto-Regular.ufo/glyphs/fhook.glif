@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fhook" format="2">
+  <advance width="500"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="132" y="382" type="line"/>
+      <point x="433" y="382" type="line"/>
+      <point x="433" y="452" type="line"/>
+      <point x="132" y="452" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="109" type="curve" smooth="yes"/>
+      <point x="367" y="582" type="line" smooth="yes"/>
+      <point x="377" y="622"/>
+      <point x="401" y="640"/>
+      <point x="441" y="640" type="curve" smooth="yes"/>
+      <point x="452" y="640"/>
+      <point x="463" y="639"/>
+      <point x="473" y="638" type="curve"/>
+      <point x="473" y="708" type="line"/>
+      <point x="459" y="711"/>
+      <point x="442" y="712"/>
+      <point x="429" y="712" type="curve" smooth="yes"/>
+      <point x="334" y="712"/>
+      <point x="296" y="658"/>
+      <point x="279" y="591" type="curve" smooth="yes"/>
+      <point x="154" y="118" type="line" smooth="yes"/>
+      <point x="143" y="78"/>
+      <point x="120" y="60"/>
+      <point x="80" y="60" type="curve" smooth="yes"/>
+      <point x="69" y="60"/>
+      <point x="58" y="61"/>
+      <point x="48" y="62" type="curve"/>
+      <point x="48" y="-8" type="line"/>
+      <point x="62" y="-11"/>
+      <point x="79" y="-12"/>
+      <point x="92" y="-12" type="curve" smooth="yes"/>
+      <point x="187" y="-12"/>
+      <point x="224" y="42"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowNW" format="2">
+  <advance width="665"/>
+  <unicode hex="2196"/>
+  <outline>
+    <contour>
+      <point x="615" y="129" type="line"/>
+      <point x="169" y="574" type="line"/>
+      <point x="108" y="513" type="line"/>
+      <point x="554" y="68" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="602" type="line"/>
+      <point x="81" y="177" type="line"/>
+      <point x="166" y="177" type="line"/>
+      <point x="166" y="517" type="line"/>
+      <point x="506" y="517" type="line"/>
+      <point x="506" y="602" type="line"/>
+    </contour>
+  </outline>
+</glyph>

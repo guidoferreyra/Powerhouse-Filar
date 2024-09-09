@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onefifth" format="2">
+  <advance width="600"/>
+  <unicode hex="2155"/>
+  <outline>
+    <component base="five.den" xOffset="-9"/>
+    <component base="one.num" xOffset="7"/>
+    <component base="fraction" xOffset="-28" identifier="7C0F72FE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:08:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7C0F72FE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

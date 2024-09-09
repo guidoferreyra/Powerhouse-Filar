@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke" format="2">
+  <advance width="300"/>
+  <unicode hex="0268"/>
+  <outline>
+    <contour>
+      <point x="288" y="264" type="line"/>
+      <point x="300" y="332" type="line"/>
+      <point x="30" y="332" type="line"/>
+      <point x="18" y="264" type="line"/>
+    </contour>
+    <component base="i" xOffset="-25" identifier="1C3CE73E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1C3CE73E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twosanscircled" format="2">
+  <advance width="600"/>
+  <unicode hex="2781"/>
+  <outline>
+    <contour>
+      <point x="408" y="200" type="line"/>
+      <point x="408" y="270" type="line"/>
+      <point x="305" y="270" type="line"/>
+      <point x="367" y="318"/>
+      <point x="408" y="355"/>
+      <point x="408" y="406" type="curve" smooth="yes"/>
+      <point x="408" y="451"/>
+      <point x="381" y="504"/>
+      <point x="300" y="504" type="curve" smooth="yes"/>
+      <point x="223" y="504"/>
+      <point x="190" y="456"/>
+      <point x="190" y="410" type="curve" smooth="yes"/>
+      <point x="190" y="396"/>
+      <point x="193" y="384"/>
+      <point x="202" y="369" type="curve"/>
+      <point x="280" y="379" type="line"/>
+      <point x="274" y="389"/>
+      <point x="273" y="398"/>
+      <point x="273" y="405" type="curve" smooth="yes"/>
+      <point x="273" y="429"/>
+      <point x="283" y="438"/>
+      <point x="298" y="438" type="curve" smooth="yes"/>
+      <point x="313" y="438"/>
+      <point x="322" y="430"/>
+      <point x="322" y="405" type="curve" smooth="yes"/>
+      <point x="322" y="373"/>
+      <point x="290" y="349"/>
+      <point x="194" y="268" type="curve"/>
+      <point x="194" y="200" type="line"/>
+    </contour>
+    <component base="circlewhite" identifier="EDD26841"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:52:08 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>EDD26841</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

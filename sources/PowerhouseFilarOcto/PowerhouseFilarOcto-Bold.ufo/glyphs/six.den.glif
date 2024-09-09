@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.den" format="2">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="149" y="-6" type="curve" smooth="yes"/>
+      <point x="238" y="-6"/>
+      <point x="281" y="49"/>
+      <point x="281" y="110" type="curve" smooth="yes"/>
+      <point x="281" y="178"/>
+      <point x="241" y="221"/>
+      <point x="178" y="221" type="curve" smooth="yes"/>
+      <point x="126" y="221"/>
+      <point x="90" y="192"/>
+      <point x="81" y="144" type="curve"/>
+      <point x="107" y="144" type="line"/>
+      <point x="107" y="173" type="line" smooth="yes"/>
+      <point x="107" y="236"/>
+      <point x="132" y="262"/>
+      <point x="158" y="262" type="curve" smooth="yes"/>
+      <point x="173" y="262"/>
+      <point x="182" y="255"/>
+      <point x="183" y="238" type="curve"/>
+      <point x="276" y="228" type="line"/>
+      <point x="273" y="295"/>
+      <point x="231" y="337"/>
+      <point x="161" y="337" type="curve" smooth="yes"/>
+      <point x="70" y="337"/>
+      <point x="13" y="266"/>
+      <point x="13" y="156" type="curve" smooth="yes"/>
+      <point x="13" y="109"/>
+      <point x="22" y="72"/>
+      <point x="39" y="48" type="curve" smooth="yes"/>
+      <point x="62" y="14"/>
+      <point x="95" y="-6"/>
+    </contour>
+    <contour>
+      <point x="149" y="62" type="curve" smooth="yes"/>
+      <point x="126" y="62"/>
+      <point x="111" y="81"/>
+      <point x="111" y="109" type="curve" smooth="yes"/>
+      <point x="111" y="137"/>
+      <point x="126" y="156"/>
+      <point x="149" y="156" type="curve" smooth="yes"/>
+      <point x="173" y="156"/>
+      <point x="187" y="137"/>
+      <point x="187" y="109" type="curve" smooth="yes"/>
+      <point x="187" y="81"/>
+      <point x="173" y="62"/>
+    </contour>
+  </outline>
+</glyph>

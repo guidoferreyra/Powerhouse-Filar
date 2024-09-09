@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="600"/>
+  <unicode hex="013F"/>
+  <outline>
+    <contour>
+      <point x="428" y="442" type="line"/>
+      <point x="407" y="326" type="line"/>
+      <point x="506" y="326" type="line"/>
+      <point x="527" y="442" type="line"/>
+    </contour>
+    <component base="L" identifier="A4E445D4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A4E445D4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

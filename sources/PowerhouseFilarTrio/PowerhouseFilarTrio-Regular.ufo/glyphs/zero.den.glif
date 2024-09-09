@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.den" format="2">
+  <advance width="350"/>
+  <outline>
+    <contour>
+      <point x="140" y="338" type="curve" smooth="yes"/>
+      <point x="60" y="338"/>
+      <point x="11" y="272"/>
+      <point x="11" y="166" type="curve" smooth="yes"/>
+      <point x="11" y="61"/>
+      <point x="60" y="-5"/>
+      <point x="140" y="-5" type="curve" smooth="yes"/>
+      <point x="219" y="-5"/>
+      <point x="269" y="61"/>
+      <point x="269" y="166" type="curve" smooth="yes"/>
+      <point x="269" y="272"/>
+      <point x="219" y="338"/>
+    </contour>
+    <contour>
+      <point x="140" y="56" type="curve" smooth="yes"/>
+      <point x="102" y="56"/>
+      <point x="84" y="97"/>
+      <point x="84" y="166" type="curve" smooth="yes"/>
+      <point x="84" y="236"/>
+      <point x="102" y="277"/>
+      <point x="140" y="277" type="curve" smooth="yes"/>
+      <point x="177" y="277"/>
+      <point x="196" y="236"/>
+      <point x="196" y="166" type="curve" smooth="yes"/>
+      <point x="196" y="97"/>
+      <point x="177" y="56"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1D65428D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

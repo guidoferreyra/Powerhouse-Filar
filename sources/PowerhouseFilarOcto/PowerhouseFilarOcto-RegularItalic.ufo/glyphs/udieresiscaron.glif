@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresiscaron" format="2">
+  <advance width="550"/>
+  <unicode hex="01DA"/>
+  <outline>
+    <component base="u" identifier="A3EFDEEF"/>
+    <component base="dieresiscmb_caroncmb" xOffset="-27" identifier="8C6C1E5D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

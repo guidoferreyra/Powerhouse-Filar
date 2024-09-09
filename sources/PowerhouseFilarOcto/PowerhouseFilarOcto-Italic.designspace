@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+    <axes elidedfallbackname="Regular">
+        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+            <labels>
+                <label uservalue="400" name="Regular" linkeduservalue="700" elidable="true" />
+                <label uservalue="700" name="Bold"/>
+            </labels>
+        </axis>
+    </axes>
+    <rules>
+    </rules>
+    <sources>
+        <source filename="PowerhouseFilarOcto-RegularItalic.ufo" familyname="Powerhouse Filar Octo" stylename="Regular Italic">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <features copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+        </source>
+        <source filename="PowerhouseFilarOcto-BoldItalic.ufo" familyname="Powerhouse Filar Octo" stylename="Bold Italic">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance name="Powerhouse Filar Octo Regular Italic"
+            familyname="Powerhouse Filar Octo"
+            stylename="Regular Italic"
+            stylemapfamilyname="Powerhouse Filar Octo"
+            stylemapstylename="italic"
+            filename="PowerhouseFilarOcto-Italic.ufo">
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Octo Medium Italic"
+            familyname="Powerhouse Filar Octo"
+            stylename="Medium Italic"
+            stylemapfamilyname="Powerhouse Filar Octo Medium"
+            stylemapstylename="italic"
+            filename="PowerhouseFilarOcto-MediumItalic.ufo">
+            <location>
+                <dimension name="Weight" xvalue="500"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Octo Semibold Italic"
+            familyname="Powerhouse Filar Octo"
+            stylename="Semibold Italic"
+            stylemapfamilyname="Powerhouse Filar Octo Semibold"
+            stylemapstylename="italic"
+            filename="PowerhouseFilarOcto-SemiboldItalic.ufo">
+            <location>
+                <dimension name="Weight" xvalue="600"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>        
+        <instance name="Powerhouse Filar Octo Bold Italic"
+            familyname="Powerhouse Filar Octo"
+            stylename="Bold Italic"
+            stylemapfamilyname="Powerhouse Filar Octo"
+            stylemapstylename="bold italic"
+            filename="PowerhouseFilarOcto-BoldItalic.ufo">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+    </instances>
+</designspace>

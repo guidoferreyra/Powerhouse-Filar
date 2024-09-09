@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icaron" format="2">
+  <advance width="600"/>
+  <unicode hex="01D0"/>
+  <outline>
+    <contour>
+      <point x="448" y="564" type="line"/>
+      <point x="577" y="700" type="line"/>
+      <point x="449" y="700" type="line"/>
+      <point x="314" y="584" type="line"/>
+      <point x="434" y="584" type="line"/>
+      <point x="339" y="700" type="line"/>
+      <point x="223" y="700" type="line"/>
+      <point x="304" y="564" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

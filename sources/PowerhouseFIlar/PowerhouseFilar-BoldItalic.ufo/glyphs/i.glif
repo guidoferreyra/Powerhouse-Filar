@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="250"/>
+  <unicode hex="0069"/>
+  <outline>
+    <component base="dotlessi" identifier="EF0487FE"/>
+    <component base="dotaccentcmb" xOffset="-176" identifier="048ED668"/>
+  </outline>
+</glyph>

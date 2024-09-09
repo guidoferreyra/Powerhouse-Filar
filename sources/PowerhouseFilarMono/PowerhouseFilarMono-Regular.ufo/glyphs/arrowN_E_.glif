@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowNE" format="2">
+  <advance width="600"/>
+  <unicode hex="2197"/>
+  <outline>
+    <component base="arrowup" xScale="0.7071" xyScale="-0.7071" yScale="0.7071" yxScale="0.7071" xOffset="-155" yOffset="308" identifier="D7A76D7D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:21:50 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D7A76D7D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcmb" format="2">
+  <advance width="600"/>
+  <unicode hex="0307"/>
+  <outline>
+    <contour>
+      <point x="307" y="700" type="line"/>
+      <point x="283" y="564" type="line"/>
+      <point x="427" y="564" type="line"/>
+      <point x="451" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

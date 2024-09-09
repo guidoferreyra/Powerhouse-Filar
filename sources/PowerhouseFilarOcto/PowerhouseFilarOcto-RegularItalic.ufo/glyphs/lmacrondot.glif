@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmacrondot" format="2">
+  <advance width="300"/>
+  <unicode hex="1E39"/>
+  <outline>
+    <contour>
+      <point x="114" y="776" type="line"/>
+      <point x="376" y="776" type="line"/>
+      <point x="388" y="844" type="line"/>
+      <point x="126" y="844" type="line"/>
+    </contour>
+    <component base="l" identifier="BD1E1060"/>
+    <component base="dotbelowcmb" xOffset="-150" identifier="55B8B262"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>55B8B262</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BD1E1060</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesanscircled" format="2">
+  <advance width="600"/>
+  <unicode hex="2780"/>
+  <outline>
+    <contour>
+      <point x="329" y="507" type="line"/>
+      <point x="319" y="453"/>
+      <point x="304" y="436"/>
+      <point x="230" y="436" type="curve"/>
+      <point x="222" y="393" type="line"/>
+      <point x="301" y="393" type="line"/>
+      <point x="266" y="193" type="line"/>
+      <point x="326" y="193" type="line"/>
+      <point x="382" y="507" type="line"/>
+    </contour>
+    <component base="circlewhite"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:09:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

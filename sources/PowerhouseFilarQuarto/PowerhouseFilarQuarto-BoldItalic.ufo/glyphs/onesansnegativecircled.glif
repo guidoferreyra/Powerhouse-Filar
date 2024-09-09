@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesansnegativecircled" format="2">
+  <advance width="760"/>
+  <unicode hex="278A"/>
+  <outline>
+    <contour>
+      <point x="399" y="546" type="curve"/>
+      <point x="500" y="546" type="line"/>
+      <point x="430" y="154" type="line"/>
+      <point x="320" y="154" type="line"/>
+      <point x="359" y="373" type="line"/>
+      <point x="263" y="373" type="line"/>
+      <point x="278" y="457" type="line"/>
+      <point x="364" y="457"/>
+      <point x="387" y="478"/>
+    </contour>
+    <component base="circleblack" identifier="14101950"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowNW" format="2">
+  <advance width="600"/>
+  <unicode hex="2196"/>
+  <outline>
+    <component base="arrowup" xScale="0.7071" xyScale="0.7071" yScale="0.7071" yxScale="-0.7071" xOffset="340" yOffset="-114" identifier="7438E821"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7438E821</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

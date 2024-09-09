@@ -1,0 +1,213 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+@figs = [ zero one two three four five six seven eight nine ];
+@tabs = [ zero.tab one.tab two.tab three.tab four.tab five.tab six.tab seven.tab eight.tab nine.tab ];
+@subs = [ zero.sub one.sub two.sub three.sub four.sub five.sub six.sub seven.sub eight.sub nine.sub ];
+@sups = [ zero.sup one.sup two.sup three.sup four.sup five.sup six.sup seven.sup eight.sup nine.sup ];
+@nums = [ zero.num one.num two.num three.num four.num five.num six.num seven.num eight.num nine.num ];
+@dens = [ zero.den one.den two.den three.den four.den five.den six.den seven.den eight.den nine.den ];
+
+@cird = [ one two three four five six seven eight nine ];
+@cirp = [ onesanscircled twosanscircled threesanscircled foursanscircled fivesanscircled sixsanscircled sevensanscircled eightsanscircled ninesanscircled ];
+@cirn = [ onesansnegativecircled twosansnegativecircled threesansnegativecircled foursansnegativecircled fivesansnegativecircled sixsansnegativecircled sevensansnegativecircled eightsansnegativecircled ninesansnegativecircled ];
+
+@punc_lc = [ hyphen endash emdash parenleft parenright bracketleft bracketright braceleft braceright guilsinglleft guilsinglright guillemetleft guillemetright slash backslash bar brokenbar colon exclamdown questiondown at periodcentered ];
+@punc_uc = [ hyphen.uc endash.uc emdash.uc parenleft.uc parenright.uc bracketleft.uc bracketright.uc braceleft.uc braceright.uc guilsinglleft.uc guilsinglright.uc guillemetleft.uc guillemetright.uc slash.uc backslash.uc bar.uc brokenbar.uc colon.uc exclamdown.uc questiondown.uc at.uc periodcentered.uc ];
+
+@def_R = [ R Racute Rcedilla Rcaron Rdot Rdotbelow Rmacrondot Rlinebelow ];
+@def_a = [ a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek acaron aringacute adot adotbelow ahoi acircumflexacute acircumflexgrave acircumflexhoi acircumflextilde acircumflexdotbelow abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow ];
+
+@alt_R = [ R.alt1 Racute.alt1 Rcedilla.alt1 Rcaron.alt1 Rdot.alt1 Rdotbelow.alt1 Rmacrondot.alt1 Rlinebelow.alt1 ];
+@alt_a = [ a.alt1 agrave.alt1 aacute.alt1 acircumflex.alt1 atilde.alt1 adieresis.alt1 aring.alt1 amacron.alt1 abreve.alt1 aogonek.alt1 acaron.alt1 aringacute.alt1 adot.alt1 adotbelow.alt1 ahoi.alt1 acircumflexacute.alt1 acircumflexgrave.alt1 acircumflexhoi.alt1 acircumflextilde.alt1 acircumflexdotbelow.alt1 abreveacute.alt1 abrevegrave.alt1 abrevehoi.alt1 abrevetilde.alt1 abrevedotbelow.alt1 ];
+
+feature locl {
+    script latn;
+    language ROM;
+        sub Scedilla by Scommaaccent;
+        sub scedilla by scommaaccent;
+        sub Tcedilla by Tcommaaccent;
+        sub tcedilla by tcommaaccent;
+    language MOL;
+        sub Scedilla by Scommaaccent;
+        sub scedilla by scommaaccent;
+        sub Tcedilla by Tcommaaccent;
+        sub tcedilla by tcommaaccent;
+    language NLD;
+        sub iacute j' by j.latnNLD;
+        sub Iacute J' by J.latnNLD;
+    language CAT;
+        sub l' periodcentered' l by l_periodcentered.latnCAT;
+        sub L' periodcentered' L by L_periodcentered.latnCAT;
+} locl;
+
+feature frac {
+    lookup FractionBar {
+        ignore sub slash @figs @figs @figs @figs @figs @figs @figs @figs @figs @figs slash';
+        ignore sub slash' @figs @figs @figs @figs @figs @figs @figs @figs @figs @figs slash;
+        ignore sub slash @figs @figs @figs @figs @figs @figs @figs @figs @figs slash';
+        ignore sub slash' @figs @figs @figs @figs @figs @figs @figs @figs @figs slash;
+        ignore sub slash @figs @figs @figs @figs @figs @figs @figs @figs slash';
+        ignore sub slash' @figs @figs @figs @figs @figs @figs @figs @figs slash;
+        ignore sub slash @figs @figs @figs @figs @figs @figs @figs slash';
+        ignore sub slash' @figs @figs @figs @figs @figs @figs @figs slash;
+        ignore sub slash @figs @figs @figs @figs @figs @figs slash';
+        ignore sub slash' @figs @figs @figs @figs @figs @figs slash;
+        ignore sub slash @figs @figs @figs @figs @figs slash';
+        ignore sub slash' @figs @figs @figs @figs @figs slash;
+        ignore sub slash @figs @figs @figs @figs slash';
+        ignore sub slash' @figs @figs @figs @figs slash;
+        ignore sub slash @figs @figs @figs slash';
+        ignore sub slash' @figs @figs @figs slash;
+        ignore sub slash @figs @figs slash';
+        ignore sub slash' @figs @figs slash;
+        ignore sub slash @figs slash';
+        ignore sub slash' @figs slash;
+        ignore sub slash slash';
+        ignore sub slash' slash;
+        sub @figs slash' @figs by fraction;
+    } FractionBar;
+
+    lookup Numerator1 {
+        sub @figs' fraction by @nums;
+    } Numerator1;
+
+    lookup Numerator2 {
+        sub @figs' @nums fraction by @nums;
+    } Numerator2;
+
+    lookup Numerator3 {
+        sub @figs' @nums @nums fraction by @nums;
+    } Numerator3;
+
+    lookup Numerator4 {
+        sub @figs' @nums @nums @nums fraction by @nums;
+    } Numerator4;
+
+    lookup Numerator5 {
+        sub @figs' @nums @nums @nums @nums fraction by @nums;
+    } Numerator5;
+
+    lookup Numerator6 {
+        sub @figs' @nums @nums @nums @nums @nums fraction by @nums;
+    } Numerator6;
+
+    lookup Numerator7 {
+        sub @figs' @nums @nums @nums @nums @nums @nums fraction by @nums;
+    } Numerator7;
+
+    lookup Numerator8 {
+        sub @figs' @nums @nums @nums @nums @nums @nums @nums fraction by @nums;
+    } Numerator8;
+
+    lookup Numerator9 {
+        sub @figs' @nums @nums @nums @nums @nums @nums @nums @nums fraction by @nums;
+    } Numerator9;
+
+    lookup Numerator10 {
+        sub @figs' @nums @nums @nums @nums @nums @nums @nums @nums @nums fraction by @nums;
+    } Numerator10;
+
+    lookup Denominator {
+        sub [fraction @dens] @figs' by @dens;
+    } Denominator;
+
+    lookup PrebuiltFractions {
+        sub one.num fraction seven.den by oneseventh;
+        sub one.num fraction nine.den by oneninth;
+        sub one.num fraction one.den zero.den by onetenth;
+        sub one.num fraction three.den by onethird;
+        sub two.num fraction three.den by twothirds;
+        sub one.num fraction five.den by onefifth;
+        sub two.num fraction five.den by twofifths;
+        sub three.num fraction five.den by threefifths;
+        sub four.num fraction five.den by fourfifths;
+        sub one.num fraction six.den by onesixth;
+        sub five.num fraction six.den by fivesixths;
+        sub one.num fraction eight.den by oneeighth;
+        sub three.num fraction eight.den by threeeighths;
+        sub five.num fraction eight.den by fiveeighths;
+        sub seven.num fraction eight.den by seveneighths;
+        sub one.num fraction four.den by onequarter;
+        sub one.num fraction two.den by onehalf;
+        sub three.num fraction four.den by threequarters;
+    } PrebuiltFractions;
+} frac;
+
+feature dnom {
+    sub @figs by @dens;
+} dnom;
+
+feature numr {
+    sub @figs by @nums;
+} numr;
+
+feature sinf {
+    sub @figs by @subs;
+} sinf;
+
+feature sups {
+    sub @figs by @sups;
+} sups;
+
+feature tnum {
+    sub @figs by @tabs;
+} tnum;
+
+feature ordn {
+    sub a by ordfeminine;
+    sub o by ordmasculine;
+} ordn;
+
+feature case {
+    sub @punc_lc by @punc_uc;    
+} case;
+
+feature ss01 {
+    featureNames {
+    name "Alternate R"; # Windows English
+    name 1 0 0 "Alternate R"; # Mac English
+    };
+    sub @def_R by @alt_R;
+} ss01; 
+
+feature ss02 {
+    featureNames {
+    name "Alternate a"; # Windows English
+    name 1 0 0 "Alternate a"; # Mac English
+    };
+    sub @def_a by @alt_a;
+} ss02;
+
+feature ss03 {
+    featureNames {
+    name "Circled figures"; # Windows English
+    name 1 0 0 "Circled figures"; # Mac English
+    };
+    sub @cird by @cirp;
+} ss03; 
+
+feature ss04 {
+    featureNames {
+    name "Negative circled figures"; # Windows English
+    name 1 0 0 "Negative circled figures"; # Mac English
+    };
+    sub @cird by @cirn;
+} ss04; 
+
+feature ss05 {
+    featureNames {
+    name "Medium bullet"; # Windows English
+    name 1 0 0 "Medium bullet"; # Mac English
+    };
+    sub bullet by bullet.medium;
+} ss05;
+
+feature ss06 {
+    featureNames {
+    name "Large bullet"; # Windows English
+    name 1 0 0 "Large bullet"; # Mac English
+    };
+    sub bullet by bullet.large;
+} ss06;
+

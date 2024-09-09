@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="536" y="297" type="line"/>
+      <point x="552" y="383" type="line"/>
+      <point x="135" y="604" type="line"/>
+      <point x="121" y="522" type="line"/>
+      <point x="481" y="332" type="line"/>
+      <point x="486" y="361" type="line"/>
+      <point x="59" y="171" type="line"/>
+      <point x="41" y="76" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

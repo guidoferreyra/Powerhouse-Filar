@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+    <axes elidedfallbackname="Regular">
+        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+            <labels>
+                <label uservalue="400" name="Regular" linkeduservalue="700" elidable="true" />
+                <label uservalue="700" name="Bold"/>
+            </labels>
+        </axis>
+    </axes>
+    <rules>
+    </rules>
+    <sources>
+        <source filename="PowerhouseFilarQuarto-Regular.ufo" familyname="Powerhouse Filar Quarto" stylename="Regular">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <features copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+        </source>
+        <source filename="PowerhouseFilarQuarto-Bold.ufo" familyname="Powerhouse Filar Quarto" stylename="Bold">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance name="Powerhouse Filar Quarto Regular" 
+            familyname="Powerhouse Filar Quarto"
+            stylename="Regular"
+            stylemapfamilyname="Powerhouse Filar Quarto"
+            filename="PowerhouseFilarQuarto-Regular.ufo">
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Quarto Medium"
+            familyname="Powerhouse Filar Quarto"
+            stylename="Medium"
+            stylemapfamilyname="Powerhouse Filar Quarto Medium"
+            filename="PowerhouseFilarQuarto-Medium.ufo">
+            <location>
+                <dimension name="Weight" xvalue="500"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Quarto Semibold"
+            familyname="Powerhouse Filar Quarto"
+            stylename="Semibold"
+            stylemapfamilyname="Powerhouse Filar Quarto Semibold"
+            filename="PowerhouseFilarQuarto-Semibold.ufo">
+            <location>
+                <dimension name="Weight" xvalue="600"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Quarto Bold"
+            familyname="Powerhouse Filar Quarto"
+            stylename="Bold"
+            stylemapfamilyname="Powerhouse Filar Quarto"
+            filename="PowerhouseFilarQuarto-Bold.ufo">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+    </instances>
+</designspace>

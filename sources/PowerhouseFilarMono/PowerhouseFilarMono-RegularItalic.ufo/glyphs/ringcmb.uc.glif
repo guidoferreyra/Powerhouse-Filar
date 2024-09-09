@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="455" y="860" type="curve" smooth="yes"/>
+      <point x="455" y="832"/>
+      <point x="434" y="802"/>
+      <point x="400" y="802" type="curve" smooth="yes"/>
+      <point x="374" y="802"/>
+      <point x="359" y="819"/>
+      <point x="359" y="842" type="curve" smooth="yes"/>
+      <point x="359" y="870"/>
+      <point x="380" y="900"/>
+      <point x="414" y="900" type="curve" smooth="yes"/>
+      <point x="440" y="900"/>
+      <point x="455" y="883"/>
+    </contour>
+    <contour>
+      <point x="306" y="839" type="curve" smooth="yes"/>
+      <point x="306" y="789"/>
+      <point x="342" y="753"/>
+      <point x="395" y="753" type="curve" smooth="yes"/>
+      <point x="456" y="753"/>
+      <point x="508" y="798"/>
+      <point x="508" y="863" type="curve" smooth="yes"/>
+      <point x="508" y="913"/>
+      <point x="473" y="949"/>
+      <point x="419" y="949" type="curve" smooth="yes"/>
+      <point x="358" y="949"/>
+      <point x="306" y="904"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

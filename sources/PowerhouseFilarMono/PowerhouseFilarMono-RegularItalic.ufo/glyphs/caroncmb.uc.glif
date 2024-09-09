@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="439" y="771" type="line"/>
+      <point x="572" y="892" type="line"/>
+      <point x="482" y="892" type="line"/>
+      <point x="369" y="810" type="line"/>
+      <point x="421" y="810" type="line"/>
+      <point x="336" y="892" type="line"/>
+      <point x="256" y="892" type="line"/>
+      <point x="347" y="771" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:27:38 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>53BA5758</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>3</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

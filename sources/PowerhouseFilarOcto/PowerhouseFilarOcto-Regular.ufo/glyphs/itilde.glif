@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="300"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="95" y="677" type="curve" smooth="yes"/>
+      <point x="45" y="677"/>
+      <point x="19" y="635"/>
+      <point x="16" y="570" type="curve"/>
+      <point x="74" y="570" type="line"/>
+      <point x="77" y="598"/>
+      <point x="82" y="612"/>
+      <point x="100" y="612" type="curve" smooth="yes"/>
+      <point x="126" y="612"/>
+      <point x="164" y="579"/>
+      <point x="205" y="579" type="curve" smooth="yes"/>
+      <point x="255" y="579"/>
+      <point x="281" y="621"/>
+      <point x="284" y="686" type="curve"/>
+      <point x="225" y="686" type="line"/>
+      <point x="223" y="658"/>
+      <point x="218" y="644"/>
+      <point x="200" y="644" type="curve" smooth="yes"/>
+      <point x="174" y="644"/>
+      <point x="136" y="677"/>
+    </contour>
+    <component base="dotlessi" identifier="A826B57B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A826B57B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

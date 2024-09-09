@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcircumflex" format="2">
+  <advance width="350"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="213" y="700" type="line"/>
+      <point x="94" y="570" type="line"/>
+      <point x="168" y="570" type="line"/>
+      <point x="282" y="671" type="line"/>
+      <point x="230" y="671" type="line"/>
+      <point x="310" y="570" type="line"/>
+      <point x="376" y="570" type="line"/>
+      <point x="301" y="700" type="line"/>
+    </contour>
+    <component base="dotlessj"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

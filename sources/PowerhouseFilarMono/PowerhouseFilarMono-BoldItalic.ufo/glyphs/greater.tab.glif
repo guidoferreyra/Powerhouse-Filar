@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="547" y="279" type="line"/>
+      <point x="569" y="402" type="line"/>
+      <point x="120" y="626" type="line"/>
+      <point x="99" y="502" type="line"/>
+      <point x="487" y="309" type="line"/>
+      <point x="501" y="388" type="line"/>
+      <point x="45" y="195" type="line"/>
+      <point x="20" y="55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:22:48 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CE356B5F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

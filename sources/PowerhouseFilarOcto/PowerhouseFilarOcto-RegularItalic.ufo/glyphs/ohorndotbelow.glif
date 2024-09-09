@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorndotbelow" format="2">
+  <advance width="550"/>
+  <unicode hex="1EE3"/>
+  <outline>
+    <component base="o" identifier="7C81FE6A"/>
+    <component base="horncmb" xOffset="109" identifier="5846F23B"/>
+    <component base="dotbelowcmb" xOffset="-15" identifier="B58AB45A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

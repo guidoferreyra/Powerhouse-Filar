@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="600"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="89" y="678" type="line"/>
+      <point x="173" y="678" type="line"/>
+      <point x="173" y="357" type="line"/>
+      <point x="89" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="622" type="line"/>
+      <point x="19" y="700" type="line"/>
+      <point x="243" y="700" type="line"/>
+      <point x="243" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="330" y="677" type="line"/>
+      <point x="404" y="427" type="line"/>
+      <point x="429" y="427" type="line"/>
+      <point x="503" y="677" type="line"/>
+      <point x="484" y="677" type="line"/>
+      <point x="484" y="357" type="line"/>
+      <point x="562" y="357" type="line"/>
+      <point x="562" y="700" type="line"/>
+      <point x="452" y="700" type="line"/>
+      <point x="408" y="549" type="line"/>
+      <point x="429" y="549" type="line"/>
+      <point x="385" y="700" type="line"/>
+      <point x="271" y="700" type="line"/>
+      <point x="271" y="357" type="line"/>
+      <point x="349" y="357" type="line"/>
+      <point x="349" y="677" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:58:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Iogonek</key>
+    <string>I_ogonek.glif</string>
+    <key>OE</key>
+    <string>O_E_.glif</string>
+    <key>ae</key>
+    <string>ae.glif</string>
+    <key>arrowdown</key>
+    <string>arrowdown.glif</string>
+    <key>iogonek</key>
+    <string>iogonek.glif</string>
+    <key>oe</key>
+    <string>oe.glif</string>
+    <key>periodcentered</key>
+    <string>periodcentered.glif</string>
+  </dict>
+</plist>

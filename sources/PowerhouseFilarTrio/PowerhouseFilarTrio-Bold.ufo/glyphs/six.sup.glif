@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.sup" format="2">
+  <advance width="350"/>
+  <outline>
+    <contour>
+      <point x="174" y="463" type="curve" smooth="yes"/>
+      <point x="263" y="463"/>
+      <point x="306" y="518"/>
+      <point x="306" y="579" type="curve" smooth="yes"/>
+      <point x="306" y="647"/>
+      <point x="266" y="690"/>
+      <point x="203" y="690" type="curve" smooth="yes"/>
+      <point x="151" y="690"/>
+      <point x="115" y="661"/>
+      <point x="106" y="613" type="curve"/>
+      <point x="132" y="613" type="line"/>
+      <point x="132" y="642" type="line" smooth="yes"/>
+      <point x="132" y="705"/>
+      <point x="157" y="731"/>
+      <point x="183" y="731" type="curve" smooth="yes"/>
+      <point x="198" y="731"/>
+      <point x="207" y="724"/>
+      <point x="208" y="707" type="curve"/>
+      <point x="301" y="697" type="line"/>
+      <point x="298" y="764"/>
+      <point x="256" y="806"/>
+      <point x="186" y="806" type="curve" smooth="yes"/>
+      <point x="95" y="806"/>
+      <point x="38" y="735"/>
+      <point x="38" y="625" type="curve" smooth="yes"/>
+      <point x="38" y="578"/>
+      <point x="47" y="541"/>
+      <point x="64" y="517" type="curve" smooth="yes"/>
+      <point x="87" y="483"/>
+      <point x="120" y="463"/>
+    </contour>
+    <contour>
+      <point x="174" y="531" type="curve" smooth="yes"/>
+      <point x="151" y="531"/>
+      <point x="136" y="550"/>
+      <point x="136" y="578" type="curve" smooth="yes"/>
+      <point x="136" y="606"/>
+      <point x="151" y="625"/>
+      <point x="174" y="625" type="curve" smooth="yes"/>
+      <point x="198" y="625"/>
+      <point x="212" y="606"/>
+      <point x="212" y="578" type="curve" smooth="yes"/>
+      <point x="212" y="550"/>
+      <point x="198" y="531"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B3E692A3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

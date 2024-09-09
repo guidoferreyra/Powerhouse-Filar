@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="190" y="-112" type="line"/>
+      <point x="284" y="-112" type="line"/>
+      <point x="444" y="797" type="line"/>
+      <point x="350" y="797" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="144" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="566" y="382" type="line"/>
+      <point x="403" y="382" type="line"/>
+      <point x="383" y="269" type="line"/>
+      <point x="466" y="269" type="line"/>
+      <point x="443" y="311" type="line"/>
+      <point x="439" y="289" type="line" smooth="yes"/>
+      <point x="416" y="167"/>
+      <point x="358" y="104"/>
+      <point x="294" y="104" type="curve" smooth="yes"/>
+      <point x="233" y="104"/>
+      <point x="194" y="147"/>
+      <point x="194" y="247" type="curve" smooth="yes"/>
+      <point x="194" y="408"/>
+      <point x="250" y="593"/>
+      <point x="369" y="593" type="curve" smooth="yes"/>
+      <point x="435" y="593"/>
+      <point x="454" y="545"/>
+      <point x="454" y="467" type="curve"/>
+      <point x="580" y="492" type="line"/>
+      <point x="580" y="621"/>
+      <point x="524" y="712"/>
+      <point x="383" y="712" type="curve" smooth="yes"/>
+      <point x="163" y="712"/>
+      <point x="54" y="465"/>
+      <point x="54" y="245" type="curve" smooth="yes"/>
+      <point x="54" y="86"/>
+      <point x="127" y="-12"/>
+      <point x="253" y="-12" type="curve" smooth="yes"/>
+      <point x="341" y="-12"/>
+      <point x="398" y="47"/>
+      <point x="437" y="138" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

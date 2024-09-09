@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance width="860"/>
+  <unicode hex="0132"/>
+  <outline>
+    <contour>
+      <point x="147" y="700" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="298" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="789" y="201" type="curve" smooth="yes"/>
+      <point x="877" y="700" type="line"/>
+      <point x="727" y="700" type="line"/>
+      <point x="640" y="209" type="line" smooth="yes"/>
+      <point x="630" y="153"/>
+      <point x="600" y="109"/>
+      <point x="532" y="109" type="curve" smooth="yes"/>
+      <point x="475" y="109"/>
+      <point x="441" y="141"/>
+      <point x="441" y="207" type="curve" smooth="yes"/>
+      <point x="441" y="220"/>
+      <point x="442" y="234"/>
+      <point x="445" y="250" type="curve"/>
+      <point x="298" y="272" type="line"/>
+      <point x="293" y="246"/>
+      <point x="291" y="222"/>
+      <point x="291" y="199" type="curve" smooth="yes"/>
+      <point x="291" y="57"/>
+      <point x="384" y="-12"/>
+      <point x="523" y="-12" type="curve" smooth="yes"/>
+      <point x="678" y="-12"/>
+      <point x="766" y="71"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="brevecmb_acutecmb.uc" format="2">
-  <advance width="600"/>
-  <outline>
-    <component base="acutecmb.uc" xOffset="29" yOffset="169"/>
-    <component base="brevecmb.uc"/>
-  </outline>
-</glyph>

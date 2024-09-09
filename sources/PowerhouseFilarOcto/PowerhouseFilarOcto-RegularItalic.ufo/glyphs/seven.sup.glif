@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.sup" format="2">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="139" y="800" type="line"/>
+      <point x="117" y="674" type="line"/>
+      <point x="185" y="674" type="line"/>
+      <point x="202" y="770" type="line"/>
+      <point x="172" y="740" type="line"/>
+      <point x="344" y="740" type="line"/>
+      <point x="328" y="778" type="line"/>
+      <point x="247" y="681"/>
+      <point x="164" y="580"/>
+      <point x="140" y="467" type="curve"/>
+      <point x="218" y="467" type="line"/>
+      <point x="244" y="578"/>
+      <point x="312" y="669"/>
+      <point x="382" y="761" type="curve"/>
+      <point x="389" y="800" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A5BB04CB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

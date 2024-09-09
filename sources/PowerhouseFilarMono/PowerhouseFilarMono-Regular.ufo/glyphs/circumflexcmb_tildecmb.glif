@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcmb_tildecmb" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="tildecmb" yOffset="165" identifier="B9139D22"/>
+    <component base="circumflexcmb" identifier="E87D1A28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:58:57 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B9139D22</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E87D1A28</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

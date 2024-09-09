@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Euro.tab</key>
+    <string>E_uro.tab.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
+    <key>Iogonek</key>
+    <string>I_ogonek.glif</string>
+    <key>dotlessi</key>
+    <string>dotlessi.glif</string>
+    <key>eogonek</key>
+    <string>eogonek.glif</string>
+    <key>ij</key>
+    <string>ij.glif</string>
+    <key>iogonek</key>
+    <string>iogonek.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
+  </dict>
+</plist>

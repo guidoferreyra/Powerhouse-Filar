@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="234" y="899" type="line"/>
+      <point x="210" y="760" type="line"/>
+      <point x="359" y="760" type="line"/>
+      <point x="383" y="899" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="899" type="line"/>
+      <point x="421" y="760" type="line"/>
+      <point x="570" y="760" type="line"/>
+      <point x="594" y="899" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

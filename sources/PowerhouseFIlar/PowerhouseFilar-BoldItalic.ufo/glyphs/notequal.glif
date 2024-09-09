@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="576"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="36" y="70" type="line"/>
+      <point x="165" y="70" type="line"/>
+      <point x="572" y="610" type="line"/>
+      <point x="443" y="610" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+</glyph>

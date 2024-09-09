@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="600"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="500" y="108" type="line"/>
+      <point x="237" y="700" type="line"/>
+      <point x="56" y="700" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="185" y="631" type="line"/>
+      <point x="139" y="629" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="544" y="700" type="line"/>
+      <point x="415" y="700" type="line"/>
+      <point x="415" y="108" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="-77" type="curve" smooth="yes"/>
+      <point x="324" y="-77"/>
+      <point x="297" y="-74"/>
+      <point x="277" y="-70" type="curve"/>
+      <point x="277" y="-180" type="line"/>
+      <point x="304" y="-187"/>
+      <point x="340" y="-192"/>
+      <point x="373" y="-192" type="curve" smooth="yes"/>
+      <point x="489" y="-192"/>
+      <point x="544" y="-128"/>
+      <point x="544" y="-5" type="curve" smooth="yes"/>
+      <point x="544" y="80" type="line"/>
+      <point x="415" y="80" type="line"/>
+      <point x="415" y="-23" type="line" smooth="yes"/>
+      <point x="415" y="-58"/>
+      <point x="394" y="-77"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:31:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

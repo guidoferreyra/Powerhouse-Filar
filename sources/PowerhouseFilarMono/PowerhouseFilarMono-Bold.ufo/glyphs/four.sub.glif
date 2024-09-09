@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.sub" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="411" y="290" type="line"/>
+      <point x="285" y="290" type="line"/>
+      <point x="122" y="70" type="line"/>
+      <point x="122" y="-21" type="line"/>
+      <point x="473" y="-21" type="line"/>
+      <point x="473" y="66" type="line"/>
+      <point x="170" y="66" type="line"/>
+      <point x="201" y="35" type="line"/>
+      <point x="374" y="268" type="line"/>
+      <point x="302" y="268" type="line"/>
+      <point x="302" y="-102" type="line"/>
+      <point x="411" y="-102" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:21:50 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>ADDB801E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

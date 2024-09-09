@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursansnegativecircled" format="2">
+  <advance width="600"/>
+  <unicode hex="278D"/>
+  <outline>
+    <contour>
+      <point x="412" y="507" type="line"/>
+      <point x="378" y="315" type="line"/>
+      <point x="431" y="315" type="line"/>
+      <point x="422" y="266" type="line"/>
+      <point x="369" y="266" type="line"/>
+      <point x="356" y="193" type="line"/>
+      <point x="297" y="193" type="line"/>
+      <point x="310" y="266" type="line"/>
+      <point x="165" y="266" type="line"/>
+      <point x="174" y="317" type="line"/>
+      <point x="347" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="315" type="line"/>
+      <point x="319" y="315" type="line"/>
+      <point x="339" y="426" type="line"/>
+    </contour>
+    <component base="circleblack"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:14:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

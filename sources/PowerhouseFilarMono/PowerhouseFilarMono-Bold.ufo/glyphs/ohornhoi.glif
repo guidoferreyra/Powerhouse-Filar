@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornhoi" format="2">
+  <advance width="600"/>
+  <unicode hex="1EDF"/>
+  <outline>
+    <component base="o"/>
+    <component base="horncmb" xOffset="135"/>
+    <component base="hookabovecmb" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:21:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

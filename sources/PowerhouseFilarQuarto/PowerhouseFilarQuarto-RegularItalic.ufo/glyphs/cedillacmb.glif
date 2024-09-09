@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacmb" format="2">
+  <advance width="600"/>
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="97" y="-203" type="line"/>
+      <point x="121" y="-213"/>
+      <point x="161" y="-222"/>
+      <point x="204" y="-222" type="curve" smooth="yes"/>
+      <point x="298" y="-222"/>
+      <point x="349" y="-175"/>
+      <point x="349" y="-121" type="curve" smooth="yes"/>
+      <point x="349" y="-78"/>
+      <point x="316" y="-51"/>
+      <point x="255" y="-51" type="curve" smooth="yes"/>
+      <point x="241" y="-51"/>
+      <point x="220" y="-51"/>
+      <point x="192" y="-62" type="curve"/>
+      <point x="215" y="-80" type="line"/>
+      <point x="293" y="8" type="line"/>
+      <point x="231" y="8" type="line"/>
+      <point x="152" y="-79" type="line"/>
+      <point x="167" y="-111" type="line"/>
+      <point x="184" y="-107"/>
+      <point x="207" y="-106"/>
+      <point x="222" y="-106" type="curve" smooth="yes"/>
+      <point x="242" y="-106"/>
+      <point x="274" y="-109"/>
+      <point x="274" y="-131" type="curve" smooth="yes"/>
+      <point x="274" y="-150"/>
+      <point x="251" y="-164"/>
+      <point x="205" y="-164" type="curve" smooth="yes"/>
+      <point x="171" y="-164"/>
+      <point x="139" y="-156"/>
+      <point x="108" y="-144" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

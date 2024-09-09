@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="600"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="341" y="680" type="curve" smooth="yes"/>
+      <point x="291" y="680"/>
+      <point x="256" y="635"/>
+      <point x="243" y="570" type="curve"/>
+      <point x="302" y="570" type="line"/>
+      <point x="310" y="595"/>
+      <point x="320" y="609"/>
+      <point x="338" y="609" type="curve" smooth="yes"/>
+      <point x="366" y="609"/>
+      <point x="397" y="577"/>
+      <point x="435" y="577" type="curve" smooth="yes"/>
+      <point x="485" y="577"/>
+      <point x="519" y="621"/>
+      <point x="532" y="686" type="curve"/>
+      <point x="472" y="686" type="line"/>
+      <point x="465" y="661"/>
+      <point x="456" y="647"/>
+      <point x="437" y="647" type="curve" smooth="yes"/>
+      <point x="409" y="647"/>
+      <point x="379" y="680"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

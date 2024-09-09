@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="204" y="327" type="curve" smooth="yes"/>
+      <point x="204" y="389"/>
+      <point x="253" y="456"/>
+      <point x="328" y="456" type="curve" smooth="yes"/>
+      <point x="385" y="456"/>
+      <point x="420" y="417"/>
+      <point x="420" y="363" type="curve" smooth="yes"/>
+      <point x="420" y="301"/>
+      <point x="371" y="234"/>
+      <point x="296" y="234" type="curve" smooth="yes"/>
+      <point x="239" y="234"/>
+      <point x="204" y="273"/>
+    </contour>
+    <contour>
+      <point x="164" y="439" type="line"/>
+      <point x="253" y="511" type="line"/>
+      <point x="169" y="617" type="line"/>
+      <point x="80" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="122" type="curve" smooth="yes"/>
+      <point x="426" y="122"/>
+      <point x="536" y="240"/>
+      <point x="536" y="378" type="curve" smooth="yes"/>
+      <point x="536" y="487"/>
+      <point x="455" y="568"/>
+      <point x="342" y="568" type="curve" smooth="yes"/>
+      <point x="198" y="568"/>
+      <point x="88" y="450"/>
+      <point x="88" y="312" type="curve" smooth="yes"/>
+      <point x="88" y="203"/>
+      <point x="169" y="122"/>
+    </contour>
+    <contour>
+      <point x="455" y="73" type="line"/>
+      <point x="544" y="146" type="line"/>
+      <point x="460" y="251" type="line"/>
+      <point x="371" y="179" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="509" type="line"/>
+      <point x="494" y="423" type="line"/>
+      <point x="614" y="522" type="line"/>
+      <point x="545" y="607" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="168" type="line"/>
+      <point x="79" y="83" type="line"/>
+      <point x="199" y="181" type="line"/>
+      <point x="130" y="267" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>F3927899</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

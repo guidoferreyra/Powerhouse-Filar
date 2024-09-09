@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydotbelow" format="2">
+  <advance width="600"/>
+  <unicode hex="1EF5"/>
+  <outline>
+    <component base="y"/>
+    <component base="dotaccentcmb" xOffset="154" yOffset="-768" identifier="BDFC379D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:04:36 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BDFC379D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

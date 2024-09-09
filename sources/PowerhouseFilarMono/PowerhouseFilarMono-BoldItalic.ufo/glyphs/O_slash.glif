@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="600"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="-3" y="32" type="line"/>
+      <point x="90" y="-40" type="line"/>
+      <point x="639" y="667" type="line"/>
+      <point x="546" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="428" type="curve" smooth="yes"/>
+      <point x="455" y="268"/>
+      <point x="387" y="116"/>
+      <point x="281" y="116" type="curve" smooth="yes"/>
+      <point x="214" y="116"/>
+      <point x="181" y="170"/>
+      <point x="181" y="272" type="curve" smooth="yes"/>
+      <point x="181" y="432"/>
+      <point x="249" y="584"/>
+      <point x="355" y="584" type="curve" smooth="yes"/>
+      <point x="422" y="584"/>
+      <point x="455" y="530"/>
+    </contour>
+    <contour>
+      <point x="42" y="260" type="curve" smooth="yes"/>
+      <point x="42" y="80"/>
+      <point x="132" y="-12"/>
+      <point x="275" y="-12" type="curve" smooth="yes"/>
+      <point x="510" y="-12"/>
+      <point x="594" y="258"/>
+      <point x="594" y="440" type="curve" smooth="yes"/>
+      <point x="594" y="620"/>
+      <point x="504" y="712"/>
+      <point x="361" y="712" type="curve" smooth="yes"/>
+      <point x="126" y="712"/>
+      <point x="42" y="442"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:41:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

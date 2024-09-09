@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Iogonek</key>
+    <string>I_ogonek.glif</string>
+    <key>OE</key>
+    <string>O_E_.glif</string>
+    <key>S</key>
+    <string>S_.glif</string>
+    <key>arrowdown</key>
+    <string>arrowdown.glif</string>
+    <key>arrowright</key>
+    <string>arrowright.glif</string>
+    <key>colon</key>
+    <string>colon.glif</string>
+    <key>eogonek</key>
+    <string>eogonek.glif</string>
+    <key>hookabovecmb</key>
+    <string>hookabovecmb.glif</string>
+    <key>hookabovecmb.uc</key>
+    <string>hookabovecmb.uc.glif</string>
+    <key>iogonek</key>
+    <string>iogonek.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
+    <key>oe</key>
+    <string>oe.glif</string>
+    <key>ordfeminine</key>
+    <string>ordfeminine.glif</string>
+    <key>s</key>
+    <string>s.glif</string>
+  </dict>
+</plist>

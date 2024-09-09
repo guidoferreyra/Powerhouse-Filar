@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="544" y="0" type="line"/>
+      <point x="544" y="120" type="line"/>
+      <point x="56" y="120" type="line"/>
+      <point x="56" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="483" type="line"/>
+      <point x="56" y="358" type="line"/>
+      <point x="544" y="158" type="line"/>
+      <point x="544" y="285" type="line"/>
+      <point x="124" y="455" type="line"/>
+      <point x="124" y="386" type="line"/>
+      <point x="544" y="556" type="line"/>
+      <point x="544" y="683" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

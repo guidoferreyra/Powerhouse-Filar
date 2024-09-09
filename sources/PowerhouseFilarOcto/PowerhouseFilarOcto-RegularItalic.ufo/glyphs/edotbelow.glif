@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edotbelow" format="2">
+  <advance width="550"/>
+  <unicode hex="1EB9"/>
+  <outline>
+    <component base="e" identifier="DB8F0099"/>
+    <component base="dotbelowcmb" xOffset="-8" identifier="8BF58E53"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

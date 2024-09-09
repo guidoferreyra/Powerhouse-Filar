@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vturned" format="2">
+  <advance width="600"/>
+  <unicode hex="028C"/>
+  <outline>
+    <contour>
+      <point x="347" y="490" type="line"/>
+      <point x="251" y="490" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="319" y="442" type="line"/>
+      <point x="278" y="442" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="556" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>55243912</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+    <axes elidedfallbackname="Regular">
+        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+            <labels>
+                <label uservalue="400" name="Regular" linkeduservalue="700" elidable="true" />
+                <label uservalue="700" name="Bold"/>
+            </labels>
+        </axis>
+    </axes>
+    <rules>
+    </rules>
+    <sources>
+        <source filename="PowerhouseFilarMono-Regular.ufo" familyname="Powerhouse Filar Mono" stylename="Regular">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <features copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+        </source>
+        <source filename="PowerhouseFilarMono-Bold.ufo" familyname="Powerhouse Filar Mono" stylename="Bold">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance name="Powerhouse Filar Mono Regular" 
+            familyname="Powerhouse Filar Mono"
+            stylename="Regular"
+            stylemapfamilyname="Powerhouse Filar Mono"
+            filename="PowerhouseFilarMono-Regular.ufo">
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Mono Medium"
+            familyname="Powerhouse Filar Mono"
+            stylename="Medium"
+            stylemapfamilyname="Powerhouse Filar Mono Medium"
+            filename="PowerhouseFilarMono-Medium.ufo">
+            <location>
+                <dimension name="Weight" xvalue="500"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Mono Semibold"
+            familyname="Powerhouse Filar Mono"
+            stylename="Semibold"
+            stylemapfamilyname="Powerhouse Filar Mono Semibold"
+            filename="PowerhouseFilarMono-Semibold.ufo">
+            <location>
+                <dimension name="Weight" xvalue="600"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Mono Bold"
+            familyname="Powerhouse Filar Mono"
+            stylename="Bold"
+            stylemapfamilyname="Powerhouse Filar Mono"
+            filename="PowerhouseFilarMono-Bold.ufo">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+    </instances>
+</designspace>

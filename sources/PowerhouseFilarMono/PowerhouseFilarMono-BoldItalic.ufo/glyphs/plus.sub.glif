@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.sub" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="114" y="45" type="line"/>
+      <point x="414" y="45" type="line"/>
+      <point x="431" y="142" type="line"/>
+      <point x="131" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="251" type="line"/>
+      <point x="194" y="-64" type="line"/>
+      <point x="296" y="-64" type="line"/>
+      <point x="351" y="251" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:50:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

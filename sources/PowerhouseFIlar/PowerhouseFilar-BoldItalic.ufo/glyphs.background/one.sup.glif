@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sup" format="2">
+  <advance width="281"/>
+  <outline>
+    <contour>
+      <point x="117" y="800" type="line"/>
+      <point x="117" y="732"/>
+      <point x="98" y="711"/>
+      <point x="12" y="711" type="curve"/>
+      <point x="12" y="627" type="line"/>
+      <point x="171" y="627" type="line"/>
+      <point x="108" y="701" type="line"/>
+      <point x="108" y="408" type="line"/>
+      <point x="218" y="408" type="line"/>
+      <point x="218" y="800" type="line"/>
+    </contour>
+  </outline>
+</glyph>

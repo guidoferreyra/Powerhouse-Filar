@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhook" format="2">
+  <advance width="600"/>
+  <unicode hex="01B4"/>
+  <outline>
+    <contour>
+      <point x="193" y="-61" type="line"/>
+      <point x="285" y="116" type="line"/>
+      <point x="206" y="500" type="line"/>
+      <point x="65" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="535" y="346" type="line"/>
+      <point x="555" y="380"/>
+      <point x="578" y="396"/>
+      <point x="604" y="396" type="curve" smooth="yes"/>
+      <point x="612" y="396"/>
+      <point x="623" y="394"/>
+      <point x="632" y="390" type="curve"/>
+      <point x="654" y="498" type="line"/>
+      <point x="630" y="508"/>
+      <point x="604" y="512"/>
+      <point x="575" y="512" type="curve" smooth="yes"/>
+      <point x="514" y="512"/>
+      <point x="458" y="481"/>
+      <point x="420" y="412" type="curve" smooth="yes"/>
+      <point x="224" y="58" type="line"/>
+      <point x="204" y="32" type="line"/>
+      <point x="74" y="-180" type="line"/>
+      <point x="231" y="-180" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

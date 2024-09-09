@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde" format="2">
+  <advance width="600"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="398" y="232" type="curve" smooth="yes"/>
+      <point x="462" y="232"/>
+      <point x="540" y="294" name="inserted"/>
+      <point x="566" y="408" type="curve"/>
+      <point x="462" y="408" type="line"/>
+      <point x="449" y="371"/>
+      <point x="422" y="352" name="inserted"/>
+      <point x="393" y="352" type="curve" smooth="yes"/>
+      <point x="345" y="352"/>
+      <point x="286" y="400" name="inserted"/>
+      <point x="226" y="400" type="curve" smooth="yes"/>
+      <point x="162" y="400"/>
+      <point x="84" y="339" name="inserted"/>
+      <point x="59" y="225" type="curve"/>
+      <point x="163" y="225" type="line"/>
+      <point x="175" y="262"/>
+      <point x="202" y="280" name="inserted"/>
+      <point x="231" y="280" type="curve" smooth="yes"/>
+      <point x="279" y="280"/>
+      <point x="338" y="232" name="inserted"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:24:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

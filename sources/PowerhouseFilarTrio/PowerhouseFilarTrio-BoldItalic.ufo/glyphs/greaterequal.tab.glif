@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="31" y="120" type="line"/>
+      <point x="519" y="120" type="line"/>
+      <point x="498" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="561" y="358" type="line"/>
+      <point x="583" y="483" type="line"/>
+      <point x="130" y="683" type="line"/>
+      <point x="109" y="564" type="line"/>
+      <point x="499" y="394" type="line"/>
+      <point x="511" y="463" type="line"/>
+      <point x="61" y="293" type="line"/>
+      <point x="38" y="158" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.sub" format="2">
+  <advance width="350"/>
+  <outline>
+    <contour>
+      <point x="177" y="295" type="curve" smooth="yes"/>
+      <point x="97" y="295"/>
+      <point x="55" y="243"/>
+      <point x="55" y="178" type="curve" smooth="yes"/>
+      <point x="55" y="110"/>
+      <point x="102" y="69"/>
+      <point x="160" y="69" type="curve" smooth="yes"/>
+      <point x="208" y="69"/>
+      <point x="243" y="96"/>
+      <point x="251" y="146" type="curve"/>
+      <point x="231" y="146" type="line"/>
+      <point x="231" y="115" type="line" smooth="yes"/>
+      <point x="231" y="55"/>
+      <point x="217" y="7"/>
+      <point x="175" y="7" type="curve" smooth="yes"/>
+      <point x="151" y="7"/>
+      <point x="136" y="21"/>
+      <point x="133" y="47" type="curve"/>
+      <point x="56" y="58" type="line"/>
+      <point x="59" y="-7"/>
+      <point x="102" y="-48"/>
+      <point x="173" y="-48" type="curve" smooth="yes"/>
+      <point x="263" y="-48"/>
+      <point x="303" y="13"/>
+      <point x="303" y="130" type="curve" smooth="yes"/>
+      <point x="303" y="185"/>
+      <point x="296" y="217"/>
+      <point x="278" y="246" type="curve" smooth="yes"/>
+      <point x="257" y="277"/>
+      <point x="221" y="295"/>
+    </contour>
+    <contour>
+      <point x="177" y="123" type="curve" smooth="yes"/>
+      <point x="149" y="123"/>
+      <point x="127" y="144"/>
+      <point x="127" y="181" type="curve" smooth="yes"/>
+      <point x="127" y="218"/>
+      <point x="149" y="239"/>
+      <point x="177" y="239" type="curve" smooth="yes"/>
+      <point x="205" y="239"/>
+      <point x="227" y="218"/>
+      <point x="227" y="181" type="curve" smooth="yes"/>
+      <point x="227" y="144"/>
+      <point x="205" y="123"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>10A4F798</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

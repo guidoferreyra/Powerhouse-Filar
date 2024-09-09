@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex" format="2">
+  <advance width="300"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <contour>
+      <point x="218" y="892" type="line"/>
+      <point x="74" y="760" type="line"/>
+      <point x="201" y="760" type="line"/>
+      <point x="337" y="845" type="line"/>
+      <point x="229" y="845" type="line"/>
+      <point x="335" y="760" type="line"/>
+      <point x="454" y="760" type="line"/>
+      <point x="358" y="892" type="line"/>
+    </contour>
+    <component base="I" xOffset="25" identifier="C4CAB994"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C4CAB994</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

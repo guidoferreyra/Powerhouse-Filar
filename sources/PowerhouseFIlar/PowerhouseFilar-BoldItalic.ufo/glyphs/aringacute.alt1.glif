@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute.alt1" format="2">
+  <advance width="535"/>
+  <outline>
+    <component base="a.alt1"/>
+    <component base="ringabovecmb" xOffset="-31" yOffset="-21"/>
+    <component base="acutecmb.uc" xOffset="1" yOffset="18"/>
+  </outline>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="600"/>
+  <unicode hex="002A"/>
+  <guideline x="139" y="316" angle="320.8446" identifier="7kKAbu3Ebv"/>
+  <guideline x="395" y="259" angle="32.3474" identifier="OpEd49Nq7e"/>
+  <guideline x="575" y="495" angle="277.9575" identifier="Bk5BbIS3oe"/>
+  <guideline x="155" y="585" angle="64.4185" identifier="WILheLne5M"/>
+  <outline>
+    <contour>
+      <point x="209" y="259" type="line"/>
+      <point x="324" y="389" type="line"/>
+      <point x="395" y="259" type="line"/>
+      <point x="478" y="311" type="line"/>
+      <point x="408" y="439" type="line"/>
+      <point x="576" y="490" type="line"/>
+      <point x="562" y="588" type="line"/>
+      <point x="401" y="540" type="line"/>
+      <point x="427" y="700" type="line"/>
+      <point x="328" y="700" type="line"/>
+      <point x="301" y="537" type="line"/>
+      <point x="153" y="583" type="line"/>
+      <point x="111" y="493" type="line"/>
+      <point x="248" y="450" type="line"/>
+      <point x="133" y="322" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

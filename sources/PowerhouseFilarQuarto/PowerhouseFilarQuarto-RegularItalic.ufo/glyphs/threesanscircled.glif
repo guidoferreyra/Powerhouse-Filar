@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threesanscircled" format="2">
+  <advance width="760"/>
+  <unicode hex="2782"/>
+  <outline>
+    <contour>
+      <point x="242" y="281" type="line"/>
+      <point x="239" y="270"/>
+      <point x="238" y="260"/>
+      <point x="238" y="250" type="curve" smooth="yes"/>
+      <point x="238" y="182"/>
+      <point x="295" y="149"/>
+      <point x="368" y="149" type="curve" smooth="yes"/>
+      <point x="461" y="149"/>
+      <point x="528" y="206"/>
+      <point x="528" y="283" type="curve" smooth="yes"/>
+      <point x="528" y="320"/>
+      <point x="507" y="346"/>
+      <point x="471" y="357" type="curve"/>
+      <point x="509" y="368"/>
+      <point x="548" y="396"/>
+      <point x="548" y="452" type="curve" smooth="yes"/>
+      <point x="548" y="509"/>
+      <point x="505" y="553"/>
+      <point x="426" y="553" type="curve" smooth="yes"/>
+      <point x="347" y="553"/>
+      <point x="279" y="508"/>
+      <point x="272" y="428" type="curve"/>
+      <point x="347" y="432" type="line"/>
+      <point x="349" y="468"/>
+      <point x="379" y="493"/>
+      <point x="420" y="493" type="curve" smooth="yes"/>
+      <point x="458" y="493"/>
+      <point x="472" y="470"/>
+      <point x="472" y="446" type="curve" smooth="yes"/>
+      <point x="472" y="418"/>
+      <point x="453" y="387"/>
+      <point x="405" y="387" type="curve" smooth="yes"/>
+      <point x="372" y="387" type="line"/>
+      <point x="362" y="327" type="line"/>
+      <point x="392" y="327" type="line" smooth="yes"/>
+      <point x="434" y="327"/>
+      <point x="453" y="304"/>
+      <point x="453" y="276" type="curve" smooth="yes"/>
+      <point x="453" y="243"/>
+      <point x="426" y="209"/>
+      <point x="375" y="209" type="curve" smooth="yes"/>
+      <point x="333" y="209"/>
+      <point x="313" y="232"/>
+      <point x="313" y="258" type="curve" smooth="yes"/>
+      <point x="313" y="264"/>
+      <point x="314" y="270"/>
+      <point x="316" y="276" type="curve"/>
+    </contour>
+    <component base="circlewhite" identifier="459C6775"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:32 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>459C6775</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

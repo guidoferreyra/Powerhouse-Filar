@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfleftmod" format="2">
+  <advance width="600"/>
+  <unicode hex="02BF"/>
+  <outline>
+    <contour>
+      <point x="438" y="629" type="curve"/>
+      <point x="457" y="629" type="line"/>
+      <point x="470" y="700" type="line"/>
+      <point x="455" y="700" type="line" smooth="yes"/>
+      <point x="324" y="700"/>
+      <point x="260" y="613"/>
+      <point x="260" y="517" type="curve" smooth="yes"/>
+      <point x="260" y="427"/>
+      <point x="319" y="375"/>
+      <point x="405" y="375" type="curve" smooth="yes"/>
+      <point x="412" y="375" type="line"/>
+      <point x="425" y="446" type="line"/>
+      <point x="416" y="446" type="line" smooth="yes"/>
+      <point x="366" y="446"/>
+      <point x="337" y="478"/>
+      <point x="337" y="524" type="curve" smooth="yes"/>
+      <point x="337" y="580"/>
+      <point x="380" y="629"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

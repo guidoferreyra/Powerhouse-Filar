@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncmb.uc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="385" y="819" type="line"/>
+      <point x="387" y="787"/>
+      <point x="386" y="763"/>
+      <point x="383" y="744" type="curve" smooth="yes"/>
+      <point x="378" y="717"/>
+      <point x="357" y="700"/>
+      <point x="326" y="700" type="curve" smooth="yes"/>
+      <point x="252" y="700" type="line"/>
+      <point x="235" y="601" type="line"/>
+      <point x="355" y="601" type="line" smooth="yes"/>
+      <point x="432" y="601"/>
+      <point x="478" y="649"/>
+      <point x="490" y="715" type="curve" smooth="yes"/>
+      <point x="496" y="748"/>
+      <point x="496" y="785"/>
+      <point x="491" y="819" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:27:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

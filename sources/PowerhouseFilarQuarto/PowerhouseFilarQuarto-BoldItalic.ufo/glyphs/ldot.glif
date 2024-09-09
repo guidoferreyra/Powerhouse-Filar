@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="350"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="319" y="446" type="line"/>
+      <point x="293" y="303" type="line"/>
+      <point x="424" y="303" type="line"/>
+      <point x="450" y="446" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-12 05:29:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mdotbelow" format="2">
+  <advance width="880"/>
+  <unicode hex="1E43"/>
+  <outline>
+    <component base="m" identifier="D8410CCD"/>
+    <component base="dotbelowcmb" xOffset="141" identifier="DF883E02"/>
+  </outline>
+</glyph>

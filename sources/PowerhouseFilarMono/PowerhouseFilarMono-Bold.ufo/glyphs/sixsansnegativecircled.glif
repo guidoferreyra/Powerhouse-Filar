@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixsansnegativecircled" format="2">
+  <advance width="600"/>
+  <unicode hex="278F"/>
+  <outline>
+    <contour>
+      <point x="297" y="196" type="curve" smooth="yes"/>
+      <point x="248" y="196"/>
+      <point x="218" y="214"/>
+      <point x="198" y="244" type="curve" smooth="yes"/>
+      <point x="182" y="266"/>
+      <point x="174" y="299"/>
+      <point x="174" y="342" type="curve" smooth="yes"/>
+      <point x="174" y="441"/>
+      <point x="226" y="504"/>
+      <point x="308" y="504" type="curve" smooth="yes"/>
+      <point x="371" y="504"/>
+      <point x="408" y="467"/>
+      <point x="411" y="406" type="curve"/>
+      <point x="327" y="415" type="line"/>
+      <point x="326" y="431"/>
+      <point x="318" y="437"/>
+      <point x="305" y="437" type="curve" smooth="yes"/>
+      <point x="284" y="437"/>
+      <point x="265" y="420"/>
+      <point x="260" y="377" type="curve"/>
+      <point x="275" y="392"/>
+      <point x="297" y="400"/>
+      <point x="323" y="400" type="curve" smooth="yes"/>
+      <point x="380" y="400"/>
+      <point x="416" y="361"/>
+      <point x="416" y="300" type="curve" smooth="yes"/>
+      <point x="416" y="245"/>
+      <point x="377" y="196"/>
+    </contour>
+    <contour>
+      <point x="297" y="257" type="curve" smooth="yes"/>
+      <point x="318" y="257"/>
+      <point x="331" y="274"/>
+      <point x="331" y="299" type="curve" smooth="yes"/>
+      <point x="331" y="324"/>
+      <point x="318" y="342"/>
+      <point x="297" y="342" type="curve" smooth="yes"/>
+      <point x="276" y="342"/>
+      <point x="263" y="324"/>
+      <point x="263" y="299" type="curve" smooth="yes"/>
+      <point x="263" y="274"/>
+      <point x="276" y="257"/>
+    </contour>
+    <component base="circleblack" identifier="20FB306F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 12:54:17 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>20FB306F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

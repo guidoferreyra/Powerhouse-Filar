@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sub" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="293" y="290" type="line"/>
+      <point x="281" y="222"/>
+      <point x="262" y="201"/>
+      <point x="169" y="201" type="curve"/>
+      <point x="159" y="147" type="line"/>
+      <point x="303" y="147" type="line"/>
+      <point x="266" y="191" type="line"/>
+      <point x="214" y="-102" type="line"/>
+      <point x="289" y="-102" type="line"/>
+      <point x="359" y="290" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1A3C9543</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>3</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

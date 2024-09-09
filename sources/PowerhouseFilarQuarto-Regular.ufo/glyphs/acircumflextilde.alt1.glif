@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="acircumflextilde.alt1" format="2">
-  <advance width="535"/>
-  <outline>
-    <component base="a.alt1"/>
-    <component base="circumflexcmb_tildecmb" xOffset="-34"/>
-  </outline>
-</glyph>

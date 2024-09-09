@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="760"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="50" y="134" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="164" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="134" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="417" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="556" y="134" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="647" y="0" type="line"/>
+      <point x="670" y="134" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Lcaron" format="2">
-  <advance width="630"/>
-  <unicode hex="013D"/>
-  <outline>
-    <component base="L"/>
-    <component base="caroncmb.ucalt" xOffset="81"/>
-  </outline>
-</glyph>

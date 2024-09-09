@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+    <axes elidedfallbackname="Regular">
+        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+            <labels>
+                <label uservalue="400" name="Regular" linkeduservalue="700" elidable="true" />
+                <label uservalue="700" name="Bold"/>
+            </labels>
+        </axis>
+    </axes>
+    <rules>
+    </rules>
+    <sources>
+        <source filename="PowerhouseFilar-Regular.ufo" familyname="Powerhouse Filar" stylename="Regular">
+            <lib copy="1"/>
+            <groups copy="1"/>
+            <features copy="1"/>
+            <info copy="1"/>
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+        </source>
+        <source filename="PowerhouseFilar-Bold.ufo" familyname="Powerhouse Filar" stylename="Bold">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance name="Powerhouse Filar Regular" 
+            familyname="Powerhouse Filar"
+            stylename="Regular"
+            stylemapfamilyname="Powerhouse Filar"
+            filename="PowerhouseFilar-Regular.ufo">
+            <location>
+                <dimension name="Weight" xvalue="400"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Medium"
+            familyname="Powerhouse Filar"
+            stylename="Medium"
+            stylemapfamilyname="Powerhouse Filar Medium"
+            filename="PowerhouseFilar-Medium.ufo">
+            <location>
+                <dimension name="Weight" xvalue="500"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Semibold"
+            familyname="Powerhouse Filar"
+            stylename="Semibold"
+            stylemapfamilyname="Powerhouse Filar Semibold"
+            filename="PowerhouseFilar-Semibold.ufo">
+            <location>
+                <dimension name="Weight" xvalue="600"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+        <instance name="Powerhouse Filar Bold"
+            familyname="Powerhouse Filar"
+            stylename="Bold"
+            stylemapfamilyname="Powerhouse Filar"
+            filename="PowerhouseFilar-Bold.ufo">
+            <location>
+                <dimension name="Weight" xvalue="700"/>
+            </location>
+            <kerning/>
+            <info/>
+        </instance>
+    </instances>
+</designspace>

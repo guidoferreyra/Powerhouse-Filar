@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixsanscircled" format="2">
+  <advance width="760"/>
+  <unicode hex="2785"/>
+  <outline>
+    <contour>
+      <point x="367" y="149" type="curve" smooth="yes"/>
+      <point x="485" y="149"/>
+      <point x="541" y="234"/>
+      <point x="541" y="312" type="curve" smooth="yes"/>
+      <point x="541" y="377"/>
+      <point x="501" y="415"/>
+      <point x="434" y="415" type="curve" smooth="yes"/>
+      <point x="402" y="415"/>
+      <point x="374" y="405"/>
+      <point x="352" y="388" type="curve"/>
+      <point x="368" y="442"/>
+      <point x="398" y="465"/>
+      <point x="424" y="465" type="curve" smooth="yes"/>
+      <point x="442" y="465"/>
+      <point x="452" y="454"/>
+      <point x="449" y="436" type="curve"/>
+      <point x="556" y="425" type="line"/>
+      <point x="557" y="431"/>
+      <point x="558" y="439"/>
+      <point x="558" y="444" type="curve" smooth="yes"/>
+      <point x="558" y="512"/>
+      <point x="515" y="552"/>
+      <point x="436" y="552" type="curve"/>
+      <point x="331" y="552"/>
+      <point x="254" y="472"/>
+      <point x="232" y="346" type="curve" smooth="yes"/>
+      <point x="228" y="325"/>
+      <point x="226" y="305"/>
+      <point x="226" y="287" type="curve" smooth="yes"/>
+      <point x="226" y="201"/>
+      <point x="274" y="149"/>
+    </contour>
+    <contour>
+      <point x="336" y="274" type="curve" smooth="yes"/>
+      <point x="336" y="303"/>
+      <point x="354" y="340"/>
+      <point x="391" y="340" type="curve" smooth="yes"/>
+      <point x="414" y="340"/>
+      <point x="428" y="325"/>
+      <point x="428" y="298" type="curve" smooth="yes"/>
+      <point x="428" y="269"/>
+      <point x="411" y="230"/>
+      <point x="374" y="230" type="curve" smooth="yes"/>
+      <point x="350" y="230"/>
+      <point x="336" y="247"/>
+    </contour>
+    <component base="circlewhite" identifier="3DCC2831"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3DCC2831</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eacute" format="2">
+  <advance width="550"/>
+  <unicode hex="00E9"/>
+  <outline>
+    <component base="e" identifier="35EFEBEB"/>
+    <component base="acutecmb" xOffset="-2" identifier="BD103D2C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

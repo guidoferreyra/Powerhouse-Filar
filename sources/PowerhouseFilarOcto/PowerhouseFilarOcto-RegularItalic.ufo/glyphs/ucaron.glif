@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucaron" format="2">
+  <advance width="550"/>
+  <unicode hex="01D4"/>
+  <outline>
+    <component base="u" identifier="FB4A9628"/>
+    <component base="caroncmb" xOffset="-27" identifier="09B3A7B7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-27 03:52:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

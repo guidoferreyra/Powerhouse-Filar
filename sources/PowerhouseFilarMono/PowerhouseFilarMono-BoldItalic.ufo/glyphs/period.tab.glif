@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.tab" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="212" y="179" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="363" y="179" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 13:14:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

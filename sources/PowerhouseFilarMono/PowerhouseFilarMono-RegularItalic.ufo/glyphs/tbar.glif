@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="600"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="35" y="251" type="line"/>
+      <point x="520" y="251" type="line"/>
+      <point x="532" y="320" type="line"/>
+      <point x="47" y="320" type="line"/>
+    </contour>
+    <component base="t" identifier="6699E1B5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:02:18 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6699E1B5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rlinebelow" format="2">
+  <advance width="600"/>
+  <unicode hex="1E5F"/>
+  <outline>
+    <contour>
+      <point x="-17" y="-154" type="line"/>
+      <point x="251" y="-154" type="line"/>
+      <point x="264" y="-81" type="line"/>
+      <point x="-4" y="-81" type="line"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 20:55:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

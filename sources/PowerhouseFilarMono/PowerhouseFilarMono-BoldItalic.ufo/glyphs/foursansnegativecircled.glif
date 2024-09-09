@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursansnegativecircled" format="2">
+  <advance width="600"/>
+  <unicode hex="278D"/>
+  <outline>
+    <contour>
+      <point x="412" y="499" type="line"/>
+      <point x="380" y="319" type="line"/>
+      <point x="424" y="319" type="line"/>
+      <point x="412" y="252" type="line"/>
+      <point x="368" y="252" type="line"/>
+      <point x="359" y="199" type="line"/>
+      <point x="283" y="199" type="line"/>
+      <point x="292" y="252" type="line"/>
+      <point x="170" y="252" type="line"/>
+      <point x="182" y="322" type="line"/>
+      <point x="304" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="319" type="line"/>
+      <point x="304" y="319" type="line"/>
+      <point x="323" y="425" type="line"/>
+    </contour>
+    <component base="circleblack" identifier="83C5A94D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-20 21:14:44 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>83C5A94D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
