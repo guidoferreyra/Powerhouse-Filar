@@ -9,36 +9,66 @@ from fontParts.world import OpenFont
 import subprocess
 
 
-OUT_PATH = 'fonts/ttf-vf'
-ROOT = './temp'
+OUT_PATH = 'fonts/PowerhouseFilarSuper'
+ROOT = 'sources/PowerhouseFilarSuper'
 
-sourcesData = [
+romanSourcesData = [
         {
             'name': 'Proportional',
-            'designspace': 'sources/PowerhouseFilar.designspace',
+            'designspace': 'sources/PowerhouseFilar/PowerhouseFilar.designspace',
             'min': 0, 'max': 0.999, 'value': 0, 'elidable': True,
         },
         {
             'name': 'Octo',
-            'designspace': 'sources/PowerhouseFilarOcto.designspace', 
+            'designspace': 'sources/PowerhouseFilarOcto/PowerhouseFilarOcto.designspace',
             'min': 1, 'max': 1.999, 'value': 1, 'elidable': False
         },
         {
             'name': 'Quarto',
-            'designspace': 'sources/PowerhouseFilarQuarto.designspace', 
+            'designspace': 'sources/PowerhouseFilarQuarto/PowerhouseFilarQuarto.designspace',
             'min': 2, 'max': 2.999, 'value': 2, 'elidable': False
         },
         {   
             'name': 'Trio',
-            'designspace': 'sources/PowerhouseFilarTrio.designspace', 
+            'designspace': 'sources/PowerhouseFilarTrio/PowerhouseFilarTrio.designspace',
             'min': 3, 'max': 3.999, 'value': 3, 'elidable': False
         },
         {   
             'name': 'Mono',
-            'designspace': 'sources/PowerhouseFilarMono.designspace',
+            'designspace': 'sources/PowerhouseFilarMono/PowerhouseFilarMono.designspace',
             'min': 4, 'max': 5, 'value': 4, 'elidable': False
         }
     ]
+
+italicSourcesData = [
+        {
+            'name': 'Proportional',
+            'designspace': 'sources/PowerhouseFilar/PowerhouseFilar-Italic.designspace',
+            'min': 0, 'max': 0.999, 'value': 0, 'elidable': True,
+        },
+        {
+            'name': 'Octo',
+            'designspace': 'sources/PowerhouseFilarOcto/PowerhouseFilarOcto-Italic.designspace',
+            'min': 1, 'max': 1.999, 'value': 1, 'elidable': False
+        },
+        {
+            'name': 'Quarto',
+            'designspace': 'sources/PowerhouseFilarQuarto/PowerhouseFilarQuarto-Italic.designspace',
+            'min': 2, 'max': 2.999, 'value': 2, 'elidable': False
+        },
+        {   
+            'name': 'Trio',
+            'designspace': 'sources/PowerhouseFilarTrio/PowerhouseFilarTrio-Italic.designspace',
+            'min': 3, 'max': 3.999, 'value': 3, 'elidable': False
+        },
+        {   
+            'name': 'Mono',
+            'designspace': 'sources/PowerhouseFilarMono/PowerhouseFilarMono-Italic.designspace',
+            'min': 4, 'max': 5, 'value': 4, 'elidable': False
+        }
+    ]
+
+allSourcesData = [romanSourcesData, italicSourcesData]
 
 
 def copyGlyphs(originUFO, destinationUFO, suffix):
@@ -69,9 +99,8 @@ def copyFiles(designspacePath, outRoot):
 
     ignore = shutil.ignore_patterns(".git", ".git*")
 
-    os.mkdir(outRoot)
 
-    newDesignspacePath = os.path.join(outRoot, os.path.split(designspacePath)[1])
+    newDesignspacePath = os.path.join(outRoot, os.path.split(designspacePath)[1].replace("Filar", "FilarSuper"))
 
     shutil.copy(designspacePath, newDesignspacePath)
 
@@ -102,7 +131,7 @@ def prepSources(designspacePath, sourcesData):
 
     # Change UFO Metadata
     for key, baseUfo in baseUFOs.items():
-        baseUfo.info.familyName = f"Powerhouse Filar Super VF"
+        baseUfo.info.familyName = "Powerhouse Filar Super VF"
 
     # ----------------------- Add UNIT Axis to designspace ----------------------- #
     axisMinValue = min([data['min'] for data in sourcesData])
@@ -207,19 +236,22 @@ if __name__ == "__main__":
     print("Copying files")
     if os.path.exists(ROOT):
         shutil.rmtree(ROOT)
+    else:
+        os.mkdir(ROOT)
 
-    # Copy BASE UFO and designspace
-    baseDesignspacePath = sourcesData[0]['designspace']
-    tempDesignspacePath = copyFiles(baseDesignspacePath, ROOT)
+    for sourcesData in allSourcesData:
+        # Copy BASE UFO and designspace
+        baseDesignspacePath = sourcesData[0]['designspace']
+        tempDesignspacePath = copyFiles(baseDesignspacePath, ROOT)
 
-    print("Preparing sources")
-    prepSources(tempDesignspacePath, sourcesData)
+        print("Preparing sources")
+        prepSources(tempDesignspacePath, sourcesData)
 
-    print("Building variable font")
-    subprocess.run(["fontmake",
-                    "-m", tempDesignspacePath,
-                    "-o", "variable",
-                    "--output-dir", OUT_PATH,
-                    ])
+    # print("Building variable font")
+    # subprocess.run(["fontmake",
+    #                 "-m", tempDesignspacePath,
+    #                 "-o", "variable",
+    #                 "--output-dir", OUT_PATH,
+    #                 ])
 
     # shutil.rmtree(ROOT)

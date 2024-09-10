@@ -19,6 +19,9 @@ venv-test: venv-test/touchfile
 customize: venv
 	. venv/bin/activate; python3 scripts/customize.py
 
+dev: venv
+	(for config in sources/config*Super.yaml; do . venv/bin/activate; gftools builder $$config; done)
+
 build.stamp: venv
 	rm -rf fonts
 	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp

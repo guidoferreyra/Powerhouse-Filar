@@ -1,0 +1,105 @@
+sources:
+  - PowerhouseFilarSuper/PowerhouseFilarSuper.designspace
+  - PowerhouseFilarSuper/PowerhouseFilarSuper-Italic.designspace
+outputDir: ../fonts/PowerhouseFilarSuper  
+familyName: "Powerhouse Filar Super"
+buildStatic: false
+stat:
+  PowerhouseFilarSuper[UNIT,wght].ttf:
+  - name: Unitisation
+    tag: UNIT
+    values:
+    - name: Proportional
+      value: 0
+      nominalValue: 0
+      rangeMinValue: 0
+      rangeMaxValue: 0.999
+      flags: 2
+    - name: Octo
+      value: 1
+      nominalValue: 1
+      rangeMinValue: 1
+      rangeMaxValue: 1.999
+    - name: Trio
+      value: 2
+      nominalValue: 2
+      rangeMinValue: 2
+      rangeMaxValue: 2.999
+    - name: Duo
+      value: 3
+      nominalValue: 3
+      rangeMinValue: 3
+      rangeMaxValue: 3.999
+    - name: Mono
+      value: 4
+      nominalValue: 4
+      rangeMinValue: 4
+      rangeMaxValue: 5                  
+  - name: Weight
+    tag: wght
+    values:
+    - name: Regular
+      value: 400
+      linkedValue: 700
+      flags: 2
+    - name: Medium
+      value: 500
+    - name: SemiBold
+      value: 600
+    - name: Bold
+      value: 700
+  - name: Italic
+    tag: ital
+    values:
+    - name: Roman
+      value: 0
+      linkedValue: 1
+      flags: 2
+  PowerhouseFilarSuper-Italic[UNIT,wght].ttf:
+  - name: Unitisation
+    tag: UNIT
+    values:
+    - name: Proportional
+      value: 0
+      nominalValue: 0
+      rangeMinValue: 0
+      rangeMaxValue: 0.999
+      flags: 2
+    - name: Octo
+      value: 1
+      nominalValue: 1
+      rangeMinValue: 1
+      rangeMaxValue: 1.999
+    - name: Trio
+      value: 2
+      nominalValue: 2
+      rangeMinValue: 2
+      rangeMaxValue: 2.999
+    - name: Duo
+      value: 3
+      nominalValue: 3
+      rangeMinValue: 3
+      rangeMaxValue: 3.999
+    - name: Mono
+      value: 4
+      nominalValue: 4
+      rangeMinValue: 4
+      rangeMaxValue: 5
+  - name: Weight
+    tag: wght
+    values:
+    - name: Regular
+      value: 400
+      linkedValue: 700
+      flags: 2
+    - name: Medium
+      value: 500
+    - name: SemiBold
+      value: 600
+    - name: Bold
+      value: 700
+  - name: Italic
+    tag: ital
+    values:
+    - name: Italic
+      value: 1  
