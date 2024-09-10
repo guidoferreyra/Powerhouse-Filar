@@ -3,6 +3,7 @@ sources:
   - PowerhouseFilarSuper/PowerhouseFilarSuper-Italic.designspace
 outputDir: ../fonts/PowerhouseFilarSuper  
 familyName: "Powerhouse Filar Super"
+buildWebfont: true
 buildStatic: false
 stat:
   PowerhouseFilarSuper[UNIT,wght].ttf:
