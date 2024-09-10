@@ -1,12 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
     <axes elidedfallbackname="Regular">
-        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
-            <labels>
-                <label uservalue="400" name="Regular" linkeduservalue="700" elidable="true" />
-                <label uservalue="700" name="Bold"/>
-            </labels>
-        </axis>
+        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400"/>
     </axes>
     <rules>
     </rules>

@@ -65,8 +65,9 @@
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 
-@figs = [ zero one two three four five six seven eight nine ];
-@tabs = [ zero.tab one.tab two.tab three.tab four.tab five.tab six.tab seven.tab eight.tab nine.tab ];
+@figs = [ zero one two three four five six seven eight nine];
+@tab_off = [ zero one two three four five six seven eight nine percent period comma colon plus minus plusminus divide multiply equal less greater lessequal greaterequal approxequal notequal currency dollar cent sterling yen colonmonetary naira newsheqel dong Euro guarani cedi turkishlira manat bitcoin indianrupee fhook ];
+@tab_on = [ zero.tab one.tab two.tab three.tab four.tab five.tab six.tab seven.tab eight.tab nine.tab percent.tab period.tab comma.tab colon.tab plus.tab minus.tab plusminus.tab divide.tab multiply.tab equal.tab less.tab greater.tab lessequal.tab greaterequal.tab approxequal.tab notequal.tab currency.tab dollar.tab cent.tab sterling.tab yen.tab colonmonetary.tab naira.tab newsheqel.tab dong.tab Euro.tab guarani.tab cedi.tab turkishlira.tab manat.tab bitcoin.tab indianrupee.tab fhook.tab ];
 @subs = [ zero.sub one.sub two.sub three.sub four.sub five.sub six.sub seven.sub eight.sub nine.sub ];
 @sups = [ zero.sup one.sup two.sup three.sup four.sup five.sup six.sup seven.sup eight.sup nine.sup ];
 @nums = [ zero.num one.num two.num three.num four.num five.num six.num seven.num eight.num nine.num ];
@@ -215,7 +216,7 @@ feature sups {
 } sups;
 
 feature tnum {
-    sub @figs by @tabs;
+    sub @tab_off by @tab_on;
 } tnum;
 
 feature ordn {
@@ -274,7 +275,6 @@ feature ss06 {
     };
     sub bullet by bullet.large;
 } ss06;
-
 ### close prefix 'Prefix' ###
 
 ### feature:-1:mark ###

@@ -1,17 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
-    <axes elidedfallbackname="Regular">
-        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
-            <labels>
-                <label uservalue="400" name="Regular" linkeduservalue="700" elidable="true" />
-                <label uservalue="700" name="Bold"/>
-            </labels>
-        </axis>
+    <axes>
+        <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400"/>
     </axes>
     <rules>
     </rules>
     <sources>
-        <source filename="PowerhouseFilar-RegularItalic.ufo" familyname="Powerhouse Filar" stylename="Regular Italic">
+        <source filename="PowerhouseFilar-RegularItalic.ufo" familyname="Powerhouse Filar" stylename="Italic">
             <lib copy="1"/>
             <groups copy="1"/>
             <features copy="1"/>
@@ -27,12 +22,12 @@
         </source>
     </sources>
     <instances>
-        <instance name="Powerhouse Filar Regular Italic"
+        <instance name="Powerhouse Filar Italic"
             familyname="Powerhouse Filar"
-            stylename="Regular Italic"
+            stylename="Italic"
             stylemapfamilyname="Powerhouse Filar"
             stylemapstylename="italic"
-            filename="PowerhouseFilar-Italic.ufo">
+            filename="PowerhouseFilar-RegularItalic.ufo">
             <location>
                 <dimension name="Weight" xvalue="400"/>
             </location>

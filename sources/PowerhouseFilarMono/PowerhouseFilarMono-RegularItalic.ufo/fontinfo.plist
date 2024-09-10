@@ -49,7 +49,7 @@
       <integer>2</integer>
       <integer>11</integer>
       <integer>8</integer>
-      <integer>3</integer>
+      <integer>9</integer>
       <integer>3</integer>
       <integer>2</integer>
       <integer>2</integer>
@@ -114,8 +114,6 @@
       <real>-192.0</real>
       <real>-180.0</real>
     </array>
-    <key>postscriptFontName</key>
-    <string>PowerhouseFilarMono-Regular</string>
     <key>postscriptIsFixedPitch</key>
     <true/>
     <key>postscriptNominalWidthX</key>
@@ -140,7 +138,7 @@
     <key>postscriptUnderlineThickness</key>
     <integer>75</integer>
     <key>styleName</key>
-    <string>Regular Italic</string>
+    <string>Italic</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>

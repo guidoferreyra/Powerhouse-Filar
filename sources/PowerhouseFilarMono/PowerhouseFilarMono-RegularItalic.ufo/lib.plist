@@ -916,7 +916,7 @@
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.master.name</key>
-    <string>Regular Italic</string>
+    <string>Italic</string>
     <key>com.schriftgestaltung.useGlyphOrder</key>
     <true/>
     <key>com.schriftgestaltung.useNiceNames</key>
