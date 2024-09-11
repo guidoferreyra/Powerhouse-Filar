@@ -19,10 +19,13 @@ venv-test: venv-test/touchfile
 customize: venv
 	. venv/bin/activate; python3 scripts/customize.py
 
-dev: venv
+prep: venv
+	. venv/bin/activate; python3 scripts/prepSuperFont.py
+
+dev: venv prep
 	(for config in sources/config*Super.yaml; do . venv/bin/activate; gftools builder $$config; done)
 
-build.stamp: venv
+build.stamp: venv prep
 	rm -rf fonts
 	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
 
@@ -37,8 +40,7 @@ venv-test/touchfile: requirements-test.txt
 	touch venv-test/touchfile
 
 test: venv-test build.stamp
-	TOCHECK=$$(find fonts/Geist/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/Geist/ttf -type f 2>/dev/null); fi ; . venv-test/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --full-lists --succinct --badges out/badges --html out/fontbakery/Geist-fontbakery-report.html --ghmarkdown out/fontbakery/Geist-fontbakery-report.md $$TOCHECK  || echo '::warning file=sources/config-Geist.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
-	TOCHECK=$$(find fonts/GeistMono/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/GeistMono/ttf -type f 2>/dev/null); fi ; . venv-test/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --full-lists --succinct --badges out/badges --html out/fontbakery/GeistMono-fontbakery-report.html --ghmarkdown out/fontbakery/GeistMono-fontbakery-report.md $$TOCHECK  || echo '::warning file=sources/config-GeistMono.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
+	TOCHECK=$$(find fonts/PowerhouseFilar/variable -type f 2>/dev/null); if [ -z "$$TOCHECK" ]; then TOCHECK=$$(find fonts/PowerhouseFilar/ttf -type f 2>/dev/null); fi ; . venv-test/bin/activate; mkdir -p out/ out/fontbakery; fontbakery check-googlefonts -l WARN --full-lists --succinct --badges out/badges --html out/fontbakery/Geist-fontbakery-report.html --ghmarkdown out/fontbakery/Geist-fontbakery-report.md $$TOCHECK  || echo '::warning file=sources/config-Geist.yaml,title=Fontbakery failures::The fontbakery QA check reported errors in your font. Please check the generated report.'
 
 clean:
 	rm -rf venv
