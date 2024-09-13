@@ -236,8 +236,8 @@ if __name__ == "__main__":
     print("Copying files")
     if os.path.exists(ROOT):
         shutil.rmtree(ROOT)
-    else:
-        os.mkdir(ROOT)
+    
+    os.mkdir(ROOT)
 
     for sourcesData in allSourcesData:
         # Copy BASE UFO and designspace
