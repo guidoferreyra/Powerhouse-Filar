@@ -1,6 +1,6 @@
 # Powerhouse Filar
 
-Powerhouse Filar is the house typeface of the Powerhouse Museum, the largest museum group in Australia. It is inspired by the museum’s extensive collection of objects, specifically typewriters, analog rulers as well as the largest concentration of specimens from F.T. Wimble’s Australian Type Foundry. Powerhouse Filar was commissioned with the intention of becoming a collection object itself and as a salve to institutional protectionism and  to reinforce the Museum as a living, breathing and permeable institution, the typeface is available to the public under the SIL Open Font License.
+Powerhouse Filar is the house typeface of the Powerhouse Museum, the largest museum group in Australia. It is inspired by the museum’s extensive collection of objects, specifically typewriters, analog rulers as well as the largest concentration of specimens from F.T. Wimble’s Australian Type Foundry. Powerhouse Filar was commissioned with the intention of becoming a collection object itself and to reinforce the Museum as a living, breathing and permeable institution, the typeface is available to the public under the SIL Open Font License.
 
 Powerhouse Filar is a family made up of 4 duplexed weights in roman and italic across 5 unitisation logics, Proportional, Octo, Quarto, Trio and Mono.
 
