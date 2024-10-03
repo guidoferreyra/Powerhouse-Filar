@@ -6,14 +6,15 @@ Powerhouse Filar consists of 4 multiplexed weights in roman and italic styles ac
 
 [Download the latest fonts]().
 
-
-![PowerhouseFilar-0](https://github.com/user-attachments/assets/e1d6e9b6-255b-4476-addd-1c65aa9bb30a)
+![PowerhouseFilar-0](https://github.com/user-attachments/assets/91aef46e-7aa8-4a91-90bb-951b4260e2e9)
 
 ![PowerhouseFilar-04](https://github.com/user-attachments/assets/0a0f5257-3b08-4e94-a8b5-0bb1467ff081)
 
 ![PowerhouseFilar-03](https://github.com/user-attachments/assets/d6816b14-35aa-4d8a-9383-948fac2a08d7)
 
 ![PowerhouseFilar-05](https://github.com/user-attachments/assets/78934499-3d91-45a2-ac7d-04084bd83255)
+
+
 
 ## About
 
@@ -28,6 +29,7 @@ Powerhouse Filar features a unique approach to spacing, a reference to the exten
 The concept of unitisation is built into the historical development of typewriters as manufacturers wrestled with the mechanics of the carriage and platen. It is also inspired by a much earlier innovation called the Self-Spacing Type by Linn Boyd Benton in 1883. Benton sought to reduce the time it took to justify metal type by casting letters on a number of pre-determined widths. This enabled the compositor to justify a line of type much quicker, Benton boasting an ‘increase in composition speeds by 25%’.  
 
 ![PowerhouseFilar-07](https://github.com/user-attachments/assets/388aa722-eddb-4136-9306-596a780b45c0)
+
 ![PowerhouseFilar-08](https://github.com/user-attachments/assets/692a13d7-fff0-4201-aa4d-1e14a2abfc17)
 
 See also [Carved, Hewn, Encoded: A New Typographic Palette for Powerhouse](https://powerhouse.com.au/stories/carved-hewn-encoded)
