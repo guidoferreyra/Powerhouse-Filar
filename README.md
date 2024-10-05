@@ -45,7 +45,6 @@ If you want to build fonts manually on your own computer:
 * `make build` will produce font files.
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 
-
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
