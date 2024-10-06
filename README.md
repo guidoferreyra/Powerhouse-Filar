@@ -8,11 +8,9 @@ Powerhouse Filar consists of 4 multiplexed weights in roman and italic styles ac
 
 ![PowerhouseFilar-12](https://github.com/user-attachments/assets/dd8c952d-c3ac-4dfa-9d84-ed719fc3b25e)
 
-![PowerhouseFilar-15](https://github.com/user-attachments/assets/4cb687b2-14b6-4e0e-b2d4-780561daf18a)
-
 ![PowerhouseFilar-04](https://github.com/user-attachments/assets/0a0f5257-3b08-4e94-a8b5-0bb1467ff081)
 
-![PowerhouseFilar-13](https://github.com/user-attachments/assets/e55b1439-2dcb-4400-b2f8-abca331bb2ef)
+![PowerhouseFilar-16](https://github.com/user-attachments/assets/48de973c-1b7c-469e-a873-4da44d19015b)
 
 ![PowerhouseFilar-05](https://github.com/user-attachments/assets/78934499-3d91-45a2-ac7d-04084bd83255)
 
