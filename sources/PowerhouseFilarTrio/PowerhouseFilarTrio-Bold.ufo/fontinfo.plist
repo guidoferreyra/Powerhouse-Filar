@@ -160,13 +160,13 @@
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <integer>78</integer>
-      <integer>86</integer>
+      <integer>120</integer>
+      <integer>115</integer>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>92</integer>
-      <integer>96</integer>
+      <integer>155</integer>
+      <integer>140</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-75</integer>

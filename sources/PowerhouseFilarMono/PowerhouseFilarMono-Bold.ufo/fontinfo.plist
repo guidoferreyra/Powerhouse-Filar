@@ -186,13 +186,13 @@
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <integer>124</integer>
-      <integer>116</integer>
+      <integer>120</integer>
+      <integer>115</integer>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>151</integer>
-      <integer>141</integer>
+      <integer>155</integer>
+      <integer>140</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-75</integer>
