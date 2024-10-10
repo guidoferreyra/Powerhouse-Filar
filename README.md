@@ -1,6 +1,6 @@
 # Powerhouse Filar
 
-Powerhouse Filar is the house typeface of the Powerhouse Museum, the largest museum group in Australia. It is inspired by the museum’s vast collection of objects, specifically its extensive array of typewriters, analog rulers and the largest concentration of specimens from F.T. Wimble’s Australian Type Foundry. Powerhouse Filar was commissioned with the intention of becoming a collection object itself and — to reinforce the Museum’s position as a living, breathing and permeable institution — the typeface is made available here under the SIL Open Font License.
+Powerhouse Filar is the house typeface of the Powerhouse Museum, the largest museum group in Australia. It is inspired by the institution’s vast collection of objects, specifically its extensive array of typewriters, analog rulers and the largest concentration of specimens from F.T. Wimble’s Australian Type Foundry. Powerhouse Filar was commissioned with the intention of joining the collection itself and — to reinforce the Museum’s position as a living, breathing and permeable institution — the typeface is made available here under the SIL Open Font License.
 
 Powerhouse Filar consists of 4 multiplexed weights in roman and italic styles across 5 unitisation logics, Proportional, Octo, Quarto, Trio and Mono.
 
@@ -20,7 +20,7 @@ Powerhouse Filar consists of 4 multiplexed weights in roman and italic styles ac
 
 ## About
 
-Powerhouse Filar was commissioned by Studio Ongarato and drawn by Vincent Chan ([Matter of Sorts](http://www.matterofsorts.com)) and Wei Huang. It takes cues from various anonymous gothics in the early specimens of Wimble’s Australian Type Foundry, namely Sanserif No. 1 and 2 and Gothic No. 1.
+Powerhouse Filar was commissioned by Studio Ongarato and drawn by Vincent Chan ([Matter of Sorts](http://www.matterofsorts.com)) and ([Wei Huang](https://weiweihuanghuang.github.io/)). It takes cues from various anonymous gothics in the early specimens of Wimble’s Australian Type Foundry, namely Sanserif No. 1 and 2 and Gothic No. 1.
 
 ![TwoLineBrevier-Sanserif-No1-Neg](https://github.com/user-attachments/assets/8425b23d-9c03-4ba3-bb52-f4ac38f3641e)
 
@@ -28,7 +28,7 @@ These generic faces were imported from British foundries such as Stephenson Blak
 
 Powerhouse Filar features a unique approach to spacing, a reference to the extensive collection of typewriters in the collection. Across four unitisation logics, the typeface moves from the even texture of a proportionally spaced font to one that employs only eight possible letter widths (Octo), four possible widths (Quarto), three possible widths (Trio) and finally a conventional monospaced font. This creates a curious spectrum between text with an even colour to something more like data, from letters to be absorbed to letters to be parsed.
 
-The concept of unitisation is built into the historical development of typewriters as manufacturers wrestled with the mechanics of the carriage and platen. It is also inspired by a much earlier innovation called the Self-Spacing Type by Linn Boyd Benton in 1883. Benton sought to reduce the time it took to justify metal type by casting letters on a number of pre-determined widths. This enabled the compositor to justify a line of type much quicker, Benton boasting an ‘increase in composition speeds by 25%’.  
+The concept of unitisation is built into the historical development of typewriters as manufacturers wrestled with the mechanics of the carriage and platen. It is also inspired by a much earlier innovation called the Self-Spacing Type by Linn Boyd Benton in 1883. Benton sought to reduce the time it took to justify metal type by casting letters on a number of pre-determined widths.
 
 ![PowerhouseFilar-07](https://github.com/user-attachments/assets/388aa722-eddb-4136-9306-596a780b45c0)
 Benton’s Self Spacing Type, https://archive.org/details/BentonWaldoSpecimenBooklet1886/benton-waldo-specimen-booklet-1886-sos-0600dpijpg/
